@@ -6,24 +6,19 @@ Dan.Edens@geo-instruments.com
 
 # Skills Summary
 
-• Superior communication and leadership
 • Experienced Lab and Field Technician with excellent interpersonal skills. 
 
-•
+<!-- • Superior communication and leadership skills -->
 
+• Self Motivated, Self Sufficient, and Dependable.  
 
+• Experienced Surveyor and Monitoring specialist  
 
-• Self Motivated, Self Sufficient, and  Dependable.
+• As a Project coordinator, my role was to plan, install, maintain various sensors across a variety of jobsites.  
 
-• Experienced Surveyor and Monitoring specialist 
+• Large-scale Construction Monitoring projects Data collection, Risk mitigation, Compliance documentation.  
 
-• As a Project coordinator, my role was to plan, install, maintain various sensors across a variety of jobsites. 
-
-• Large-scale Construction Monitoring projects Data collection, Risk mitigation, Compliance documentation. 
-
-• Professional experience with PHP, Python, NodeJS, Javascript, Java, Andriod, Quickbooks, Kanban, 
-  
-  Campbell Scientific dataloggers via Visual Basic, Corascript, matlab, Networking, SQL, MQTT, HTTP
+• Professional experience with PHP, Python, NodeJS, Javascript, Java, Andriod, Quickbooks, Kanban, Campbell Scientific dataloggers via Visual Basic, Corascript, matlab, Networking, SQL, MQTT, HTTP
 
 
 • Hobbyest experience with C++, Java, Cmd, Sh, Powershell, Lua, Html, 
@@ -61,24 +56,23 @@ Fork Lifts, and Bucket trucks.
 In addition to this Project managment role. I heavily engaged myself in our Apps and Software departments.  
 I created several apps to assist with maintaining and saftey operating on our .  
 
-Apps designed and deployed:
+## Apps designed and deployed:  
 ---
 1. AMTSworkshop -  
     *Migration of 20 years worth of cambell scientic datalogger programs into Git.  
-    Over 70 branches with diffrent campbell datalogger programs. •Programs are Propritary•*
+    Over 70 branches with diffrent campbell datalogger programs. •Programs are Propritary•*  
     
     Utlizes self-hosted Azure DevOps pipelines to maintain updated versions of project specific software to instruments deployed in the field.  
     
-    Used to write AMTS control programs for R&D projects
+    Used to write AMTS control programs for R&D projects  
 
-1. Interface panel  
+1. Interface Panel  
     Gui for assigning jobsite related scripts to Mobile device events including shake, hardware buttons, and/or voice commands.  
     Used to the purpose of safely operating sensors in hazardous environments.  
     Jobsite files autosorter, Photos, reciepts, notes.
     Site specific SOS texts
     Timesheet suggestion
     Precon Survey Orginization tools
-    
 
 1. Sitecheck Scanner  
     Written orginally in Nodejs than migrated to python for Apps team's benifit.  
@@ -89,20 +83,20 @@ Apps designed and deployed:
 1. Timelapse_factory  
     Webscrapper for retriveing daily images of data graphed on our Quickview platform, and compling them over SiteCam images to create a Timelapse GIF, To Comparing the excavation with the data.
 
-1. Sitecheck
-    Assist field techs with keeping an eye on multble projects while working in the field.
+1. Sitecheck  
+    Assist field techs with keeping an eye on multble projects while working in the field.  
     Python tool for Project managers and Apps team to pull project data and copy it into status emails.  
     Website servers run a script perodically that does a SQL query for sensors missing longer than 22 hours. Results are than published to a mqtt server, where data is retrieved by front end Users without needing access to the database.  
     
 1. Lnet  
-    Internal GUI replacement for Campbell scientic's loggerlink.
-    Andriod App that controls Topcon Automated total stations.
+    Internal GUI replacement for Campbell scientic's loggerlink.  
+    Andriod App that controls Topcon Automated total stations.  
     
-    Added useful features specific to our field tech's needs while learning points on Jobsites.
-     . Less in-field time required to locate Survey targets using remote grid coordinates system.
+    Added useful features specific to our field tech's needs while learning points on Jobsites.  
+     . Less in-field time required to locate Survey targets using remote grid coordinates system.  
 
     Cora  
-     Lightweight and scalable MQTT based backend which pipes messages into xargs for lamda-style settings retrieval and non-blocking control of several Units simulatiously through calls to the Cambpell Scientfic loggernet CLI, Corascript.
+     Lightweight and scalable MQTT based backend which pipes messages into xargs for lamda-style settings retrieval and non-blocking control of several Units simulatiously through calls to the Cambpell Scientfic loggernet CLI, Corascript.  
      
 
 1. Geo Battery Bot  
@@ -122,7 +116,7 @@ Apps designed and deployed:
 
 ## Chili's Grill and Bar - 4570 TX-121, Lewisville, TX 75056 - (214) 494-6341
 > Prep Cook 01/2016 to 06/2018
-• Motivated food industry worker offering over 5 years of experience. 
+• Motivated food industry worker offering over 5 years of experience.  
 1. Maintained a show-ready kitchen and interacting with potential franchise owners and international guests to showcase the ideal Chili’s.  
 1. Took part of franchise showcases and assisted in filming of recent television commercials.  
 1. Handled training and assisted other team members with managing workload through efficient methods.  
@@ -179,7 +173,11 @@ Focused on coursework in Mathematics and Intro to C++
 <!-- Ryan Opelt  
 Manager at Chili's Castle Hills, Known 2 years  
 (214) 430-6289   -->
+
+
 #  Projects:  
-1. https://www.geo-instruments.com/mse-wall-repair/  
+
+1. [MSE Wall Repair](https://www.geo-instruments.com/mse-wall-repair/  )
     > Planned and executed Monitoring plan for a collaposed MSE wall in Fort Worth, Tx.  
-    >  Designed website and 
+    > Monitored for movement during wall repair.  
+    > Built and Maintained Client website displaying Tiltmeter and AMTS Data.  
