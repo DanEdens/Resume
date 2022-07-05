@@ -12,11 +12,6 @@ Dan.Edens@geo-instruments.com
 
 • Self Motivated, Self Sufficient, and Dependable.  
 
-• Experienced Surveyor and Monitoring specialist  
-
-• As a Project coordinator, my role was to plan, install, maintain various sensors across a variety of jobsites.  
-
-• Data collection, Risk mitigation, Compliance documentation.  
 
 • Professional experience with PHP, Python, NodeJS, Javascript, Java, Andriod, Quickbooks, Kanban, Campbell Scientific dataloggers via Visual Basic, Corascript, matlab, Networking, SQL, MQTT, HTTP, Windows, and Linux  
 Azure, Gitlab, Self Hosted Agent Runners 
@@ -31,17 +26,27 @@ Automated DevOps Boards, Vesion Control, and Cloud security groups, elastic IPs 
 
 • Experience using  
 
+
+<!-- Backend -->
 Azure, AWS, and self hosted Cloud Agents, 
 CI/CD, 
 Lamp stack
 Windows, Linux, and Android virtual Machines  
 
+<!-- shop -->
 
 • Experience with Solar controllers, Manufacturing Sensors, and Battery desfulating, electrical wiring, and ordering Inventory.  
-
 • Strong mechanical aptitude.  
 Professional experience operating 3d Printers, CNC routers, Boom Lifts, Fork Lifts, and Bucket trucks. 
-Previously Certified as an ACI Concrete technicain.
+
+<!-- Field -->
+<!-- Previously Certified as an ACI Concrete technicain. -->
+
+<!-- • Experienced Surveyor and Monitoring specialist   -->
+
+<!-- • As a Project coordinator, my role was to plan, install, maintain various sensors across a variety of jobsites.   -->
+
+<!-- • Data collection, Risk mitigation, Compliance documentation.   -->
 
 • Experience in Dangerous Environments including:
 > Dams, 
@@ -68,47 +73,50 @@ Previously Certified as an ACI Concrete technicain.
 In addition to this Project managment role. I heavily engaged myself in our Apps and Software departments.  
 I created several apps to assist with maintaining and saftey operating on our .  
 
-## Apps designed and deployed:  
+## Apps Designed and Deployed:  
 ---
 1. AMTSworkshop -  
     *Migration of 20 years worth of cambell scientic datalogger programs into Git.  
-    Over 70 branches with diffrent campbell datalogger programs. •Programs are Propritary•*  
-    
-    Utlizes self-hosted Azure DevOps pipelines to maintain updated versions of project specific software to instruments deployed in the field.  
-    
-    Used to write AMTS control programs for R&D projects  
+    - Utlized self-hosted Devop's runners to maintain versions of project specific control software for Campbells instruments deployed in the field.  
+    - Used to write AMTS control programs for R&D projects  
+    - 
 
 1. Interface Panel  
-    Gui for assigning jobsite related scripts to Mobile device events including shake, hardware buttons, and/or voice commands.  
-    Used to the purpose of safely operating sensors in hazardous environments.  
-    Jobsite files autosorter, Photos, reciepts, notes.
-    Site specific SOS texts
-    Timesheet suggestion
-    Precon Survey Orginization tools
+    [Download on Taskernet]()
+    - Gui for assigning jobsite related scripts to Mobile device events including shake, hardware buttons, and/or voice commands.  
+    - Used to the purpose of safely operating sensors in hazardous environments.  
+    - Jobsite files autosorter, Photos, reciepts, notes.
+    - Site specific SOS texts
+    - Timesheet suggestion
+    - Precon Survey Orginization tools
 
 1. Sitecheck Scanner  
-    Written orginally in Nodejs than migrated to python for Apps team's benifit.  
-    CLI for end-to-end testing client websites.  
-    Webscrapper walked through both styles of website and compared current data with past data to alert us of changes. 
-    Results were orginized by project and send via Team's card to the Project managers assosiated with the project.
+    [Check it out on Github](https://github.com/DanEdens/sitecheck)  
+    - Written orginally in Nodejs than migrated to python for Apps team's benifit.  
+    - Webscrapper that visually walked user through their project website and collected changes in sensor status to post in Microsoft Teams.  
+    - CLI for end-to-end testing project websites.  
+    - Used to detect setup errors
+    
 
 1. Timelapse_factory  
-    Webscrapper for retriveing daily images of data graphed on our Quickview platform, and compling them over SiteCam images to create a Timelapse GIF, To Comparing the excavation with the data.
+    <!-- [My gif if i can find it]() -->
+    - Webscrapper for retriveing daily images of data graphed on our Quickview platform, and compling them over SiteCam images to create a Timelapse GIF, To Comparing the excavation with the data.   
 
 1. Sitecheck  
-    Assist field techs with keeping an eye on multble projects while working in the field.  
-    Python tool for Project managers and Apps team to pull project data and copy it into status emails.  
-    Website servers run a script perodically that does a SQL query for sensors missing longer than 22 hours. Results are than published to a mqtt server, where data is retrieved by front end Users without needing access to the database.  
+    - Assist field techs with keeping an eye on multble projects while working in the field.  
+    - Python tool for Project managers and Apps team to pull project data and copy it into status emails.  
+    - Website servers run a script perodically that does a SQL query for sensors missing longer than 22 hours.  
+    - Results are than published to a mqtt server, where data is retrieved by front end Users seperated from load on database.  
     
 1. Lnet  
-    Internal GUI replacement for Campbell scientic's loggerlink.  
-    Andriod App that controls Topcon Automated total stations.  
+    - Internal GUI replacement for Campbell scientic's loggerlink.  
+    - Andriod App that controls Topcon Automated total stations.  
     
-    Added useful features specific to our field tech's needs while learning points on Jobsites.  
-     . Less in-field time required to locate Survey targets using remote grid coordinates system.  
+    - Added useful features specific to our field tech's needs while learning points on Jobsites.  
+    -Less in-field time required to locate Survey targets using remote grid coordinates system.  
 
     Cora  
-     Lightweight and scalable MQTT based backend which pipes messages into xargs for lamda-style settings retrieval and non-blocking control of several Units simulatiously through calls to the Cambpell Scientfic loggernet CLI, Corascript.  
+     - Lightweight and scalable MQTT based backend which pipes messages into xargs for lamda-style settings retrieval and non-blocking control of several Units simulatiously through calls to the Cambpell Scientfic loggernet CLI, Corascript.  
      
 
 1. Geo Battery Bot  
@@ -118,14 +126,7 @@ I created several apps to assist with maintaining and saftey operating on our .
     
     I created QRcode sticker generator that embeds a number and a status into a (Join)[https://joaoapps.com/join/]  webhook, that is recieved by a tablet located in the Geo-Insturments Shop.  
     I created a GUI for the tablet and backend to log unit events.  
-    This was used to manage the desulfating schedule.  
-    
-    These batterys are used in various datalogger enclosures and rented out to clients.  
-    When solar proves not enough, this batterys need to be desulfated, and possibly recycled.  
-    
-
-
-
+    This is used to manage the desulfating schedule.  
 
 
 ## Chili's Grill and Bar - 4570 TX-121, Lewisville, TX 75056 - (214) 494-6341
