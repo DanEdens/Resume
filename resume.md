@@ -16,28 +16,40 @@ Dan.Edens@geo-instruments.com
 
 • As a Project coordinator, my role was to plan, install, maintain various sensors across a variety of jobsites.  
 
-• Large-scale Construction Monitoring projects Data collection, Risk mitigation, Compliance documentation.  
+• Data collection, Risk mitigation, Compliance documentation.  
 
-• Professional experience with PHP, Python, NodeJS, Javascript, Java, Andriod, Quickbooks, Kanban, Campbell Scientific dataloggers via Visual Basic, Corascript, matlab, Networking, SQL, MQTT, HTTP
+• Professional experience with PHP, Python, NodeJS, Javascript, Java, Andriod, Quickbooks, Kanban, Campbell Scientific dataloggers via Visual Basic, Corascript, matlab, Networking, SQL, MQTT, HTTP, Windows, and Linux  
+Azure, Gitlab, Self Hosted Agent Runners 
+Automated DevOps Boards, Vesion Control, and Cloud security groups, elastic IPs and Role management
 
 
-• Hobbyest experience with C++, Java, Cmd, Sh, Powershell, Lua, Html, 
+• Hobbyest experience with C++, Java, Powershell, Lua, Html,  
 
-• Knowdegeable in DevOps, Vesion Control, and Cloud security
+## cloud 
 
-• Experience using Azure, AWS, and self hosted Cloud Agents, CI/CD, Windows, Linux, and Android virtual Machines  
+• Knowdegeable in 
 
-• Experience with troubleshooting electrical wiring and circut Issues.  
+• Experience using  
 
-• Manufacturing Pile Loadtest Sensors, DataLoggers, and designing Custom.  
-• Strong mechanical aptitude, professional experience operating 3d Printer, CNC router, Coring and break machines, Man Lifts, 
-Fork Lifts, and Bucket trucks.
+Azure, AWS, and self hosted Cloud Agents, 
+CI/CD, 
+Lamp stack
+Windows, Linux, and Android virtual Machines  
 
-• History of Strong attention detail in Dangerous Environments. 
 
-• Experience working in around Lock and Dams, Pipelines, Refinerys, Highway Construction, Ports, Wind turbines, Extreme heights, Railroads, Tunnels, Shafts, Historical preservation projects, Govrnment Data centers, and a Federal Detention Center.
+• Experience with Solar controllers, Manufacturing Sensors, and Battery desfulating, electrical wiring, and ordering Inventory.  
 
-• Osha 10, Twic, TSAprecheck, Railsafe, keolis, Erail, Drone Liscene, ACI certified, manlift Certified. 
+• Strong mechanical aptitude.  
+Professional experience operating 3d Printers, CNC routers, Boom Lifts, Fork Lifts, and Bucket trucks. 
+Previously Certified as an ACI Concrete technicain.
+
+• Experience in Dangerous Environments including:
+> Dams, 
+> Railroads, Tunnels, Shafts, Pipelines, Refinerys, Highway Construction, Port Terminals, Wind turbines, Extreme heights,  
+
+
+
+• Certifications: Osha10, Twic, TSAprecheck, Railsafe, Keolis ROW, E-rail, Drone Liscene
 
 
 # Work History
@@ -100,9 +112,11 @@ I created several apps to assist with maintaining and saftey operating on our .
      
 
 1. Geo Battery Bot  
+    [Check it out on Github](https://github.com/DanEdens/GeoBatteryBot_public)  
+    
     Mobile app for tracking inventory of our 110ah batteries.  
     
-    I created QRcode sticker generator that embeds a number and a status into a (Join)[join.com]  webhook, that is recieved by a tablet located in the Geo-Insturments Shop.  
+    I created QRcode sticker generator that embeds a number and a status into a (Join)[https://joaoapps.com/join/]  webhook, that is recieved by a tablet located in the Geo-Insturments Shop.  
     I created a GUI for the tablet and backend to log unit events.  
     This was used to manage the desulfating schedule.  
     
@@ -181,3 +195,14 @@ Manager at Chili's Castle Hills, Known 2 years
     > Planned and executed Monitoring plan for a collaposed MSE wall in Fort Worth, Tx.  
     > Monitored for movement during wall repair.  
     > Built and Maintained Client website displaying Tiltmeter and AMTS Data.  
+    
+1. Capitol Complex
+1. FDC
+1. NTTA 121
+1. Fuji
+1. Pitman
+1. 425 riverside
+1. 
+    
+    
+    
