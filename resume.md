@@ -13,9 +13,12 @@ Dan.Edens@geo-instruments.com
 • Self Motivated, Self Sufficient, and Dependable.  
 
 
-• Professional experience with PHP, Python, NodeJS, Javascript, Java, Andriod, Quickbooks, Kanban, Campbell Scientific dataloggers via Visual Basic, Corascript, matlab, Networking, SQL, MQTT, HTTP, Windows, and Linux  
+• Professional experience with PHP, Python, NodeJS, Javascript, Java, Andriod, Campbell Scientific datalogger's (using Visual Basic), Corascript, matlab, 
+
+Cloud Networking and security , SQL, MQTT, HTTP, Windows, and Linux   
 Azure, Gitlab, Self Hosted Agent Runners 
-Automated DevOps Boards, Vesion Control, and Cloud security groups, elastic IPs and Role management
+
+Automated DevOps Boards, Vesion Control, and 
 
 
 • Hobbyest experience with C++, Java, Powershell, Lua, Html,  
@@ -25,6 +28,9 @@ Automated DevOps Boards, Vesion Control, and Cloud security groups, elastic IPs 
 • Knowdegeable in 
 
 • Experience using  
+<!-- Frontend -->
+examples of QV setups
+examples of tasker setups
 
 
 <!-- Backend -->
@@ -59,8 +65,8 @@ Professional experience operating 3d Printers, CNC routers, Boom Lifts, Fork Lif
 # Work History
 ## Geo-Insturments 
 > 06/2018 - Present  
-<!-- [](https://www.geo-instruments.com/projects/) -->
->> [Desciption of my role at Geo-instruments](https://www.geo-instruments.com/implementing-geotechnical-monitoring-programs/)  
+[](https://www.geo-instruments.com/projects/)
+>> [VIdeo detailing what we do at Geo-instruments](https://www.geo-instruments.com/implementing-geotechnical-monitoring-programs/)  
 
 
 1. Experience controlling Opitical-target Total Stations, vibration monitors, vibrating wire sensors, Shape arrays, dust sensors remotely via modem.  
@@ -89,7 +95,7 @@ I created several apps to assist with maintaining and saftey operating on our .
 
 1. Sitecheck Scanner  
     [Check it out on Github](https://github.com/DanEdens/sitecheck)  
-    <!-- [Demo On Youtube](https://www.youtube.com/watch?v=HExwe__eeJU)   -->
+    [Demo On Youtube](https://www.youtube.com/watch?v=HExwe__eeJU)  
     - Written orginally in Nodejs than migrated to python for Apps team's benifit.  
     - Webscrapper that visually walked user through their project website and collected changes in sensor status to post in Microsoft Teams.  
     - CLI for end-to-end testing project websites.  
@@ -98,7 +104,7 @@ I created several apps to assist with maintaining and saftey operating on our .
 
 1. Timelapse_factory  
     [Demo On Youtube](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
-    <!-- [My gif if i can find it]() -->
+    [My gif if i can find it]()
     - Webscrapper for retriveing daily images of data graphed on our Quickview platform, and compling them over SiteCam images to create a Timelapse GIF, To Comparing the excavation with the data.  
     - Used to overlay data from Messurand Shape Arrys, Overtop of Jobsite Camera footage.
 
