@@ -59,7 +59,7 @@ Professional experience operating 3d Printers, CNC routers, Boom Lifts, Fork Lif
 
 
 
-• Certifications: Osha10, Twic, TSAprecheck, Railsafe, Keolis ROW, E-rail, Drone Liscene  
+<!-- • Certifications: Osha10, Twic, TSAprecheck, Railsafe, Keolis ROW, E-rail -->
 
 
 # Work History
@@ -68,9 +68,12 @@ Professional experience operating 3d Printers, CNC routers, Boom Lifts, Fork Lif
 [](https://www.geo-instruments.com/projects/)
 >> [VIdeo detailing what we do at Geo-instruments](https://www.geo-instruments.com/implementing-geotechnical-monitoring-programs/)  
 
-
-1. Experience controlling Opitical-target Total Stations, vibration monitors, vibrating wire sensors, Shape arrays, dust sensors remotely via modem.  
-1. Experience engineering mesh networks in Industrial environments to avoid lost cononections with dataloggers and control boxes.  
+  
+1. Opperated independantly as Dallas Branch for over Two years.  
+1. 
+1. Planned, Installed, and maintained Monitoring plans on jobsites across the Midwest. 
+1. Devolped 
+1. Experience with Mesh networks in Industrial environments.  
 
 
 
@@ -199,7 +202,8 @@ Manager at Chili's Castle Hills, Known 2 years
     > Monitored for movement during wall repair.  
     > Built and Maintained Client website displaying Tiltmeter and AMTS Data.  
     
-1. Capitol Complex
+1. [Lock and Dam](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)  
+1. [Capitol Complex](https://www.tfc-ccp.org/)
 1. FDC
 1. NTTA 121
 1. Fuji
