@@ -1,5 +1,3 @@
-
-
 [Dan Edens](https://github.com/DanEdens)  
 [Cell - 469-636-7704](4696267704)  
 Dan.Edens@geo-instruments.com
@@ -8,7 +6,7 @@ Dan.Edens@geo-instruments.com
 
 • Experienced Lab and Field Technician with excellent interpersonal skills. 
 
-<!-- • Superior communication and leadership skills -->
+• Superior communication and leadership skills
 
 • Self Motivated, Self Sufficient, and Dependable.  
 
@@ -23,7 +21,6 @@ Automated DevOps Boards, Vesion Control, and
 
 • Hobbyest experience with C++, Java, Powershell, Lua, Html,  
 
-## cloud 
 
 • Knowdegeable in 
 
@@ -124,7 +121,7 @@ I created several apps to assist with maintaining and saftey operating on our .
     - Less in-field time required to locate Survey targets using remote grid coordinates system.  
 
     Cora server 
-     - Lightweight and scalable MQTT based backend which pipes topics into xargs for lamda-style settings retrieval and non-blocking control of several Units through the loggernet CLI, Corascript.  
+     - Lightweight and scalable MQTT based backend which pipes topics into [xargs](https://www.man7.org/linux/man-pages/man1/xargs.1.html) for lamda-style settings retrieval and non-blocking control of several Units through the [loggernet CLI, Corascript](https://www.campbellsci.com/loggernet).  
      
 
 1. Geo Battery Bot  
@@ -210,6 +207,6 @@ Manager at Chili's Castle Hills, Known 2 years
 1. Pitman
 1. 425 riverside
 1. 
-    
+   https://www.bostonglobe.com/2022/04/09/metro/green-line-service-resumes-between-north-station-government-center/ 
     
     
