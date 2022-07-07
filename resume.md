@@ -67,10 +67,10 @@ Professional experience operating 3d Printers, CNC routers, Boom Lifts, Fork Lif
 
   
 1. Opperated independantly as Dallas Branch for over Two years.  
-1. 
-1. Planned, Installed, and maintained Monitoring plans on jobsites across the Midwest. 
+1. Managed Multiple Jobsites at once, across the Midwest. 
 1. Devolped 
 1. Experience with Mesh networks in Industrial environments.  
+1. Monitoring 
 
 
 
@@ -109,30 +109,34 @@ I created several apps to assist with maintaining and saftey operating on our .
     - Used to overlay data from Messurand Shape Arrys, Overtop of Jobsite Camera footage.
 
 1. Sitecheck  
-    - Assist field techs with keeping an eye on multble projects while working in the field.  
     - Python tool for Project managers and Apps team to pull project data and copy it into status emails.  
+    - Assists Geo-Insturment's field techs with keeping an eye on multble projects while working in the field.  
     - Website servers run a script perodically that does a SQL query for sensors missing longer than 22 hours.  
     - Results are than published to a mqtt server, where data is retrieved by front end Users seperated from load on database.  
     
 1. Lnet  
-    - Internal GUI replacement for Campbell scientic's loggerlink.  
-    - Andriod App that controls Topcon Automated total stations.      
+    Frontend: Tasker app
+    - Internal GUI replacement for [Campbell Scientic's loggerlink](https://play.google.com/store/apps/details?id=com.campbellsci.loggerlink&hl=en_US&gl=US).  
+    - Andriod App for controling [Topcon Automated total stations](https://www.topconpositioning.com/total-stations/robotic-total-stations/ms-axii).  
     - Added useful features specific to our field tech's needs while learning points on Jobsites.  
     - Less in-field time required to locate Survey targets using remote grid coordinates system.  
 
+    Backend: 
     Cora server 
      - Lightweight and scalable MQTT based backend which pipes topics into [xargs](https://www.man7.org/linux/man-pages/man1/xargs.1.html) for lamda-style settings retrieval and non-blocking control of several Units through the [loggernet CLI, Corascript](https://www.campbellsci.com/loggernet).  
+     - 
      
 
 1. Geo Battery Bot  
     [Check it out on Github](https://github.com/DanEdens/GeoBatteryBot_public)  
     
     Mobile app for tracking inventory of Geo-instrument's fleet of 110ah AGM batteries.  
-    This is used to manage the desulfating schedule.  
+    This is used to manage the [desulfating](https://www.upsbatterycenter.com/blog/battery-desulfation/) schedule.  
     
-    - I created a QRcode generator which publishes a number and status to a (Join)[https://joaoapps.com/join/] webhook that is recieved by a tablet located in the Geo-Insturment's Shop.  
-    - These are generated in format to be printed to a sticker and are placed on each battery.  
+    - I created a QRcode generator which publishes a number and status to the (Join API)[https://joaoapps.com/join/api/]. 
+    - A tablet located in the Geo-Insturment's Shop acts as server.  
     - Created an Andriod app as GUI and backend to log unit events.  
+    - Stickers are generated in a given range of serial numbers by the [python script: qr-generator.py](https://github.com/DanEdens/GeoBatteryBot_public/blob/master/qr-generator.py)
 
 
 ## Chili's Grill and Bar - 4570 TX-121, Lewisville, TX 75056 - (214) 494-6341
