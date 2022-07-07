@@ -84,7 +84,7 @@ I created several apps to assist with maintaining and saftey operating on our .
     - Utlized self-hosted Devop's runners to maintain versions of project specific control software for Campbells instruments deployed in the field.  
     - Used to write AMTS control programs for R&D projects  
 
-1. Interface Panel  
+1. Interface Panel -  
     [Download on Taskernet](https://taskernet.com/shares/?user=AS35m8mBhJAezDTr0Lio7dopdLiBaKgozAOxoCXM7Mh8sS5hSvSst1kEMf5%2FJeJveB%2BsvU8%3D&id=Project%3AInterface)  
     - Gui for assigning jobsite related scripts to Mobile device events including shake, hardware buttons, and/or voice commands.  
     - Used to the purpose of safely operating sensors in hazardous environments.  
@@ -194,11 +194,12 @@ Manager at Chili's Castle Hills, Known 2 years
 #  Projects:  
 <!-- >> [Project Portfolo]() -->
 
+
 1. [MSE Wall Repair](https://www.geo-instruments.com/mse-wall-repair/  )
     > Planned and executed Monitoring plan for a collaposed MSE wall in Fort Worth, Tx.  
-    > Monitored for movement during wall repair.  
-    > Built and Maintained Client website displaying Tiltmeter and AMTS Data.  
-    
+    > Deloyed Tiltmeters and Crack monitoring equipment to monitor for movement during wall repair.  
+    > Built and Maintained Client website displaying Tiltmeter and AMTS Data. 
+     
 1. [Lock and Dam](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)  
 1. [Capitol Complex](https://www.tfc-ccp.org/)
 <!-- 1. FDC -->
