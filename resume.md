@@ -104,9 +104,10 @@ I created several apps to assist with maintaining and saftey operating on our .
 
 1. Timelapse_factory  
     [Demo On Youtube](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
-    [My gif if i can find it]()
-    - Webscrapper for retriveing daily images of data graphed on our Quickview platform, and compling them over SiteCam images to create a Timelapse GIF, To Comparing the excavation with the data.  
+    [My gif if i can find it](assets/)
+    - Webscrapper for pulling plots of data graphed on our Quickview platform.
     - Used to overlay data from Messurand Shape Arrys, Overtop of Jobsite Camera footage.
+    
 
 1. Sitecheck  
     - Python tool for Project managers and Apps team to pull project data and copy it into status emails.  
@@ -205,14 +206,35 @@ Manager at Chili's Castle Hills, Known 2 years
     > Built and Maintained Client website displaying Tiltmeter and AMTS Data. 
      
 1. [Lock and Dam](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)  
+    -  
 1. [Capitol Complex](https://www.tfc-ccp.org/)
+    - 
 <!-- 1. FDC -->
 1. [SH288 WSE wall failure](https://abc13.com/sh-288-pavement-failure-safety-purposes-structural-damage/10527940/)
+    - Emergency Job in Houston, TX. 
+    - We installed 2 SAAs and 6 Piezometers. 
+    - These were used to monitor for additonal settlement, and height of the water table during repairs.
+    
 1. [Fuji](https://www.nola.com/news/business/article_a9e05f91-a734-5bd1-8d05-587258f6a3c0.html)
+    - Installed 3 AMTS systems and 9 SAAs across a Railroad loading yard in New Orleans, LA. 
+    - Monitoring Tunneling operations underneath 14 tracks.
+    - 
 1. [Pittman](https://www.dmagazine.com/commercial-real-estate/2020/06/first-look-the-kimpton-pittman-hotel-in-deep-ellum/)
+    - Historical preservation project
+    - Installed a Hydrostatic Cell system aswell as 24 tilt meters
+    - Monitoring underpinning activies while hotel was being renovated.
+    
 1. [425 riverside](https://www.realcomm.com/news/1045/1/river-south-austin-introducing-the-smart-building)
+    - Diaframe wall project in Downtown Austin, Tx
+    - Data used to verify design loads during construction, Resulting in the elimination of a row of anchor. 
+    - 
+    
 1. [atoka](https://tunnelingonline.com/crossing-the-canadian-river/?oly_enc_id=9796A6381467B9S)
+    - 
 1. [Mule Wall](https://www.linkedin.com/posts/activity-6796124222084268032-Yupj?utm_source=linkedin_share&utm_medium=member_desktop_web)    
+    - 
 1. [Pearl Rosemont](https://product.costar.com/home/news/shared/36342040?utm_source=newsletter&utm_medium=email&utm_campaign=personalized&utm_content=p6&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250YWN0SWQiOiI2ODU2Mzc5IiwiY3VsdHVyZUNvZGUiOiJlbi1VUyIsImlhdCI6MTYyNzM4NzMzNn0.AUCeV8N_1sf-3zsD46hJpdARPgvOrdlfbpsUh1WFHXw&fbclid=IwAR3FJxPmVrcHHK4Am0tsOZ9bnATh_ru8hfs_GZK7kju_3FURyy-1tSYNs6M)
+    - 
 1. [Government Center collapse Repair and Load test](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)    
+    - 
 1. [Boston power plant collapse Repair - Vibration monitoring](https://darik.news/massachusetts/several-people-trapped-in-old-boston-power-plant-collapse/580584.html)
