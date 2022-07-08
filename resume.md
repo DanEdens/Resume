@@ -230,11 +230,22 @@ Manager at Chili's Castle Hills, Known 2 years
     - 
     
 1. [atoka](https://tunnelingonline.com/crossing-the-canadian-river/?oly_enc_id=9796A6381467B9S)
-    - 
+    - Tunneling project to relocate a Water pipeline underground  
+    - Installed 2 AMTS systems to monitor current pipeline during blasting activities
+    
 1. [Mule Wall](https://www.linkedin.com/posts/activity-6796124222084268032-Yupj?utm_source=linkedin_share&utm_medium=member_desktop_web)    
-    - 
+    - Restoration Project In Fort Worth, TX
+    - Deployed 6 Tiltmeters and 1 Crackmeter on wall that began to show signs of movement during Underpinning operations
+    
 1. [Pearl Rosemont](https://product.costar.com/home/news/shared/36342040?utm_source=newsletter&utm_medium=email&utm_campaign=personalized&utm_content=p6&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250YWN0SWQiOiI2ODU2Mzc5IiwiY3VsdHVyZUNvZGUiOiJlbi1VUyIsImlhdCI6MTYyNzM4NzMzNn0.AUCeV8N_1sf-3zsD46hJpdARPgvOrdlfbpsUh1WFHXw&fbclid=IwAR3FJxPmVrcHHK4Am0tsOZ9bnATh_ru8hfs_GZK7kju_3FURyy-1tSYNs6M)
-    - 
+    - Installed 4 Vibration monitoring systems On Houston University buildings surrounding the exevation. 
+    
 1. [Government Center collapse Repair and Load test](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)    
+    - Load Test preformed on supports effected by government center Garage collapse in Boston, MA.
+    - Deployed 8x MPBX distance Laser systems and x8 String potentiometer during testing.
     - 
+     
+    
 1. [Boston power plant collapse Repair - Vibration monitoring](https://darik.news/massachusetts/several-people-trapped-in-old-boston-power-plant-collapse/580584.html)
+    - Deployed 7 vibration monitors within the Power plant to monitor construction activities.
+    
