@@ -77,68 +77,77 @@ Professional experience operating 3d Printers, CNC routers, Boom Lifts, Fork Lif
 In addition to this Project managment role. I heavily engaged myself in our Apps and Software departments.  
 I created several apps to assist with maintaining and saftey operating on our .  
 
-## Apps Designed and Deployed:  
+# Apps Designed and Deployed:  
 ---
-1. AMTSworkshop -  
-    *Migration of 20 years worth of cambell scientic datalogger programs into Git.  
-    - Utlized self-hosted Devop's runners to maintain versions of project specific control software for Campbells instruments deployed in the field.  
-    - Used to write AMTS control programs for R&D projects  
 
-1. Interface Panel -  
-    [Download on Taskernet](https://taskernet.com/shares/?user=AS35m8mBhJAezDTr0Lio7dopdLiBaKgozAOxoCXM7Mh8sS5hSvSst1kEMf5%2FJeJveB%2BsvU8%3D&id=Project%3AInterface)  
-    - Gui for assigning jobsite related scripts to Mobile device events including shake, hardware buttons, and/or voice commands.  
-    - Used to the purpose of safely operating sensors in hazardous environments.  
-    - Jobsite files autosorter, Photos, reciepts, notes.  
-    - Site specific SOS texts  
-    - Timesheet suggestion  
-    - Precon Survey Orginization tools  
-
+## Project Managment
 1. Sitecheck Scanner  
     [Check it out on Github](https://github.com/DanEdens/sitecheck)  
     [Demo On Youtube](https://www.youtube.com/watch?v=HExwe__eeJU)  
-    - Written orginally in Nodejs than migrated to python for Apps team's benifit.  
-    - Webscrapper that visually walked user through their project website and collected changes in sensor status to post in Microsoft Teams.  
+    - Automated Browser control for guided visual tour of project website. 
+    - Used to detect project setup errors as well as missing and anomalous data.
+    - Navigates through projects and highlights changes in sensor status.  
+    - Posts results to company Team's channels.  
     - CLI for end-to-end testing project websites.  
-    - Used to detect setup errors  
-    
+    <!-- - Written orginally in Nodejs than migrated to python for Apps team's benifit.   -->  
+  
 
 1. Timelapse_factory  
-    [Demo On Youtube](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
-    [My gif if i can find it](assets/)
+ 
     - Webscrapper for pulling plots of data graphed on our Quickview platform.
-    - Used to overlay data from Messurand Shape Arrys, Overtop of Jobsite Camera footage.
+    - Used to overlay data from Messurand Shape Arrys, Overtop of Jobsite Camera footage.  
+    - [Demo On Youtube](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
+    - [Example GIf](assets/RiversideExcavation35speedReduceColorTable.gif)
     
 
 1. Sitecheck  
-    - Python tool for Project managers and Apps team to pull project data and copy it into status emails.  
+
+    > [pip install sitecheck](https://pypi.org/project/sitecheck/0.8.1.1/)
+    - Python CLI for Geo-Instrument's Project managers and Apps team, used pull information on missing sensor data.    
     - Assists Geo-Insturment's field techs with keeping an eye on multble projects while working in the field.  
-    - Website servers run a script perodically that does a SQL query for sensors missing longer than 22 hours.  
-    - Results are than published to a mqtt server, where data is retrieved by front end Users seperated from load on database.  
-    
+    - SQL database is checked and any sensors missing longer than 22 hours are reported to an MQTT broker.  
+    - Reduces load on server for project checks, and prevents missed issues when working with sensors on very congested Construction sites.  
+    - Results customizable for each project manager  
+   
+# The Field 
+1. Interface Panel -  
+    [Download on Taskernet](https://taskernet.com/shares/?user=AS35m8mBhJAezDTr0Lio7dopdLiBaKgozAOxoCXM7Mh8sS5hSvSst1kEMf5%2FJeJveB%2BsvU8%3D&id=Project%3AInterface)  
+    - GUI for assigning scripts to Mobile device triggers such as shake, hardware buttons, and voice commands.  
+    - Used to the purpose of safely operating testing equipment in Industrial environments.  
+    - Able to detect current job by closest jobsite address, and uses this for sorting data.  
+    - "SOS button" mode to alert On-Site Safety Manager  
+    - Timesheet tracker  
+
 1. Lnet  
-    Frontend: Tasker app
-    - Internal GUI replacement for [Campbell Scientic's loggerlink](https://play.google.com/store/apps/details?id=com.campbellsci.loggerlink&hl=en_US&gl=US).  
-    - Andriod App for controling [Topcon Automated total stations](https://www.topconpositioning.com/total-stations/robotic-total-stations/ms-axii).  
-    - Added useful features specific to our field tech's needs while learning points on Jobsites.  
-    - Less in-field time required to locate Survey targets using remote grid coordinates system.  
 
-    Backend: 
-    Cora server 
-     - Lightweight and scalable MQTT based backend which pipes topics into [xargs](https://www.man7.org/linux/man-pages/man1/xargs.1.html) for lamda-style settings retrieval and non-blocking control of several Units through the [loggernet CLI, Corascript](https://www.campbellsci.com/loggernet).  
-     - 
-     
+    Frontend:   
+    - Internal-use GUI replacement for Campbell Scientic's [Loggerlink](https://play.google.com/store/apps/details?id=com.campbellsci.loggerlink&hl=en_US&gl=US).  
+    - Andriod App for controling [Topcon](https://www.topconpositioning.com/total-stations/robotic-total-stations/ms-axii) total stations.  
+    - Signifcantly improved ability to zero in on survey points.  
 
+    Backend:  
+    - Uses Python, xargs, mosquitto_clients  
+     - Lightweight and scalable python script that pipes MQTT topics into [xargs](https://www.man7.org/linux/man-pages/man1/xargs.1.html) for 
+     - Non-blocking control of several Units through the [loggernet CLI, Corascript](https://www.campbellsci.com/loggernet).  
+---
+
+# The Shop 
+1. AMTSworkshop -  
+    *Migration of 20 years worth of cambell scientic datalogger programs into Git.*  
+    - Worked to R&D a new type of Monitoring prism. 
+    - Azure DevOps pipeline for testing programs on lab Datalogger  
+    - 
 1. Geo Battery Bot  
     [Check it out on Github](https://github.com/DanEdens/GeoBatteryBot_public)  
     
     Mobile app for tracking inventory of Geo-instrument's fleet of 110ah AGM batteries.  
     This is used to manage the [desulfating](https://www.upsbatterycenter.com/blog/battery-desulfation/) schedule.  
     
-    - I created a QRcode generator which publishes a number and status to the (Join API)[https://joaoapps.com/join/api/]. 
+    - I created a QRcode generator which publishes a number and status to the (Join API)[https://joaoapps.com/join/api/].  
     - A tablet located in the Geo-Insturment's Shop acts as server.  
     - Created an Andriod app as GUI and backend to log unit events.  
-    - Stickers are generated in a given range of serial numbers by the [python script: qr-generator.py](https://github.com/DanEdens/GeoBatteryBot_public/blob/master/qr-generator.py)
-
+    - Stickers are generated in a given range of serial numbers by the [python script: qr-generator.py](https://github.com/DanEdens/GeoBatteryBot_public/blob/master/qr-generator.py)  
+---
 
 ## Chili's Grill and Bar - 4570 TX-121, Lewisville, TX 75056 - (214) 494-6341
 > Prep Cook 01/2016 to 06/2018
