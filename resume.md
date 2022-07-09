@@ -6,7 +6,7 @@ Dan.Edens@geo-instruments.com
 
 • Experienced Lab and Field Technician with excellent interpersonal skills. 
 
-• Superior communication and leadership skills
+• Superior communication and leadership skills  
 
 • Self Motivated, Self Sufficient, and Dependable.  
 
@@ -14,15 +14,13 @@ Dan.Edens@geo-instruments.com
 • Professional experience with PHP, Python, NodeJS, Javascript, Java, Andriod, Campbell Scientific datalogger's (using Visual Basic), Corascript, matlab, 
 
 Cloud Networking and security , SQL, MQTT, HTTP, Windows, and Linux   
-Azure, Gitlab, Self Hosted Agent Runners 
-
-Automated DevOps Boards, Vesion Control, and 
-
-
-• Hobbyest experience with C++, Java, Powershell, Lua, Html,  
+Azure, Gitlab, Self Hosted Agent Runners  
+DevOps Boards  
+ 
 
 
-• Knowdegeable in 
+
+• Knowdegeable in  
 
 • Experience using  
 <!-- Frontend -->
@@ -31,9 +29,9 @@ examples of tasker setups
 
 
 <!-- Backend -->
-Azure, AWS, and self hosted Cloud Agents, 
-CI/CD, 
-Windows, Linux, and Android virtual Machines  
+- Cloud platforms including Azure, AWS, and self hosted Cloud Agents, 
+- DevOps CI/CD, 
+- Windows, Linux, and Android virtual Machines  
 
 <!-- shop -->
 
@@ -63,13 +61,12 @@ Professional experience operating 3d Printers, CNC routers, Boom Lifts, Fork Lif
 ## Geo-Insturments 
 > 06/2018 - Present  
 [](https://www.geo-instruments.com/projects/)
->> [VIdeo detailing what we do at Geo-instruments](https://www.geo-instruments.com/implementing-geotechnical-monitoring-programs/)  
+> [VIdeo detailing what we do at Geo-instruments](https://www.geo-instruments.com/implementing-geotechnical-monitoring-programs/)  
 
-  
-1. Opperated independantly as Dallas Branch for over Two years.  
-1. Managed Multiple Jobsites at once, across the Midwest. 
-1. Devolped 
-1. Experience with Mesh networks in Industrial environments.  
+- Experienced Opperating Independantly. Managed all projects across the Midwest region for Two years.  
+- Managed multiple Jobsites across the Midwest.  
+- Devolped tools to improve efficency and Issue response time.  
+- Gained experience with Mesh networks in Industrial environments.  
 1. Monitoring 
 
 
@@ -80,12 +77,15 @@ I created several apps to assist with maintaining and saftey operating on our .
 # Apps Designed and Deployed:  
 ---
 
-## Project Managment
+## Tools for Project Managment  
 1. Sitecheck Scanner  
-    [Check it out on Github](https://github.com/DanEdens/sitecheck)  
-    [Demo On Youtube](https://www.youtube.com/watch?v=HExwe__eeJU)  
-    - Automated Browser control for guided visual tour of project website. 
-    - Used to detect project setup errors as well as missing and anomalous data.
+    - [Check it out on Github](https://github.com/DanEdens/sitecheck)  
+
+
+    [![IMAGE ALT TEXT](assets/ExampleSitecheckScannerTeamsCardGeneration.jpg)](http://www.youtube.com/watch?v=HExwe__eeJU "Video Title")
+    - [Demo On Youtube](https://www.youtube.com/watch?v=HExwe__eeJU)  
+    - Guided visual tour of project websites.  
+    - Automated Browser used to detect project setup errors, missed readings, and anomalous data.
     - Navigates through projects and highlights changes in sensor status.  
     - Posts results to company Team's channels.  
     - CLI for end-to-end testing project websites.  
@@ -94,10 +94,10 @@ I created several apps to assist with maintaining and saftey operating on our .
 
 1. Timelapse_factory  
  
+     ![Example GIf](assets/RiversideExcavation35speedReduceColorTable.gif)
+    - [Demo On Youtube](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
     - Webscrapper for pulling plots of data graphed on our Quickview platform.
     - Used to overlay data from Messurand Shape Arrys, Overtop of Jobsite Camera footage.  
-    - [Demo On Youtube](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
-    - [Example GIf](assets/RiversideExcavation35speedReduceColorTable.gif)
     
 
 1. Sitecheck  
@@ -109,7 +109,7 @@ I created several apps to assist with maintaining and saftey operating on our .
     - Reduces load on server for project checks, and prevents missed issues when working with sensors on very congested Construction sites.  
     - Results customizable for each project manager  
    
-# The Field 
+# Tools for the Field 
 1. Interface Panel -  
     [Download on Taskernet](https://taskernet.com/shares/?user=AS35m8mBhJAezDTr0Lio7dopdLiBaKgozAOxoCXM7Mh8sS5hSvSst1kEMf5%2FJeJveB%2BsvU8%3D&id=Project%3AInterface)  
     - GUI for assigning scripts to Mobile device triggers such as shake, hardware buttons, and voice commands.  
