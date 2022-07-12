@@ -4,43 +4,27 @@ Dan.Edens@geo-instruments.com
 
 # Skills Summary
 
-<!-- • Experienced Lab and Field Technician with excellent interpersonal skills.  -->
-
+<!-- • 
+Experienced Lab and Field Technician with excellent interpersonal skills.
+Passionate 
 
 <!-- • Professional experience with PHP, Python, NodeJS, Javascript, Java, Andriod, Campbell Scientific datalogger's (using Visual Basic), Corascript, matlab, 
-
-Cloud Networking and security , SQL, MQTT, HTTP, Windows, and Linux   
-Azure, Gitlab, Self Hosted Agent Runners  
-DevOps Boards  
- 
-
-
-
-• Knowdegeable in  
-
-• Experience using   -->
-<!-- Frontend -->
-examples of QV setups
-examples of tasker setups
-
-
-<!-- Backend -->
-- Cloud platforms including Azure, AWS, and self hosted Cloud Agents, 
-- DevOps CI/CD, 
+SQL, MQTT, HTTP, 
+- Azure, AWS, Devops, Gitlab, Self Hosted Agent Runners  
+- Cloud platforms including Azure, AWS, and self hosted Cloud Agents
+- Version control and CI/CD, Testing and automated Issue tracking, 
 - Windows, Linux, and Android virtual Machines  
 
 <!-- shop -->
 
-• Experience with Solar controllers, Manufacturing Sensors, and Battery desfulating, electrical wiring, and ordering Inventory.  
+• Experience with Solar controllers, Sensors, and dataloggers.
 • Strong mechanical aptitude.  
-Professional experience operating 3d Printers, CNC routers, Boom Lifts, Fork Lifts, and Bucket trucks. 
+Professional experience operating 3d Printers, CNC routers, Boom Lifts, Fork Lifts, and Bucket trucks in various environments.  
 
 <!-- Field -->
-<!-- Previously ACI Certified Concrete technicain. -->
+Previously ACI Certified Concrete technicain.
 
-<!-- Experienced Surveyor and Monitoring specialist   -->
-
-<!-- • Data collection, Risk mitigation, Compliance documentation.   -->
+Experienced Surveyor and Monitoring specialist who managed projects including Data collection and Web devolpment, Risk mitigation, Compliance documentation for a varity of industrys.   -->
 
 • Experience in Dangerous Environments including:  
 > Dams, 
@@ -57,10 +41,10 @@ Professional experience operating 3d Printers, CNC routers, Boom Lifts, Fork Lif
 [](https://www.geo-instruments.com/projects/)
 > [VIdeo detailing what we do at Geo-instruments](https://www.geo-instruments.com/implementing-geotechnical-monitoring-programs/)  
 
-- Experienced Opperating Independantly. Managed all projects across the Midwest region for Two years.  
+- Experienced Opperating Independantly. 
 - Managed multiple Jobsites across the Midwest.  
 - Devolped tools to improve efficency and Issue response time.  
-- Gained experience with Mesh networks in Industrial environments.  
+- Experience deploying Mesh networks in Industrial environments.  
 1. Monitoring 
 
 
@@ -68,7 +52,7 @@ Professional experience operating 3d Printers, CNC routers, Boom Lifts, Fork Lif
 In addition to this Project managment role. I heavily engaged myself in our Apps and Software departments.  
 I created several apps to assist with maintaining and saftey operating on our .  
 
-# Apps Designed and Deployed:  
+# Portfolio:  
 ---
 
 ## Tools for Project Managment  
@@ -125,7 +109,7 @@ I created several apps to assist with maintaining and saftey operating on our .
      - Non-blocking control of several Units through the [loggernet CLI, Corascript](https://www.campbellsci.com/loggernet).  
 ---
 
-# The Shop 
+# Tools for the Shop  
 1. AMTSworkshop -  
     *Migration of 20 years worth of cambell scientic datalogger programs into Git.*  
     - Worked to R&D a new type of Monitoring prism. 
