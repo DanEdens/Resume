@@ -4,15 +4,27 @@ Dan.Edens@geo-instruments.com
 
 # Skills Summary
 
-<!-- • 
-Experienced Lab and Field Technician with excellent interpersonal skills.
-Passionate 
+• Experienced Lab and Field Technician with excellent interpersonal skills. 
 
-<!-- • Professional experience with PHP, Python, NodeJS, Javascript, Java, Andriod, Campbell Scientific datalogger's (using Visual Basic), Corascript, matlab, 
-SQL, MQTT, HTTP, 
-- Azure, AWS, Devops, Gitlab, Self Hosted Agent Runners  
-- Cloud platforms including Azure, AWS, and self hosted Cloud Agents
-- Version control and CI/CD, Testing and automated Issue tracking, 
+• Superior communication and leadership skills  
+
+• Self Motivated, Self Sufficient, and Dependable.  
+
+• Professional experience with PHP, Python, NodeJS, Javascript, Java, Andriod, Campbell Scientific datalogger's (using Visual Basic), Corascript, matlab, 
+
+Cloud Networking and security , SQL, MQTT, HTTP, Windows, and Linux   
+Azure, Gitlab, Self Hosted Agent Runners  
+DevOps Boards  
+ 
+
+<!-- Frontend -->
+examples of QV setups
+examples of tasker setups
+
+
+<!-- Backend -->
+- Cloud platforms including Azure, AWS, and self hosted Cloud Agents, 
+- DevOps CI/CD, 
 - Windows, Linux, and Android virtual Machines  
 
 <!-- shop -->
@@ -193,10 +205,16 @@ Manager at Chili's Castle Hills, Known 2 years
     > Built and Maintained Client website displaying Tiltmeter and AMTS Data. 
      
 1. [Lock and Dam](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)  
-    -  
+    - Emergency Repair of an Army Core of Engineer's Lock and Dam that required being on-site nearly around the clock for a period of 3 months. 
+    - I provided Equipment troubleshooting and Live Data monitoring for the repair team.
+    - Devolped Grout logging app for Crew working in heavy storming.
+    - Deployed 12 Tiltmeters within watertight buckets placed 40 feet underwater on the Dam slab. 
+    - deployed 12 Vibrating Wire Piezometers in packers installed into the slab by team of Divers
+    
 1. [Capitol Complex](https://www.tfc-ccp.org/)
-    - 
-<!-- 1. FDC -->
+    - Installed 4 AMTS systems, 7 SAAs, 8 Vibration Monitors, 
+   
+    
 1. [SH288 WSE wall failure](https://abc13.com/sh-288-pavement-failure-safety-purposes-structural-damage/10527940/)
     - Emergency Job in Houston, TX. 
     - We installed 2 SAAs and 6 Piezometers. 
@@ -205,7 +223,7 @@ Manager at Chili's Castle Hills, Known 2 years
 1. [Fuji](https://www.nola.com/news/business/article_a9e05f91-a734-5bd1-8d05-587258f6a3c0.html)
     - Installed 3 AMTS systems and 9 SAAs across a Railroad loading yard in New Orleans, LA. 
     - Monitoring Tunneling operations underneath 14 tracks.
-    - 
+    
 1. [Pittman](https://www.dmagazine.com/commercial-real-estate/2020/06/first-look-the-kimpton-pittman-hotel-in-deep-ellum/)
     - Historical preservation project
     - Installed a Hydrostatic Cell system aswell as 24 tilt meters
@@ -232,7 +250,6 @@ Manager at Chili's Castle Hills, Known 2 years
     - Deployed 8x MPBX distance Laser systems and x8 String potentiometer during testing.
     - 
      
-    
 1. [Boston power plant collapse Repair - Vibration monitoring](https://darik.news/massachusetts/several-people-trapped-in-old-boston-power-plant-collapse/580584.html)
     - Deployed 7 vibration monitors within the Power plant to monitor construction activities.
     
