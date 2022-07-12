@@ -1,8 +1,9 @@
-[Dan Edens](https://github.com/DanEdens)  
-[Cell - 469-636-7704](4696267704)  
-Dan.Edens@geo-instruments.com
 
-# Skills Summary
+<p style="text-align:right"><a href="https://github.com/DanEdens" title="Title">
+Dan Edens</a></p>  
+<p style="text-align:right"><a href="mailto:DanEdens31@gmail.com" title="Title">
+DanEdens31@gmail.com</a></p>  
+<center>Skills Summary  </center>
 
 • Experienced Lab and Field Technician with excellent interpersonal skills. 
 
