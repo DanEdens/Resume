@@ -4,14 +4,10 @@ Dan.Edens@geo-instruments.com
 
 # Skills Summary
 
-• Experienced Lab and Field Technician with excellent interpersonal skills. 
-
-• Superior communication and leadership skills  
-
-• Self Motivated, Self Sufficient, and Dependable.  
+<!-- • Experienced Lab and Field Technician with excellent interpersonal skills.  -->
 
 
-• Professional experience with PHP, Python, NodeJS, Javascript, Java, Andriod, Campbell Scientific datalogger's (using Visual Basic), Corascript, matlab, 
+<!-- • Professional experience with PHP, Python, NodeJS, Javascript, Java, Andriod, Campbell Scientific datalogger's (using Visual Basic), Corascript, matlab, 
 
 Cloud Networking and security , SQL, MQTT, HTTP, Windows, and Linux   
 Azure, Gitlab, Self Hosted Agent Runners  
@@ -22,7 +18,7 @@ DevOps Boards
 
 • Knowdegeable in  
 
-• Experience using  
+• Experience using   -->
 <!-- Frontend -->
 examples of QV setups
 examples of tasker setups
@@ -40,11 +36,9 @@ examples of tasker setups
 Professional experience operating 3d Printers, CNC routers, Boom Lifts, Fork Lifts, and Bucket trucks. 
 
 <!-- Field -->
-<!-- Previously Certified as an ACI Concrete technicain. -->
+<!-- Previously ACI Certified Concrete technicain. -->
 
-<!-- • Experienced Surveyor and Monitoring specialist   -->
-
-<!-- • As a Project coordinator, my role was to plan, install, maintain various sensors across a variety of jobsites.   -->
+<!-- Experienced Surveyor and Monitoring specialist   -->
 
 <!-- • Data collection, Risk mitigation, Compliance documentation.   -->
 
@@ -85,10 +79,10 @@ I created several apps to assist with maintaining and saftey operating on our .
     [![IMAGE ALT TEXT](assets/ExampleSitecheckScannerTeamsCardGeneration.jpg)](http://www.youtube.com/watch?v=HExwe__eeJU "Video Title")
     - [Demo On Youtube](https://www.youtube.com/watch?v=HExwe__eeJU)  
     - Guided visual tour of project websites.  
-    - Automated Browser used to detect project setup errors, missed readings, and anomalous data.
+    - Automated Browser used for detecting setup errors, missed readings, and anomalous data.
     - Navigates through projects and highlights changes in sensor status.  
-    - Posts results to company Team's channels.  
     - CLI for end-to-end testing project websites.  
+    - Posts results to company Team's channels.  
     <!-- - Written orginally in Nodejs than migrated to python for Apps team's benifit.   -->  
   
 
