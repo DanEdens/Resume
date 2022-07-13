@@ -44,10 +44,6 @@ Monitoring specialist abd Experienced Surveyor who managed projects including Da
 • Experience working in environments such as:  
 > Dams, Railroads, Tunnels, Shafts, Pipelines, Refinerys, Highway Construction, Port Terminals, Wind turbine farms, Extreme heights.   
 
-  
-• Certifications: 
-> Osha10, Twic, TSAprecheck,  
-Keolis ROW, [E-railsafe](https://erailsafe.com/usa/),  
 
 
 
@@ -74,6 +70,10 @@ Some of these duties include:
 1. Alert Investigation 
 1. Weekly/Monthly reports  
 
+  
+• Certifications: 
+> Osha10, Twic, TSAprecheck,  
+Keolis ROW, [E-railsafe](https://erailsafe.com/usa/),  
 
 <!-- # Portfolio:   -->
 
@@ -113,8 +113,8 @@ Some of these duties include:
 # Tools for the Field 
 1. Interface Panel -  
     [Download on Taskernet](https://taskernet.com/shares/?user=AS35m8mBhJAezDTr0Lio7dopdLiBaKgozAOxoCXM7Mh8sS5hSvSst1kEMf5%2FJeJveB%2BsvU8%3D&id=Project%3AInterface)  
-     - ![ExampleImage](assets/InterfacePanelExample_Tasker.jpg)
     - GUI for assigning scripts to Mobile device triggers such as shake, hardware buttons, and voice commands.  
+     ![ExampleImage](assets/InterfacePanelExample_Tasker.jpg)
     - Used to assist safely operating testing equipment in Industrial environments.  
     - Able to detect current job by closest address, and uses this for sorting data.  
     - "SOS button" mode to alert On-Site Safety Manager  
@@ -153,22 +153,26 @@ Some of these duties include:
     - Stickers are generated in a given range of serial numbers by the [python script: qr-generator.py](https://github.com/DanEdens/GeoBatteryBot_public/blob/master/qr-generator.py)  
 ---
 
-## Chili's Grill and Bar - 4570 TX-121, Lewisville, TX 75056 - (214) 494-6341
-> Prep Cook 01/2016 to 06/2018
-• Motivated food industry worker offering over 5 years of experience.  
-1. Lead Prep team, Maintained a show-ready kitchen for Chili's Test location 
-1. Took part of Franchise showcases and assisted in filming for TV commercials.  
+## Chili's Grill and Bar - 
+> 4570 TX-121, Lewisville, TX 75056 - (214) 494-6341  
+> Prep Cook: 01/2016 to 06/2018  
+1. Motivated food industry worker offering over 5 years of experience.  
+1. Lead Prep team, Maintained a show-ready kitchen for Chili's Test location  
+1. Took part in Franchise showcases and assisted in Marketing events such as filming TV commercials.  
 1. Worked closely with corporate offices to help field test timely and effective ways to improve menu recipes and standards.  
 1. Created hands-free Receipe app for kitchen tablet.  
 1. Created Cooling log and Inventory tracking app.  
 1. Collected data on accuracy of daily On-hand food quanities for a 6 month period. This Resulted in Improved Daily prep list Efficientcy.  
   
-## Chili's Grill and Bar - 190 Williamson Blvd, Ormond Beach, FL 32174 - (386) 672-7760
-> Prep Cook 06/2014 to 09/2015  
+---
+  
+## Chili's Grill and Bar 
+> 190 Williamson Blvd, Ormond Beach, FL 32174 - (386) 672-7760  
+> Prep Cook: 06/2014 to 09/2015  
 
 ---
 
-## [AMEC Earth & Environmental. (Now known as Wood)](https://www.woodplc.com/) - 
+## [Wood (Previously known as AMEC Earth & Environmental)](https://www.woodplc.com/) 
 > 4490 Beltway Drive, Addison, TX 75001 - (469) 828-4100  
 Laboratory Technician 08/2013 to 03/2014
 
@@ -180,13 +184,13 @@ Laboratory Technician 08/2013 to 03/2014
 • Certifications:  
 [ACI Concrete Technicain certification](https://www.concrete.org/certification/certificationprograms.aspx?m=details&pgm=Field%20Concrete%20Testing&cert=Concrete%20Field%20Testing%20Technician%20-%20Grade%20I)
 
-
+---
 # Education  
 Associate of Arts: Computer Science  
 North Lake College - Irving, TX: 2012-2014
  - Focused on coursework in Mathematics and Intro to C++  
 
-
+---
 # References  
 
 ### 1. Seth Bernard  
@@ -212,14 +216,15 @@ Manager at Chili's Castle Hills, Known 2 years
 (214) 430-6289   -->
 
 
-#  Projects:  
+---
+#  Project Portfolio:  
 <!-- >> [Project Portfolo]() -->
 
 
-1. [MSE Wall Repair](https://www.geo-instruments.com/mse-wall-repair/  )
-    > Planned and executed Monitoring plan for a collaposed MSE wall in Fort Worth, Tx.  
-    > Deloyed Tiltmeters and Crack monitoring equipment to monitor for movement during wall repair.  
-    > Built and Maintained Client website displaying Tiltmeter and AMTS Data. 
+1. [MSE Wall Repair](https://www.geo-instruments.com/mse-wall-repair/)  
+    - Planned and executed Monitoring plan for a collaposed MSE wall in Fort Worth, Tx.  
+    - Deloyed Tiltmeters and Crack monitoring equipment to monitor for movement during wall repair.  
+    - Built and Maintained Client website displaying Tiltmeter and AMTS Data. 
      
 1. [Lock and Dam](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)  
     - Emergency Repair of an Army Core of Engineer's Lock and Dam that required being on-site nearly around the clock for a period of 3 months. 
@@ -228,9 +233,9 @@ Manager at Chili's Castle Hills, Known 2 years
     - Deployed 12 Tiltmeters within watertight buckets placed 40 feet underwater on the Dam slab. 
     - deployed 12 Vibrating Wire Piezometers in packers installed into the slab by team of Divers
     
-1. [Capitol Complex](https://www.tfc-ccp.org/)
-    - Installed 4 AMTS systems, 7 SAAs, 8 Vibration Monitors, 
-   
+1. [Capitol Complex Excavation](https://www.tfc-ccp.org/)
+    - Installed 4 AMTS systems, Tiltmeters, Automated Inclinometers, and Vibration Monitors.  
+    - 
     
 1. [SH288 WSE wall failure](https://abc13.com/sh-288-pavement-failure-safety-purposes-structural-damage/10527940/)
     - Emergency Job in Houston, TX. 
@@ -241,17 +246,16 @@ Manager at Chili's Castle Hills, Known 2 years
     - Installed 3 AMTS systems and 9 SAAs across a Railroad loading yard in New Orleans, LA. 
     - Monitoring Tunneling operations underneath 14 tracks.
     
-1. [Pittman](https://www.dmagazine.com/commercial-real-estate/2020/06/first-look-the-kimpton-pittman-hotel-in-deep-ellum/)
+1. [Pittman Hotel ](https://www.dmagazine.com/commercial-real-estate/2020/06/first-look-the-kimpton-pittman-hotel-in-deep-ellum/)
     - Historical preservation project
     - Installed a Hydrostatic Cell system aswell as 24 tilt meters
     - Monitoring underpinning activies while hotel was being renovated.
     
-1. [425 riverside](https://www.realcomm.com/news/1045/1/river-south-austin-introducing-the-smart-building)
+1. [425 Riverside](https://www.realcomm.com/news/1045/1/river-south-austin-introducing-the-smart-building)
     - Diaframe wall project in Downtown Austin, Tx
     - Data used to verify design loads during construction, Resulting in the elimination of a row of anchor. 
-    - 
     
-1. [atoka](https://tunnelingonline.com/crossing-the-canadian-river/?oly_enc_id=9796A6381467B9S)
+1. [Atoka Pipeline Repair](https://tunnelingonline.com/crossing-the-canadian-river/?oly_enc_id=9796A6381467B9S)
     - Tunneling project to relocate a Water pipeline underground  
     - Installed 2 AMTS systems to monitor current pipeline during blasting activities
     
@@ -263,9 +267,10 @@ Manager at Chili's Castle Hills, Known 2 years
     - Installed 4 Vibration monitoring systems On Houston University buildings surrounding the exevation. 
     
 1. [Government Center collapse Repair and Load test](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)    
-    - Load Test preformed on supports effected by government center Garage collapse in Boston, MA.
+    - Load Test preformed on supports effected by the Government Center Garage collapse in Boston, MA.
     - Deployed 8x MPBX distance Laser systems and x8 String potentiometer during testing.
      
-1. [Boston power plant collapse Repair - Vibration monitoring](https://darik.news/massachusetts/several-people-trapped-in-old-boston-power-plant-collapse/580584.html)
+1. [Boston Power plant collapse - Vibration monitoring](https://darik.news/massachusetts/several-people-trapped-in-old-boston-power-plant-collapse/580584.html)
     - Deployed 7 vibration monitors within the Power plant to monitor construction activities.
+    
     
