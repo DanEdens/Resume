@@ -35,17 +35,17 @@ examples of tasker setups
 Professional experience operating 3d Printers, CNC routers, Boom Lifts, Fork Lifts, and Bucket trucks in various environments.  
 
 <!-- Field -->
-Previously ACI Certified Concrete technicain.
 
-Experienced Surveyor and Monitoring specialist who managed projects including Data collection and Web devolpment, Risk mitigation, Compliance documentation for a varity of industrys.   -->
+Monitoring specialist abd Experienced Surveyor who managed projects including Data collection and Web devolpment, Risk mitigation, Compliance documentation for a varity of industrys.  
 
-• Experience in Dangerous Environments including:  
-> Dams, 
-> Railroads, Tunnels, Shafts, Pipelines, Refinerys, Highway Construction, Port Terminals, Wind turbines, Extreme heights,  
+• Experience working in environments such as:  
+> Dams, Railroads, Tunnels, Shafts, Pipelines, Refinerys, Highway Construction, Port Terminals, Wind turbine farms, Extreme heights.   
 
+  
+• Certifications: 
+> Osha10, Twic, TSAprecheck,  
+Keolis ROW, [E-railsafe](https://erailsafe.com/usa/),  
 
-
-<!-- • Certifications: Osha10, Twic, TSAprecheck, Railsafe, Keolis ROW, E-rail -->
 
 
 # Work History
@@ -54,8 +54,9 @@ Experienced Surveyor and Monitoring specialist who managed projects including Da
 [](https://www.geo-instruments.com/projects/)
 > [VIdeo detailing what we do at Geo-instruments](https://www.geo-instruments.com/implementing-geotechnical-monitoring-programs/)  
 
-- Experienced Opperating Independantly. 
+- Experienced Opperating Independantly, worked as a stand-alone remote branch for 3.5 years. 
 - Managed multiple Jobsites across the Midwest.  
+- Built backends for data collection and setup project Websites using python, javascript, SQL, and PHP.
 - Devolped tools to improve efficency and Issue response time.  
 - Experience deploying Mesh networks in Industrial environments.  
 1. Monitoring 
@@ -152,17 +153,21 @@ I created several apps to assist with maintaining and saftey operating on our .
   
 ## Chili's Grill and Bar - 190 Williamson Blvd, Ormond Beach, FL 32174 - (386) 672-7760
 > Prep Cook 06/2014 to 09/2015  
-• Experience with training co-workers, working with guest chefs, and directing kitchen flow in all situations.  
-Works in a timely and efficient manner to see any job through to completion.  
-  
+
+---
+
 ## [AMEC Earth & Environmental. (Now known as Wood)](https://www.woodplc.com/) - 
 > 4490 Beltway Drive, Addison, TX 75001 - (469) 828-4100  
 Laboratory Technician 08/2013 to 03/2014
 
+
 1. Performed laboratory testing on concrete and soil samples.  
 1. Collected and maintained data reports detailing project samples.  
 1. Managed test scheduling and preserving samples in limestone storage tanks  
-1. Experience operating vechiles within consturction zones  
+
+• Certifications:  
+[ACI Concrete Technicain certification](https://www.concrete.org/certification/certificationprograms.aspx?m=details&pgm=Field%20Concrete%20Testing&cert=Concrete%20Field%20Testing%20Technician%20-%20Grade%20I)
+
 
 # Education  
 Associate of Arts: Computer Science  
