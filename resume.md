@@ -11,7 +11,7 @@ DanEdens31@gmail.com</a></p>
 
 • Self Motivated, Self Sufficient, and Dependable.  
 
-• Professional experience with PHP, Python, NodeJS, Javascript, Java, Andriod, Campbell Scientific datalogger's (using Visual Basic), Corascript, matlab, 
+• Professional experience with PHP, Python, NodeJS, Javascript, Java, Andriod, Campbell Scientific datalogger's (Visual Basic over serial), Corascript
 
 Cloud Networking and security , SQL, MQTT, HTTP, Windows, and Linux   
 Azure, Gitlab, Self Hosted Agent Runners  
@@ -30,9 +30,12 @@ examples of tasker setups
 
 <!-- shop -->
 
-• Experience with Solar controllers, Sensors, and dataloggers.
-• Strong mechanical aptitude.  
-Professional experience operating 3d Printers, CNC routers, Boom Lifts, Fork Lifts, and Bucket trucks in various environments.  
+• Experience with Solar controllers, modems, Sensors, and dataloggers.
+
+> Strong mechanical aptitude.  
+Professional experience operating 
+• 3d Printers, CNC routers, and other metal working equipment  
+Boom Lifts, Fork Lifts, and Bucket trucks  
 
 <!-- Field -->
 
@@ -50,7 +53,7 @@ Keolis ROW, [E-railsafe](https://erailsafe.com/usa/),
 
 # Work History
 ## Geo-Insturments 
-> 06/2018 - Present  
+> 06/2018 - Present (07/2022)   
 [](https://www.geo-instruments.com/projects/)
 > [VIdeo detailing what we do at Geo-instruments](https://www.geo-instruments.com/implementing-geotechnical-monitoring-programs/)  
 
@@ -62,27 +65,42 @@ Keolis ROW, [E-railsafe](https://erailsafe.com/usa/),
 1. Monitoring 
 
 
+In addition to this Project managment role, I heavily engaged myself in our Apps and Software departments.  
 
-In addition to this Project managment role. I heavily engaged myself in our Apps and Software departments.  
-I created several apps to assist with maintaining and saftey operating on our .  
 
-# Portfolio:  
+Some of these duties include:  
+1. Setting up project websites  
+1. Automated data collection of field sensors  
+1. Alert Investigation 
+1. Weekly/Monthly reports  
+
+
+<!-- # Portfolio:   -->
+
 ---
-
-## Tools for Project Managment  
+# Tools for Project Managment  
 1. Sitecheck Scanner  
+    - SQL database is checked and any sensors missing longer than 22 hours are reported to an MQTT broker.  
+    - Reduces load on server for project checks, and prevents missed issues when working with sensors on very congested Construction sites.  
+    - Results customizable for each project manager  
+
+
+    
+1. Sitecheck Scanner 
+
     - [Check it out on Github](https://github.com/DanEdens/sitecheck)  
-
-
-    [![IMAGE ALT TEXT](assets/ExampleSitecheckScannerTeamsCardGeneration.jpg)](http://www.youtube.com/watch?v=HExwe__eeJU "Video Title")
-    - [Demo On Youtube](https://www.youtube.com/watch?v=HExwe__eeJU)  
+    - [Demo On Youtube](https://www.youtube.com/watch?v=HExwe__eeJU)    
+    - [pip install sitecheck](https://pypi.org/project/sitecheck/0.8.1.1/)  
+        [![IMAGE ALT TEXT](assets/ExampleSitecheckScannerTeamsCardGeneration.jpg)](http://www.youtube.com/watch?v=HExwe__eeJU "Video Title")
+    
     - Guided visual tour of project websites.  
     - Automated Browser used for detecting setup errors, missed readings, and anomalous data.
     - Navigates through projects and highlights changes in sensor status.  
     - CLI for end-to-end testing project websites.  
     - Posts results to company Team's channels.  
     <!-- - Written orginally in Nodejs than migrated to python for Apps team's benifit.   -->  
-  
+    - Python CLI for Geo-Instrument's Project managers and Apps team, used pull information on missing sensor data.  
+    - Assists Geo-Insturment's field techs with keeping an eye on multble projects while working in the field.  
 
 1. Timelapse_factory  
  
@@ -90,48 +108,42 @@ I created several apps to assist with maintaining and saftey operating on our .
     - [Demo On Youtube](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
     - Webscrapper for pulling plots of data graphed on our Quickview platform.
     - Used to overlay data from Messurand Shape Arrys, Overtop of Jobsite Camera footage.  
-    
 
-1. Sitecheck  
-
-    > [pip install sitecheck](https://pypi.org/project/sitecheck/0.8.1.1/)
-    - Python CLI for Geo-Instrument's Project managers and Apps team, used pull information on missing sensor data.    
-    - Assists Geo-Insturment's field techs with keeping an eye on multble projects while working in the field.  
-    - SQL database is checked and any sensors missing longer than 22 hours are reported to an MQTT broker.  
-    - Reduces load on server for project checks, and prevents missed issues when working with sensors on very congested Construction sites.  
-    - Results customizable for each project manager  
-   
+---   
 # Tools for the Field 
 1. Interface Panel -  
     [Download on Taskernet](https://taskernet.com/shares/?user=AS35m8mBhJAezDTr0Lio7dopdLiBaKgozAOxoCXM7Mh8sS5hSvSst1kEMf5%2FJeJveB%2BsvU8%3D&id=Project%3AInterface)  
+     - ![ExampleImage](assets/InterfacePanelExample_Tasker.jpg)
     - GUI for assigning scripts to Mobile device triggers such as shake, hardware buttons, and voice commands.  
-    - Used to the purpose of safely operating testing equipment in Industrial environments.  
-    - Able to detect current job by closest jobsite address, and uses this for sorting data.  
+    - Used to assist safely operating testing equipment in Industrial environments.  
+    - Able to detect current job by closest address, and uses this for sorting data.  
     - "SOS button" mode to alert On-Site Safety Manager  
-    - Timesheet tracker  
 
 1. Lnet  
-
+-  
     Frontend:   
-    - Internal-use GUI replacement for Campbell Scientic's [Loggerlink](https://play.google.com/store/apps/details?id=com.campbellsci.loggerlink&hl=en_US&gl=US).  
     - Andriod App for controling [Topcon](https://www.topconpositioning.com/total-stations/robotic-total-stations/ms-axii) total stations.  
+    ![LnetExample](assets/Lnet_example_Tasker.jpg)
+    - Internal-use replacement for Campbell Scientic's [Loggerlink](https://play.google.com/store/apps/details?id=com.campbellsci.loggerlink&hl=en_US&gl=US) app.  
     - Signifcantly improved ability to zero in on survey points.  
-
+  
+-  
     Backend:  
-    - Uses Python, xargs, mosquitto_clients  
-     - Lightweight and scalable python script that pipes MQTT topics into [xargs](https://www.man7.org/linux/man-pages/man1/xargs.1.html) for 
+     - Lightweight and scalable python script that pipes MQTT topics into [Xargs](https://www.man7.org/linux/man-pages/man1/xargs.1.html).
      - Non-blocking control of several Units through the [loggernet CLI, Corascript](https://www.campbellsci.com/loggernet).  
+     - Server  and ultizies Python, Xargs, and Mosquitto_clients.  
 ---
 
 # Tools for the Shop  
-1. AMTSworkshop -  
+1. AMTSworkshop  
     *Migration of 20 years worth of cambell scientic datalogger programs into Git.*  
-    - Worked to R&D a new type of Monitoring prism. 
-    - Azure DevOps pipeline for testing programs on lab Datalogger  
-    - 
+    - Worked on R&D project for a new type of Monitoring prism.  
+    - Azure DevOps pipeline for testing programs on lab equipment  
+    - Designed for devolpment while maintaining legacy versions deployed on remote dataloggers   
+    
 1. Geo Battery Bot  
     [Check it out on Github](https://github.com/DanEdens/GeoBatteryBot_public)  
-    
+    ![Batterybotexample](assets/)
     Mobile app for tracking inventory of Geo-instrument's fleet of 110ah AGM batteries.  
     This is used to manage the [desulfating](https://www.upsbatterycenter.com/blog/battery-desulfation/) schedule.  
     
@@ -171,10 +183,9 @@ Laboratory Technician 08/2013 to 03/2014
 
 # Education  
 Associate of Arts: Computer Science  
+North Lake College - Irving, TX: 2012-2014
+ - Focused on coursework in Mathematics and Intro to C++  
 
-## 2012 - 2014:  
-    North Lake College - 5001 N MacArthur Blvd, Irving, TX 75038  
-Focused on coursework in Mathematics and Intro to C++  
 
 # References  
 
@@ -254,7 +265,6 @@ Manager at Chili's Castle Hills, Known 2 years
 1. [Government Center collapse Repair and Load test](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)    
     - Load Test preformed on supports effected by government center Garage collapse in Boston, MA.
     - Deployed 8x MPBX distance Laser systems and x8 String potentiometer during testing.
-    - 
      
 1. [Boston power plant collapse Repair - Vibration monitoring](https://darik.news/massachusetts/several-people-trapped-in-old-boston-power-plant-collapse/580584.html)
     - Deployed 7 vibration monitors within the Power plant to monitor construction activities.
