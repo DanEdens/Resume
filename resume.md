@@ -72,8 +72,8 @@ Some of these duties include:
 
   
 • Certifications: 
-> Osha10, Twic, TSAprecheck,  
-Keolis ROW, [E-railsafe](https://erailsafe.com/usa/),  
+> Osha10, Twic, TSAprecheck, 
+[Keolis ROW](assets/), [E-railSafe](https://erailsafe.com/usa/), [BNSF contractor card](assets/BNSF%20Contractor%20Card.jpg) 
 
 <!-- # Portfolio:   -->
 
@@ -103,23 +103,23 @@ Keolis ROW, [E-railsafe](https://erailsafe.com/usa/),
     - Assists Geo-Insturment's field techs with keeping an eye on multble projects while working in the field.  
 
 1. Timelapse_factory  
- 
-     ![Example GIf](assets/RiversideExcavation35speedReduceColorTable.gif)
     - [Demo On Youtube](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
-    - Webscrapper for pulling plots of data graphed on our Quickview platform.
-    - Used to overlay data from Messurand Shape Arrys, Overtop of Jobsite Camera footage.  
+ 
+    - NodeJS Webscrapper for pulling plots of data graphed on our Quickview platform.
+     ![Example GIf](assets/RiversideExcavation35speedReduceColorTable.gif)
+    - Used to overlay data from sensors installed in the Diaphragm wall onto Jobsite Camera footage.  
 
 ---   
 # Tools for the Field 
 1. Interface Panel -  
     [Download on Taskernet](https://taskernet.com/shares/?user=AS35m8mBhJAezDTr0Lio7dopdLiBaKgozAOxoCXM7Mh8sS5hSvSst1kEMf5%2FJeJveB%2BsvU8%3D&id=Project%3AInterface)  
-    - GUI for assigning scripts to Mobile device triggers such as shake, hardware buttons, and voice commands.  
+    - GUI for assigning scripts to Mobile device triggers such as Shake, Hardware buttons, NFC tags, and Voice commands.  
      ![ExampleImage](assets/InterfacePanelExample_Tasker.jpg)
     - Used to assist safely operating testing equipment in Industrial environments.  
     - Able to detect current job by closest address, and uses this for sorting data.  
     - "SOS button" mode to alert On-Site Safety Manager  
 
-1. Lnet  
+1. LnetFieldApp  
 -  
     Frontend:   
     - Andriod App for controling [Topcon](https://www.topconpositioning.com/total-stations/robotic-total-stations/ms-axii) total stations.  
@@ -129,21 +129,22 @@ Keolis ROW, [E-railsafe](https://erailsafe.com/usa/),
   
 -  
     Backend:  
+    ![LnetExample](assets/LnetAppWithServerExample.jpg)
      - Lightweight and scalable python script that pipes MQTT topics into [Xargs](https://www.man7.org/linux/man-pages/man1/xargs.1.html).
-     - Non-blocking control of several Units through the [loggernet CLI, Corascript](https://www.campbellsci.com/loggernet).  
-     - Server  and ultizies Python, Xargs, and Mosquitto_clients.  
+     - Non-blocking control of several Units through the [Loggernet CLI, Corascript](https://www.campbellsci.com/loggernet).  
+     - Server ultizies Python, Xargs, and Mosquitto.  
 ---
 
 # Tools for the Shop  
 1. AMTSworkshop  
-    *Migration of 20 years worth of cambell scientic datalogger programs into Git.*  
+    *Began as migration of 20 years worth of Campbell Scientic Datalogger programs into Git.*  
     - Worked on R&D project for a new type of Monitoring prism.  
-    - Azure DevOps pipeline for testing programs on lab equipment  
-    - Designed for devolpment while maintaining legacy versions deployed on remote dataloggers   
+    - Azure DevOps pipelines for testing each commit on live lab equipment  
+    - Designed to handle rolling out changes slowly due to certian project specs requiring legacy versions on remote dataloggers.  
     
 1. Geo Battery Bot  
     [Check it out on Github](https://github.com/DanEdens/GeoBatteryBot_public)  
-    ![Batterybotexample](assets/)
+    ![Batterybotexample](assets/BatteryBotExample.jpg)
     Mobile app for tracking inventory of Geo-instrument's fleet of 110ah AGM batteries.  
     This is used to manage the [desulfating](https://www.upsbatterycenter.com/blog/battery-desulfation/) schedule.  
     
