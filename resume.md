@@ -138,6 +138,7 @@ Some of these duties include:
 # Tools for the Shop  
 1. AMTSworkshop  
     *Began as migration of 20 years worth of Campbell Scientic Datalogger programs into Git.*  
+    ![AMTScover](assets/AMTSworkshopCover.jpg)
     - Worked on R&D project for a new type of Monitoring prism.  
     - Azure DevOps pipelines for testing each commit on live lab equipment  
     - Designed to handle rolling out changes slowly due to certian project specs requiring legacy versions on remote dataloggers.  
@@ -145,6 +146,7 @@ Some of these duties include:
 1. Geo Battery Bot  
     [Check it out on Github](https://github.com/DanEdens/GeoBatteryBot_public)  
     ![Batterybotexample](assets/BatteryBotExample.jpg)
+    ![Batterybotexample](assets/BatteryBotGUIexample.jpg)
     Mobile app for tracking inventory of Geo-instrument's fleet of 110ah AGM batteries.  
     This is used to manage the [desulfating](https://www.upsbatterycenter.com/blog/battery-desulfation/) schedule.  
     
