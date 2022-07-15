@@ -12,37 +12,23 @@ Offering a wide range of experience in Project Mangement, Data collection, Risk 
 
 Hands-on field experience, spent ensuring data flow from sensors and assisting clients with data utlization, yeilded a strong practical sense for User Centered Design. 
 
-• Experienced Lab and Field Technician with excellent interpersonal skills.  
-
-• Active 
-
-• Experienced Working with Git and  
-
-• Professional experience with PHP, Python, NodeJS, Javascript, Java, Andriod, Campbell Scientific datalogger's (Visual Basic over serial), Corascript  
-
-Cloud Networking and security , SQL, MQTT, HTTP, Windows, and Linux   
-Azure, Gitlab, Self Hosted Agent Runners  
-DevOps Boards  
- 
-
+## Professional experience using: 
+- Python, NodeJS, Javascript, Java, Andriod, Campbell Scientific datalogger's (Visual Basic), Corascript, 
+- PHP, SQL, MQTT, REST, Windows and Linux VMs.  
 - Cloud platforms including Azure, AWS, and self-hosted services, 
-- DevOps CI/CD, 
-- Windows, Linux, and Android virtual Machines  
+- DevOps CI/CD, Windows, Linux, and Android virtual Machines  
 
 <!-- shop -->
 
-• Experience with Data acquisition tools such as Solar controllers, modems, Sensors, and dataloggers.
 
-> Strong mechanical aptitude.  
-Professional experience operating 
-• 3d Printers, CNC routers, and other metal working equipment  
-Boom Lifts, Fork Lifts, and Bucket trucks  
+## Strong Mechanical aptitude.  
+Professional experience operating: 
+-  3d Printers, CNC routers, and other metal working equipment  
+- Boom Lifts, Fork Lifts, and Bucket trucks  
 
 <!-- Field -->
 
 
-• Experience working in environments such as:  
-> Dams, Railroads, Tunnels, Shafts, Pipelines, Refinerys, Highway Construction, Port Terminals, Wind turbine farms, Extreme heights.   
 
 
 
@@ -59,7 +45,9 @@ Geotechical Monitoring specialist responsible for managing projects including Da
 - Managed multiple Jobsites across the Midwest.  
 - Built backends for data collection and setup project Websites using Python, Javascript, NodeJS, MQTT, SQL, and PHP.
 - Devolped tools to improve efficency and Issue response time.  
-- Experience deploying Mesh networks in Industrial environments.  
+- Experience with Data acquisition tools such as Solar controllers, modems, Sensors, and dataloggers.
+- Experience working in environments such as:  
+> Dams, Railroads, Tunnels, Shafts, Pipelines, Refinerys, Highway Construction, Port Terminals, Wind turbine farms, Extreme heights.   
 
 
 In addition to this Project managment role, I heavily engaged myself in our Apps and Software departments.  
