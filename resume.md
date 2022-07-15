@@ -1,36 +1,37 @@
 
 <p style="text-align:right"><a href="https://github.com/DanEdens" title="Title">
 Dan Edens</a></p>  
-<p style="text-align:right"><a href="mailto:DanEdens31@gmail.com" title="Title">
+<p style="text-align:right"><a href="4696367704" title="Phone">(469)-636-7704</a></p>  
+<p style="text-align:right"><a href="mailto:DanEdens31@gmail.com" title="email">
 DanEdens31@gmail.com</a></p>  
 <center>Skills Summary  </center>
 
-• Experienced Lab and Field Technician with excellent interpersonal skills. 
 
-• Superior communication and leadership skills  
+Self taught, Self Sufficient, and Driven Software Engineer with a focus on Process Automation and Data Collection. 
+Offering a wide range of experience in Project Mangement, Data collection, Risk mitigation, and Compliance documentation. 
 
-• Self Motivated, Self Sufficient, and Dependable.  
+Hands-on field experience, spent ensuring data flow from sensors and assisting clients with data utlization, yeilded a strong practical sense for User Centered Design. 
 
-• Professional experience with PHP, Python, NodeJS, Javascript, Java, Andriod, Campbell Scientific datalogger's (Visual Basic over serial), Corascript
+• Experienced Lab and Field Technician with excellent interpersonal skills.  
+
+• Active 
+
+• Experienced Working with Git and  
+
+• Professional experience with PHP, Python, NodeJS, Javascript, Java, Andriod, Campbell Scientific datalogger's (Visual Basic over serial), Corascript  
 
 Cloud Networking and security , SQL, MQTT, HTTP, Windows, and Linux   
 Azure, Gitlab, Self Hosted Agent Runners  
 DevOps Boards  
  
 
-<!-- Frontend -->
-examples of QV setups
-examples of tasker setups
-
-
-<!-- Backend -->
-- Cloud platforms including Azure, AWS, and self hosted Cloud Agents, 
+- Cloud platforms including Azure, AWS, and self-hosted services, 
 - DevOps CI/CD, 
 - Windows, Linux, and Android virtual Machines  
 
 <!-- shop -->
 
-• Experience with Solar controllers, modems, Sensors, and dataloggers.
+• Experience with Data acquisition tools such as Solar controllers, modems, Sensors, and dataloggers.
 
 > Strong mechanical aptitude.  
 Professional experience operating 
@@ -39,7 +40,6 @@ Boom Lifts, Fork Lifts, and Bucket trucks
 
 <!-- Field -->
 
-Monitoring specialist abd Experienced Surveyor who managed projects including Data collection and Web devolpment, Risk mitigation, Compliance documentation for a varity of industrys.  
 
 • Experience working in environments such as:  
 > Dams, Railroads, Tunnels, Shafts, Pipelines, Refinerys, Highway Construction, Port Terminals, Wind turbine farms, Extreme heights.   
@@ -53,22 +53,22 @@ Monitoring specialist abd Experienced Surveyor who managed projects including Da
 [](https://www.geo-instruments.com/projects/)
 > [VIdeo detailing what we do at Geo-instruments](https://www.geo-instruments.com/implementing-geotechnical-monitoring-programs/)  
 
+Geotechical Monitoring specialist responsible for managing projects including Data collection, Web devolpment, Risk mitigation and Compliance documentation for a varity of industrys.  
+
 - Experienced Opperating Independantly, worked as a stand-alone remote branch for 3.5 years. 
 - Managed multiple Jobsites across the Midwest.  
-- Built backends for data collection and setup project Websites using python, javascript, SQL, and PHP.
+- Built backends for data collection and setup project Websites using Python, Javascript, NodeJS, MQTT, SQL, and PHP.
 - Devolped tools to improve efficency and Issue response time.  
 - Experience deploying Mesh networks in Industrial environments.  
-1. Monitoring 
 
 
 In addition to this Project managment role, I heavily engaged myself in our Apps and Software departments.  
 
-
 Some of these duties include:  
 1. Setting up project websites  
-1. Automated data collection of field sensors  
+1. Automating data collection of field sensors  
 1. Alert Investigation 
-1. Weekly/Monthly reports  
+1. Setting up and maintaining Weekly/Monthly reports to clients 
 
   
 • Certifications: 
@@ -120,7 +120,8 @@ Some of these duties include:
     - "SOS button" mode to alert On-Site Safety Manager  
 
 1. LnetFieldApp  
--  
+    The repo itself is proprietary, 
+
     Frontend:   
     - Andriod App for controling [Topcon](https://www.topconpositioning.com/total-stations/robotic-total-stations/ms-axii) total stations.  
     ![LnetExample](assets/Lnet_example_Tasker.jpg)
