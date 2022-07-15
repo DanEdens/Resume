@@ -4,7 +4,7 @@ Dan Edens</a></p>
 <p style="text-align:right"><a href="4696367704" title="Phone">(469)-636-7704</a></p>  
 <p style="text-align:right"><a href="mailto:DanEdens31@gmail.com" title="email">
 DanEdens31@gmail.com</a></p>  
-<center>Skills Summary  </center>
+<!-- <center>Skills Summary  </center> -->
 
 
 Self taught, Self Sufficient, and Driven Software Engineer with a focus on Process Automation and Data Collection. 
