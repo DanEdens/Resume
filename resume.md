@@ -4,33 +4,19 @@ Dan Edens</a></p>
 <p style="text-align:right"><a href="4696367704" title="Phone">(469)-636-7704</a></p>  
 <p style="text-align:right"><a href="mailto:DanEdens31@gmail.com" title="email">
 DanEdens31@gmail.com</a></p>  
-<!-- <center>Skills Summary  </center> -->
+<center>Skills Summary  </center>
 
+---
+    Self Sufficient and Driven Software Engineer with a focus on Process Automation and Data Collection. 
+    Offering a wide range of experience in Project Mangement, Data collection, Risk mitigation, and Compliance documentation. 
 
-Self taught, Self Sufficient, and Driven Software Engineer with a focus on Process Automation and Data Collection. 
-Offering a wide range of experience in Project Mangement, Data collection, Risk mitigation, and Compliance documentation. 
+    Hands-on field experience, spent ensuring data flow from sensors and assisting clients with data utlization, yeilded a strong practical sense for User Centered Design. 
 
-Hands-on field experience, spent ensuring data flow from sensors and assisting clients with data utlization, yeilded a strong practical sense for User Centered Design. 
-
-## Professional experience using: 
-- Python, NodeJS, Javascript, Java, Andriod, Campbell Scientific datalogger's (Visual Basic), Corascript, 
-- PHP, SQL, MQTT, REST, Windows and Linux VMs.  
-- Cloud platforms including Azure, AWS, and self-hosted services, 
-- DevOps CI/CD, Windows, Linux, and Android virtual Machines  
-
-<!-- shop -->
-
-
-## Strong Mechanical aptitude.  
-Professional experience operating: 
--  3d Printers, CNC routers, and other metal working equipment  
-- Boom Lifts, Fork Lifts, and Bucket trucks  
-
-<!-- Field -->
-
-
-
-
+Incompreshenive list of tools I have delivered products using: 
+- Python, NodeJS, Javascript, Java, Visual Basic, HTML, REST 
+PHP, SQL, MQTT, and a variety of APIs
+- Cloud platforms including Azure, AWS, and self-hosted services
+- Documentation generation, DevOps CI/CD and Containeraztion  
 
 
 # Work History
@@ -46,6 +32,7 @@ Geotechical Monitoring specialist responsible for managing projects including Da
 - Built backends for data collection and setup project Websites using Python, Javascript, NodeJS, MQTT, SQL, and PHP.
 - Devolped tools to improve efficency and Issue response time.  
 - Experience with Data acquisition tools such as Solar controllers, modems, Sensors, and dataloggers.
+- Experience operating Boom Lifts, Fork Lifts, Bucket trucks, 3d Printers, CNC routers, and other metal working equipment  
 - Experience working in environments such as:  
 > Dams, Railroads, Tunnels, Shafts, Pipelines, Refinerys, Highway Construction, Port Terminals, Wind turbine farms, Extreme heights.   
 
@@ -60,8 +47,8 @@ Some of these duties include:
 
   
 • Certifications: 
-> Osha10, Twic, TSAprecheck, 
-[Keolis ROW](assets/), [E-railSafe](https://erailsafe.com/usa/), [BNSF contractor card](assets/BNSF%20Contractor%20Card.jpg) 
+> Osha10, Twic, TSAprecheck, Keolis ROW, E-railSafe, BNSF contractor 
+<!-- [E-railSafe](https://erailsafe.com/usa/), [BNSF contractor card](assets/BNSF%20Contractor%20Card.jpg)  -->
 
 <!-- # Portfolio:   -->
 
@@ -183,42 +170,14 @@ North Lake College - Irving, TX: 2012-2014
  - Focused on coursework in Mathematics and Intro to C++  
 
 ---
-# References  
-
-### 1. Seth Bernard  
-> (401) 316-0933  
-> Project Manager at Geo-Instruments  
-> Supervior for 2 years  
-> Seth.Bernard@geo-instruments.com  
-
-### 2. Paul Thurlow  
-> (213) 545-4016  
-> Vice President at Geo-Instruments  
-> Supervior for 2 years  
-> Paul.Thurlow@geo-instruments.com  
- 
-### 3.  
-> 
-> 
-> 
-> 
-  
-<!-- Ryan Opelt  
-Manager at Chili's Castle Hills, Known 2 years  
-(214) 430-6289   -->
-
-
----
 #  Project Portfolio:  
-<!-- >> [Project Portfolo]() -->
 
-
-1. [MSE Wall Repair](https://www.geo-instruments.com/mse-wall-repair/)  
+1. [MSE Wall Repair (Project Spotlight)](https://www.geo-instruments.com/mse-wall-repair/)  
     - Planned and executed Monitoring plan for a collaposed MSE wall in Fort Worth, Tx.  
     - Deloyed Tiltmeters and Crack monitoring equipment to monitor for movement during wall repair.  
     - Built and Maintained Client website displaying Tiltmeter and AMTS Data. 
      
-1. [Lock and Dam](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)  
+1. [Lock and Dam (Project Spotlight)](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)  
     - Emergency Repair of an Army Core of Engineer's Lock and Dam that required being on-site nearly around the clock for a period of 3 months. 
     - I provided Equipment troubleshooting and Live Data monitoring for the repair team.
     - Devolped Grout logging app for Crew working in heavy storming.
@@ -229,40 +188,40 @@ Manager at Chili's Castle Hills, Known 2 years
     - Installed 4 AMTS systems, Tiltmeters, Automated Inclinometers, and Vibration Monitors.  
     - 
     
-1. [SH288 WSE wall failure](https://abc13.com/sh-288-pavement-failure-safety-purposes-structural-damage/10527940/)
+1. [SH288 WSE wall failure (News Article on Emergency)](https://abc13.com/sh-288-pavement-failure-safety-purposes-structural-damage/10527940/)
     - Emergency Job in Houston, TX. 
     - We installed 2 SAAs and 6 Piezometers. 
     - These were used to monitor for additonal settlement, and height of the water table during repairs.
     
-1. [Fuji](https://www.nola.com/news/business/article_a9e05f91-a734-5bd1-8d05-587258f6a3c0.html)
+1. [Fuji (Project News article)](https://www.nola.com/news/business/article_a9e05f91-a734-5bd1-8d05-587258f6a3c0.html)
     - Installed 3 AMTS systems and 9 SAAs across a Railroad loading yard in New Orleans, LA. 
     - Monitoring Tunneling operations underneath 14 tracks.
     
-1. [Pittman Hotel ](https://www.dmagazine.com/commercial-real-estate/2020/06/first-look-the-kimpton-pittman-hotel-in-deep-ellum/)
+1. [Pittman Hotel (Project News article)](https://www.dmagazine.com/commercial-real-estate/2020/06/first-look-the-kimpton-pittman-hotel-in-deep-ellum/)
     - Historical preservation project
     - Installed a Hydrostatic Cell system aswell as 24 tilt meters
     - Monitoring underpinning activies while hotel was being renovated.
     
-1. [425 Riverside](https://www.realcomm.com/news/1045/1/river-south-austin-introducing-the-smart-building)
+1. [425 Riverside (Project News article)](https://www.realcomm.com/news/1045/1/river-south-austin-introducing-the-smart-building)
     - Diaframe wall project in Downtown Austin, Tx
     - Data used to verify design loads during construction, Resulting in the elimination of a row of anchor. 
     
-1. [Atoka Pipeline Repair](https://tunnelingonline.com/crossing-the-canadian-river/?oly_enc_id=9796A6381467B9S)
+1. [Atoka Pipeline Repair (Project News article)](https://tunnelingonline.com/crossing-the-canadian-river/?oly_enc_id=9796A6381467B9S)
     - Tunneling project to relocate a Water pipeline underground  
     - Installed 2 AMTS systems to monitor current pipeline during blasting activities
     
-1. [Mule Wall](https://www.linkedin.com/posts/activity-6796124222084268032-Yupj?utm_source=linkedin_share&utm_medium=member_desktop_web)    
+1. [Mule Wall (LinkedIn Post)](https://www.linkedin.com/posts/activity-6796124222084268032-Yupj?utm_source=linkedin_share&utm_medium=member_desktop_web)    
     - Restoration Project In Fort Worth, TX
     - Deployed 6 Tiltmeters and 1 Crackmeter on wall that began to show signs of movement during Underpinning operations
     
-1. [Pearl Rosemont](https://product.costar.com/home/news/shared/36342040?utm_source=newsletter&utm_medium=email&utm_campaign=personalized&utm_content=p6&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250YWN0SWQiOiI2ODU2Mzc5IiwiY3VsdHVyZUNvZGUiOiJlbi1VUyIsImlhdCI6MTYyNzM4NzMzNn0.AUCeV8N_1sf-3zsD46hJpdARPgvOrdlfbpsUh1WFHXw&fbclid=IwAR3FJxPmVrcHHK4Am0tsOZ9bnATh_ru8hfs_GZK7kju_3FURyy-1tSYNs6M)
+1. [Pearl Rosemont (Project News article)](https://product.costar.com/home/news/shared/36342040?utm_source=newsletter&utm_medium=email&utm_campaign=personalized&utm_content=p6&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250YWN0SWQiOiI2ODU2Mzc5IiwiY3VsdHVyZUNvZGUiOiJlbi1VUyIsImlhdCI6MTYyNzM4NzMzNn0.AUCeV8N_1sf-3zsD46hJpdARPgvOrdlfbpsUh1WFHXw&fbclid=IwAR3FJxPmVrcHHK4Am0tsOZ9bnATh_ru8hfs_GZK7kju_3FURyy-1tSYNs6M)
     - Installed 4 Vibration monitoring systems On Houston University buildings surrounding the exevation. 
     
-1. [Government Center collapse Repair and Load test](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)    
+1. [Government Center collapse Repair and Load test (Project News article)](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)    
     - Load Test preformed on supports effected by the Government Center Garage collapse in Boston, MA.
     - Deployed 8x MPBX distance Laser systems and x8 String potentiometer during testing.
      
-1. [Boston Power plant collapse - Vibration monitoring](https://darik.news/massachusetts/several-people-trapped-in-old-boston-power-plant-collapse/580584.html)
+1. [Boston Power plant collapse - Vibration monitoring (Project News article)](https://darik.news/massachusetts/several-people-trapped-in-old-boston-power-plant-collapse/580584.html)
     - Deployed 7 vibration monitors within the Power plant to monitor construction activities.
     
     
