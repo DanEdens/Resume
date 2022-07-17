@@ -7,10 +7,10 @@ DanEdens31@gmail.com</a></p>
 <center>Skills Summary  </center>
 
 ---
-    Self Sufficient and Driven Software Engineer with a focus on Process Automation and Data Collection. 
-    Offering a wide range of experience in Project Mangement, Data collection, Risk mitigation, and Compliance documentation. 
+Self Sufficient and Driven Software Engineer with a focus on Process Automation and Data Collection. 
+Offering a wide range of experience in Project Mangement, Data collection, Risk mitigation, and Compliance documentation. 
 
-    Hands-on field experience, spent ensuring data flow from sensors and assisting clients with data utlization, yeilded a strong practical sense for User Centered Design. 
+Hands-on field experience, spent ensuring data flow from sensors and assisting clients with data utlization, yeilded a strong practical sense for User Centered Design. 
 
 Incompreshenive list of tools I have delivered products using: 
 - Python, NodeJS, Javascript, Java, Visual Basic, HTML, REST 
