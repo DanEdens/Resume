@@ -54,15 +54,7 @@ Some of these duties include:
 
 ---
 # Tools for Project Managment  
-1. Sitecheck Scanner  
-    - SQL database is checked and any sensors missing longer than 22 hours are reported to an MQTT broker.  
-    - Reduces load on server for project checks, and prevents missed issues when working with sensors on very congested Construction sites.  
-    - Results customizable for each project manager  
-
-
-    
 1. Sitecheck Scanner 
-
     - [Check it out on Github](https://github.com/DanEdens/sitecheck)  
     - [Demo On Youtube](https://www.youtube.com/watch?v=HExwe__eeJU)    
     - [pip install sitecheck](https://pypi.org/project/sitecheck/0.8.1.1/)  
@@ -74,8 +66,11 @@ Some of these duties include:
     - CLI for end-to-end testing project websites.  
     - Posts results to company Team's channels.  
     <!-- - Written orginally in Nodejs than migrated to python for Apps team's benifit.   -->  
-    - Python CLI for Geo-Instrument's Project managers and Apps team, used pull information on missing sensor data.  
+    <!-- - Geo-Instrument's Project managers and Apps team, used pull information on missing sensor data.   -->
     - Assists Geo-Insturment's field techs with keeping an eye on multble projects while working in the field.  
+    - SQL database is checked and any sensors missing longer than 22 hours are reported to an MQTT broker.  
+    - Reduces load on server for project checks, and prevents missed issues when working with sensors on very congested planviews.  
+    - Results customizable for each project manager  
 
 1. Timelapse_factory  
     - [Demo On Youtube](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
