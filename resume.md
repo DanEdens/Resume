@@ -28,13 +28,13 @@ PHP, SQL, MQTT, and a variety of APIs
 Geotechical Monitoring specialist responsible for managing projects including Data collection, Web devolpment, Risk mitigation and Compliance documentation for a varity of industrys.  
 
 - Experienced Opperating Independantly, worked as a stand-alone remote branch for 3.5 years. 
-- Managed multiple Jobsites across the Midwest.  
+- Managed multiple projects with job sites across the Midwest.  
 - Built backends for data collection and setup project Websites using Python, Javascript, NodeJS, MQTT, SQL, and PHP.
 - Devolped tools to improve efficency and Issue response time.  
 - Experience with Data acquisition tools such as Solar controllers, modems, Sensors, and dataloggers.
-- Experience operating Boom Lifts, Fork Lifts, Bucket trucks, 3d Printers, CNC routers, and other metal working equipment  
-- Experience working in environments such as:  
-> Dams, Railroads, Tunnels, Shafts, Pipelines, Refinerys, Highway Construction, Port Terminals, Wind turbine farms, Extreme heights.   
+<!-- - Experience operating Boom Lifts, Fork Lifts, Bucket trucks, 3d Printers, CNC routers, and other metal working equipment   -->
+<!-- - Experience working in environments such as:  
+> Dams, Railroads, Tunnels, Shafts, Pipelines, Refinerys, Highway Construction, Port Terminals, Wind turbine farms, Extreme heights.    -->
 
 
 In addition to this Project managment role, I heavily engaged myself in our Apps and Software departments.  
@@ -46,8 +46,8 @@ Some of these duties include:
 1. Setting up and maintaining Weekly/Monthly reports to clients 
 
   
-• Certifications: 
-> Osha10, Twic, TSAprecheck, Keolis ROW, E-railSafe, BNSF contractor 
+<!-- • Certifications: 
+> Osha10, Twic, TSAprecheck, Keolis ROW, E-railSafe, BNSF contractor  -->
 <!-- [E-railSafe](https://erailsafe.com/usa/), [BNSF contractor card](assets/BNSF%20Contractor%20Card.jpg)  -->
 
 <!-- # Portfolio:   -->
