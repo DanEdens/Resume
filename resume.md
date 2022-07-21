@@ -31,11 +31,7 @@ Geotechical Monitoring specialist responsible for managing projects including Da
 - Managed multiple projects with job sites across the Midwest.  
 - Built backends for data collection and setup project Websites using Python, Javascript, NodeJS, MQTT, SQL, and PHP.
 - Devolped tools to improve efficency and Issue response time.  
-- Experience with Data acquisition tools such as Solar controllers, modems, Sensors, and dataloggers.
-<!-- - Experience operating Boom Lifts, Fork Lifts, Bucket trucks, 3d Printers, CNC routers, and other metal working equipment   -->
-<!-- - Experience working in environments such as:  
-> Dams, Railroads, Tunnels, Shafts, Pipelines, Refinerys, Highway Construction, Port Terminals, Wind turbine farms, Extreme heights.    -->
-
+- Experience with Data acquisition tools such as Solar controllers, Modems, Sensors, and dataloggers.
 
 In addition to this Project managment role, I heavily engaged myself in our Apps and Software departments.  
 
@@ -175,27 +171,25 @@ North Lake College - Irving, TX: 2012-2014
 1. [Lock and Dam (Project Spotlight)](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)  
     - Emergency Repair of an Army Core of Engineer's Lock and Dam that required being on-site nearly around the clock for a period of 3 months. 
     - I provided Equipment troubleshooting and Live Data monitoring for the repair team.
-    - Devolped Grout logging app for Crew working in heavy storming.
-    - Deployed 12 Tiltmeters within watertight buckets placed 40 feet underwater on the Dam slab. 
-    - deployed 12 Vibrating Wire Piezometers in packers installed into the slab by team of Divers
+    - Devolped a Grout logging app for Crew working in heavy storming.
+    - Deployed 12 Tiltmeters 40 feet under water on the Dam's slab.  
+    - Deployed 12 Vibrating Wire Piezometers in packers installed into the slab by team of Divers
     
 1. [Capitol Complex Excavation](https://www.tfc-ccp.org/)
-    - Installed 4 AMTS systems, Tiltmeters, Automated Inclinometers, and Vibration Monitors.  
-    - 
+    - Excavation monitoring in downtown Austin, Tx.  
+    - Installed AMTS systems, Tiltmeters, Automated Inclinometers, and Vibration Monitors.  
     
 1. [SH288 WSE wall failure (News Article on Emergency)](https://abc13.com/sh-288-pavement-failure-safety-purposes-structural-damage/10527940/)
-    - Emergency Job in Houston, TX. 
-    - We installed 2 SAAs and 6 Piezometers. 
-    - These were used to monitor for additonal settlement, and height of the water table during repairs.
+    - These were used to monitor for additonal settlement, and height of the water table during Emergency repairs.  
+    - Provided the client with SAA and Piezometer data during operations. 
     
 1. [Fuji (Project News article)](https://www.nola.com/news/business/article_a9e05f91-a734-5bd1-8d05-587258f6a3c0.html)
-    - Installed 3 AMTS systems and 9 SAAs across a Railroad loading yard in New Orleans, LA. 
-    - Monitoring Tunneling operations underneath 14 tracks.
+    - Tunneling Monitoring below 14 lines of Railroad.
+    - Provided the client settlement data during tunneling.
     
 1. [Pittman Hotel (Project News article)](https://www.dmagazine.com/commercial-real-estate/2020/06/first-look-the-kimpton-pittman-hotel-in-deep-ellum/)
-    - Historical preservation project
-    - Installed a Hydrostatic Cell system aswell as 24 tilt meters
-    - Monitoring underpinning activies while hotel was being renovated.
+    - Monitoring underpinning activites during preservation project of The Pittman Hotel in Dallas, Tx  
+    - Provided the client with a website for viewing Settlement and tilt data .
     
 1. [425 Riverside (Project News article)](https://www.realcomm.com/news/1045/1/river-south-austin-introducing-the-smart-building)
     - Diaframe wall project in Downtown Austin, Tx
@@ -204,19 +198,8 @@ North Lake College - Irving, TX: 2012-2014
 1. [Atoka Pipeline Repair (Project News article)](https://tunnelingonline.com/crossing-the-canadian-river/?oly_enc_id=9796A6381467B9S)
     - Tunneling project to relocate a Water pipeline underground  
     - Installed 2 AMTS systems to monitor current pipeline during blasting activities
-    
-1. [Mule Wall (LinkedIn Post)](https://www.linkedin.com/posts/activity-6796124222084268032-Yupj?utm_source=linkedin_share&utm_medium=member_desktop_web)    
-    - Restoration Project In Fort Worth, TX
-    - Deployed 6 Tiltmeters and 1 Crackmeter on wall that began to show signs of movement during Underpinning operations
-    
-1. [Pearl Rosemont (Project News article)](https://product.costar.com/home/news/shared/36342040?utm_source=newsletter&utm_medium=email&utm_campaign=personalized&utm_content=p6&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250YWN0SWQiOiI2ODU2Mzc5IiwiY3VsdHVyZUNvZGUiOiJlbi1VUyIsImlhdCI6MTYyNzM4NzMzNn0.AUCeV8N_1sf-3zsD46hJpdARPgvOrdlfbpsUh1WFHXw&fbclid=IwAR3FJxPmVrcHHK4Am0tsOZ9bnATh_ru8hfs_GZK7kju_3FURyy-1tSYNs6M)
-    - Installed 4 Vibration monitoring systems On Houston University buildings surrounding the exevation. 
-    
+            
 1. [Government Center collapse Repair and Load test (Project News article)](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)    
     - Load Test preformed on supports effected by the Government Center Garage collapse in Boston, MA.
     - Deployed 8x MPBX distance Laser systems and x8 String potentiometer during testing.
-     
-1. [Boston Power plant collapse - Vibration monitoring (Project News article)](https://darik.news/massachusetts/several-people-trapped-in-old-boston-power-plant-collapse/580584.html)
-    - Deployed 7 vibration monitors within the Power plant to monitor construction activities.
-    
-    
+         
