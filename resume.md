@@ -1,9 +1,10 @@
 
-<p style="text-align:right"><a href="https://github.com/DanEdens" title="Title">
-Dan Edens</a></p>  
-<p style="text-align:right"><a href="4696367704" title="Phone">(469)-636-7704</a></p>  
-<p style="text-align:right"><a href="mailto:DanEdens31@gmail.com" title="email">
-DanEdens31@gmail.com</a></p>  
+[Dan Edens](https://github.com/DanEdens)
+
+[(469)-636-7704](4696367704)
+
+[DanEdens31@gmail.com](mailto:DanEdens31@gmail.com)
+
 <center>Skills Summary  </center>
 
 ---
