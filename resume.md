@@ -12,11 +12,10 @@ Offering a wide range of experience in Project Mangement, Data collection, Risk 
 
 Hands-on field experience, spent ensuring data flow from sensors and assisting clients with data utlization, yeilded a strong practical sense for User Centered Design. 
 
-Incompreshenive list of tools I have delivered products using: 
-- Python, NodeJS, Javascript, Java, Visual Basic, HTML, REST 
-PHP, SQL, MQTT, and a variety of APIs
-- Cloud platforms including Azure, AWS, and self-hosted services
-- Documentation generation, DevOps CI/CD and Containeraztion  
+Incompreshenive list of tools I have delivered products using:  
+- Python, NodeJS, Javascript, Java, Visual Basic, HTML, REST, PHP, SQL, MQTT, and a variety of APIs  
+- Cloud platforms including Azure, AWS, and self-hosted services  
+- DevOps CI/CD, Containeraztion, and Documentation generation  
 
 
 # Work History
@@ -36,10 +35,10 @@ Geotechical Monitoring specialist responsible for managing projects including Da
 In addition to this Project managment role, I heavily engaged myself in our Apps and Software departments.  
 
 Some of these duties include:  
-1. Setting up project websites  
+1. Setting up Customer websites  
 1. Automating data collection of field sensors  
 1. Alert Investigation 
-1. Setting up and maintaining Weekly/Monthly reports to clients 
+1. Setting up and maintaining reports to clients 
 
   
 <!-- • Certifications: 
