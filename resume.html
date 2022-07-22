@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>resume.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<p><a href="https://github.com/DanEdens">Dan Edens</a></p>
+<p><a href="4696367704">(469)-636-7704</a></p>
+<p><a href="DanEdens31@gmail.com">DanEdens31@gmail.com</a></p>
+<center>Skills Summary  </center>  
+<hr>
+<p>Self Sufficient and Driven Software Engineer with a focus on Process Automation and Data Collection.
+Offering a wide range of experience in Project management, Data collection, Risk mitigation, and Compliance documentation.</p>
+<p>Hands-on field experience spent ensuring data flow from sensors and assisting clients with data utilisation, yielded a strong practical sense for user-centred Design.</p>
+<p>Incomprehensive list of tools I have delivered products using:</p>
+<ul>
+<li>Python, NodeJS, Javascript, Java, Visual Basic, HTML, REST, PHP, SQL, MQTT, and a variety of APIs</li>
+<li>Cloud platforms including Azure, AWS, and self-hosted services</li>
+<li>DevOps CI/CD, Containerization, and Documentation generation</li>
+</ul>
+<h1 id="work-history">Work History</h1>
+<h2 id="geo-instruments">Geo-Instruments</h2>
+<blockquote>
+<p>06/2018 - Present (07/2022)<br>
+<a href="https://www.geo-instruments.com/projects/"></a><br>
+<a href="https://www.geo-instruments.com/implementing-geotechnical-monitoring-programs/">VIdeo detailing what we do at Geo-instruments</a></p>
+</blockquote>
+<p>Geotechnical Monitoring specialist responsible for managing projects including Data collection, Web development, Risk mitigation and Compliance documentation for a variety of industries.</p>
+<ul>
+<li>Experienced Operating Independently, and worked as a stand-alone remote branch for 3.5 years.</li>
+<li>Managed multiple projects with job sites across the Midwest.</li>
+<li>Built backends for data collection and set up project Websites using Python, Javascript, NodeJS, MQTT, SQL, and PHP.</li>
+<li>Developed tools to improve efficiency and Issue response time.</li>
+<li>Experience with Data acquisition tools such as Solar controllers, Modems, Sensors, and dataloggers.</li>
+</ul>
+<p>In addition to this Project management role, I heavily engaged myself in our Apps and Software departments.</p>
+<p>Some of these duties include:</p>
+<ol>
+<li>Setting up Customer websites</li>
+<li>Automating data collection of field sensors</li>
+<li>Alert Investigation</li>
+<li>Setting up and maintaining reports to clients</li>
+</ol>
+<!-- • Certifications: 
+> Osha10, Twic, TSAprecheck, Keolis ROW, E-railSafe, BNSF contractor  -->
+<!-- [E-railSafe](https://erailsafe.com/usa/), [BNSF contractor card](assets/BNSF%20Contractor%20Card.jpg)  -->
+<!-- # Portfolio:   -->
+<hr>
+<h1 id="tools-for-project-management">Tools for Project Management</h1>
+<ol>
+<li>
+<p>Sitecheck Scanner</p>
+<ul>
+<li>
+<p><a href="https://github.com/DanEdens/sitecheck">Check it out on Github</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=HExwe__eeJU">Demo On Youtube</a></p>
+</li>
+<li>
+<p><a href="https://pypi.org/project/sitecheck/0.8.1.1/">pip install sitecheck</a><br>
+<a href="http://www.youtube.com/watch?v=HExwe__eeJU" title="Video Title"><img src="assets/ExampleSitecheckScannerTeamsCardGeneration.jpg" alt="IMAGE ALT TEXT"></a></p>
+</li>
+<li>
+<p>A guided visual tour of project websites.</p>
+</li>
+<li>
+<p>Automated Browser used for detecting setup errors, missed readings, and anomalous data.</p>
+</li>
+<li>
+<p>Navigates through projects and highlights changes in sensor status.</p>
+</li>
+<li>
+<p>CLI for end-to-end testing project websites.</p>
+</li>
+<li>
+<p>Posts results to the company Team's channels.</p>
+</li>
+</ul>
+ <!-- - Written originally in Nodejs then migrated to python for the Apps team's benefit.   -->  
+ <!-- - Geo-Instrument's Project managers and Apps team, used pull information on missing sensor data.   -->
+<ul>
+<li>Assists Geo-Instrument's field techs with keeping an eye on multiple projects while working in the field.</li>
+<li>SQL database is checked and any sensors missing longer than 22 hours are reported to an MQTT broker.</li>
+<li>Reduces load on the server for project checks, and prevents missed issues when working with sensors on very congested plan views.</li>
+<li>Results customizable for each project manager</li>
+</ul>
+</li>
+<li>
+<p>Timelapse_factory</p>
+<ul>
+<li>
+<p><a href="https://www.youtube.com/watch?v=cgKvyPWVw6E">Demo On Youtube</a></p>
+</li>
+<li>
+<p>NodeJS Web scrapper for pulling plots of data graphed on our Quickview platform.
+<img src="assets/RiversideExcavation35speedReduceColorTable.gif" alt="Example GIf"></p>
+</li>
+<li>
+<p>Used to overlay data from sensors installed in the Diaphragm wall onto Jobsite Camera footage.</p>
+</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h1 id="tools-for-the-field">Tools for the Field</h1>
+<ol>
+<li>
+<p>Interface Panel -<br>
+<a href="https://taskernet.com/shares/?user=AS35m8mBhJAezDTr0Lio7dopdLiBaKgozAOxoCXM7Mh8sS5hSvSst1kEMf5%2FJeJveB%2BsvU8%3D&amp;id=Project%3AInterface">Download on Taskernet</a></p>
+<ul>
+<li>GUI for assigning scripts to Mobile device triggers such as Shake, Hardware buttons, NFC tags, and Voice commands.<br>
+<img src="assets/InterfacePanelExample_Tasker.jpg" alt="ExampleImage"></li>
+<li>Used to assist in safely operating testing equipment in Industrial environments.</li>
+<li>Able to detect current job by closest address, and uses this for sorting data.</li>
+<li>&quot;SOS button&quot; mode to alert On-Site Safety Manager</li>
+</ul>
+</li>
+<li>
+<p>LnetFieldApp<br>
+Frontend:</p>
+<ul>
+<li>Andriod App for controling <a href="https://www.topconpositioning.com/total-stations/robotic-total-stations/ms-axii">Topcon</a> total stations.<br>
+<img src="assets/Lnet_example_Tasker.jpg" alt="LnetExample"></li>
+<li>Internal-use replacement for Campbell Scientic's <a href="https://play.google.com/store/apps/details?id=com.campbellsci.loggerlink&amp;hl=en_US&amp;gl=US">Loggerlink</a> app.</li>
+<li>Significantly improved ability to zero in on survey points.</li>
+</ul>
+</li>
+</ol>
+<ul>
+<li>Backend:<br>
+<img src="assets/LnetAppWithServerExample.jpg" alt="LnetExample">
+<ul>
+<li>Lightweight and scalable python script that pipes MQTT topics into <a href="https://www.man7.org/linux/man-pages/man1/xargs.1.html">Xargs</a>.</li>
+<li>Non-blocking control of several Units through the <a href="https://www.campbellsci.com/loggernet">Loggernet CLI, Corascript</a>.</li>
+<li>Server utilizes Python, Xargs, and Mosquitto.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h1 id="tools-for-the-shop">Tools for the Shop</h1>
+<ol>
+<li>
+<p>AMTSworkshop<br>
+<em>Began as migration of 20 years worth of Campbell Scientific Datalogger programs into Git.</em><br>
+<img src="assets/AMTSworkshopCover.jpg" alt="AMTScover"></p>
+<ul>
+<li>Worked on an R&amp;D project for a new type of Monitoring prism.</li>
+<li>Azure DevOps pipelines for testing each commit on live lab equipment</li>
+<li>Designed to handle rolling out changes slowly due to certain project specs requiring legacy versions on remote data loggers.</li>
+</ul>
+</li>
+<li>
+<p>Geo Battery Bot<br>
+<a href="https://github.com/DanEdens/GeoBatteryBot_public">Check it out on Github</a><br>
+<img src="assets/BatteryBotExample.jpg" alt="Batterybotexample"><br>
+<img src="assets/BatteryBotGUIexample.jpg" alt="Batterybotexample"><br>
+Mobile app for tracking inventory of Geo-instrument's fleet of 110ah AGM batteries.<br>
+This is used to manage the <a href="https://www.upsbatterycenter.com/blog/battery-desulfation/">desulfating</a> schedule.</p>
+<ul>
+<li>I created a QRcode generator which publishes a number and status to the (Join API)[https://joaoapps.com/join/api/].</li>
+<li>A tablet located in the Geo-Instrument's Shop acts as the server.</li>
+<li>Created an Andriod app as GUI and backend to log unit events.</li>
+<li>Stickers are generated in a given range of serial numbers by the <a href="https://github.com/DanEdens/GeoBatteryBot_public/blob/master/qr-generator.py">python script: QR-generator.py</a></li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="chilis-grill-and-bar">Chili's Grill and Bar</h2>
+<blockquote>
+<p>4570 TX-121, Lewisville, TX 75056 - (214) 494-6341<br>
+Prep Cook: 01/2016 to 06/2018</p>
+</blockquote>
+<ol>
+<li>Motivated food industry worker offering over 5 years of experience.</li>
+<li>Lead Prep team, Maintained a show-ready kitchen for Chili's Test location</li>
+<li>Took part in Franchise showcases and assisted in Marketing events such as filming TV commercials.</li>
+<li>Worked closely with corporate offices to help field test timely and effective ways to improve menu recipes and standards.</li>
+<li>Created a hands-free Recipe app for the kitchen's tablet.</li>
+<li>Created Cooling log and Inventory tracking app.</li>
+<li>Collected data on the accuracy of daily On-hand food quantities for a 6-month period. This Resulted in Improved Daily prep list efficiency.</li>
+</ol>
+<hr>
+<h2 id="chilis-grill-and-bar">Chili's Grill and Bar</h2>
+<blockquote>
+<p>190 Williamson Blvd, Ormond Beach, FL 32174 - (386) 672-7760<br>
+Prep Cook: 06/2014 to 09/2015</p>
+</blockquote>
+<hr>
+<h2 id="wood-previously-known-as-amec-earth--environmental"><a href="https://www.woodplc.com/">Wood (Previously known as AMEC Earth &amp; Environmental)</a></h2>
+<blockquote>
+<p>4490 Beltway Drive, Addison, TX 75001 - (469) 828-4100<br>
+Laboratory Technician 08/2013 to 03/2014</p>
+</blockquote>
+<ol>
+<li>Performed laboratory testing on concrete and soil samples.</li>
+<li>Collected and maintained data reports detailing project samples.</li>
+<li>Managed test scheduling and preserving samples in limestone storage tanks</li>
+</ol>
+<p>• Certifications:<br>
+<a href="https://www.concrete.org/certification/certificationprograms.aspx?m=details&amp;pgm=Field%20Concrete%20Testing&amp;cert=Concrete%20Field%20Testing%20Technician%20-%20Grade%20I">ACI Concrete Technicain certification</a></p>
+<hr>
+<h1 id="education">Education</h1>
+<p>Associate of Arts: Computer Science<br>
+North Lake College - Irving, TX: 2012-2014</p>
+<ul>
+<li>Focused on coursework in Mathematics and Intro to C++</li>
+</ul>
+<hr>
+<h1 id="project-portfolio">Project Portfolio:</h1>
+<ol>
+<li>
+<p><a href="https://www.geo-instruments.com/mse-wall-repair/">MSE Wall Repair (Project Spotlight)</a></p>
+<ul>
+<li>Planned and executed a Monitoring plan for a collapsed MSE wall in Fort Worth, Tx.</li>
+<li>Deployed Tiltmeters and Crack monitoring equipment to monitor for movement during wall repair.</li>
+<li>Built and Maintained Client website displaying Tiltmeter and AMTS Data.</li>
+</ul>
+</li>
+<li>
+<p><a href="http://www.massman.net/project/columbia-lock-dam-emergency-repairs">Lock and Dam (Project Spotlight)</a></p>
+<ul>
+<li>Emergency Repair of an Army Core of Engineer's Lock and Dam that required being on-site nearly around the clock for a period of 3 months.</li>
+<li>I provided Equipment troubleshooting and Live Data monitoring for the repair team.</li>
+<li>Developed a Grout logging app for Crew working in heavy storming.</li>
+<li>Deployed 12 Tiltmeters 40 feet underwater on the Dam's slab.</li>
+<li>Deployed 12 Vibrating Wire Piezometers in packers installed into the slab by a team of Divers</li>
+</ul>
+</li>
+<li>
+<p><a href="https://www.tfc-ccp.org/">Capitol Complex Excavation</a></p>
+<ul>
+<li>Excavation monitoring in downtown Austin, Tx.</li>
+<li>Installed AMTS systems, Tiltmeters, Automated Inclinometers, and Vibration Monitors.</li>
+</ul>
+</li>
+<li>
+<p><a href="https://abc13.com/sh-288-pavement-failure-safety-purposes-structural-damage/10527940/">SH288 WSE wall failure (News Article on Emergency)</a></p>
+<ul>
+<li>These were used to monitor for additional settlement and the height of the water table during Emergency repairs.</li>
+<li>Provided the client with SAA and Piezometer data during operations.</li>
+</ul>
+</li>
+<li>
+<p><a href="https://www.nola.com/news/business/article_a9e05f91-a734-5bd1-8d05-587258f6a3c0.html">Fuji (Project News article)</a></p>
+<ul>
+<li>Tunneling Monitoring below 14 lines of Railroad.</li>
+<li>Provided the client settlement data during tunnelling.</li>
+</ul>
+</li>
+<li>
+<p><a href="https://www.dmagazine.com/commercial-real-estate/2020/06/first-look-the-kimpton-pittman-hotel-in-deep-ellum/">Pittman Hotel (Project News article)</a></p>
+<ul>
+<li>Monitoring underpinning activities during the preservation project of The Pittman Hotel in Dallas, Tx</li>
+<li>Provided the client with a website for viewing Settlement and tilt data.</li>
+</ul>
+</li>
+<li>
+<p><a href="https://www.realcomm.com/news/1045/1/river-south-austin-introducing-the-smart-building">425 Riverside (Project News article)</a></p>
+<ul>
+<li>Diaphragm wall project in Downtown Austin, Tx</li>
+<li>Data used to verify design loads during construction, resulting in the elimination of a row of anchors.</li>
+</ul>
+</li>
+<li>
+<p><a href="https://tunnelingonline.com/crossing-the-canadian-river/?oly_enc_id=9796A6381467B9S">Atoka Pipeline Repair (Project News article)</a></p>
+<ul>
+<li>Tunneling project to relocate a Water pipeline underground</li>
+<li>Installed 2 AMTS systems to monitor the active water pipeline during blasting activities</li>
+</ul>
+</li>
+<li>
+<p><a href="https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135">Government Center collapse Repair and Load test (Project News article)</a></p>
+<ul>
+<li>Load Test performed on supports affected by the Government Center Garage collapse in Boston, MA.</li>
+<li>Deployed 8x MPBX distance Laser systems and x8 String potentiometer during testing.</li>
+</ul>
+</li>
+</ol>
+
+</body>
+</html>
