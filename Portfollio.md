@@ -6,25 +6,28 @@
     - Built and Maintained Client website displaying Tiltmeter and AMTS Data.
 
 1. [Lock and Dam (Project Spotlight)](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)
-    - Emergency Repair of an Army Core of Engineer's Lock and Dam that required being on-site nearly around the clock for a period of 3 months.
+    - Nov 2018 - Feb 2019
+    - Emergency Repair of an Army Corps of Engineers' Lock and Dam.  
     - I provided Equipment troubleshooting and Live Data monitoring for the repair team.
-    - Developed a Grout logging app for Crew working in heavy storming.
-    - Deployed 12 Tiltmeters 40 feet underwater on the Dam's slab.
-    - Deployed 12 Vibrating Wire Piezometers in packers installed into the slab by a team of Divers
+    - Developed a Grout logging app for Crew working in heavy storming.  
+    - Deployed Piezometers and Tiltmeters 40 feet underwater on the Dam's slab.  
 
 1. [Capitol Complex Excavation](https://www.tfc-ccp.org/)
     - Excavation monitoring in downtown Austin, Tx.
     - Installed AMTS systems, Tiltmeters, Automated Inclinometers, and Vibration Monitors.
 
 1. [SH288 WSE wall failure (News Article on Emergency)](https://abc13.com/sh-288-pavement-failure-safety-purposes-structural-damage/10527940/)
-    - These were used to monitor for additional settlement and the height of the water table during Emergency repairs.
+    - Apr 2021 - Oct 2021
     - Provided the client with SAA and Piezometer data during operations.
+    - These were used to monitor for additional settlement and the height of the water table during Emergency repairs.
 
 1. [Fuji (Project News article)](https://www.nola.com/news/business/article_a9e05f91-a734-5bd1-8d05-587258f6a3c0.html)
+    - Aug 2021 - Apr 2022
     - Tunneling Monitoring below 14 lines of Railroad.
     - Provided the client settlement data during tunnelling.
 
 1. [Pittman Hotel (Project News article)](https://www.dmagazine.com/commercial-real-estate/2020/06/first-look-the-kimpton-pittman-hotel-in-deep-ellum/)
+    - Aug 2018 - Apr 2019
     - Monitoring underpinning activities during the preservation project of The Pittman Hotel in Dallas, Tx
     - Provided the client with a website for viewing Settlement and tilt data.
 
