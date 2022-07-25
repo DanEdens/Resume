@@ -5,12 +5,9 @@
 
 [DanEdens31@gmail.com](DanEdens31@gmail.com)  
 
-<center>Skills Summary  </center>  
-
 ---
 Self Sufficient and Driven Software Engineer with a focus on Process Automation and Data Collection. 
 Offering a wide range of experience in Project management, Data collection, Risk mitigation, and Compliance documentation.  
-
 Hands-on field experience spent ensuring data flow from sensors and assisting clients with data utilisation, yielded a strong practical sense for user-centred Design.  
 
 Incomprehensive list of tools I have delivered products using:  

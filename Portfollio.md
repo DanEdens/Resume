@@ -1,6 +1,7 @@
 #  Project Portfolio:
 
 1. [MSE Wall Repair (Project Spotlight)](https://www.geo-instruments.com/mse-wall-repair/)
+    - Apr 2021 - Oct 2021
     - Planned and executed a Monitoring plan for a collapsed MSE wall in Fort Worth, Tx.
     - Deployed Tiltmeters and Crack monitoring equipment to monitor for movement during wall repair.
     - Built and Maintained Client website displaying Tiltmeter and AMTS Data.
@@ -13,6 +14,7 @@
     - Deployed Piezometers and Tiltmeters 40 feet underwater on the Dam's slab.  
 
 1. [Capitol Complex Excavation](https://www.tfc-ccp.org/)
+    - Mar 2018 - Jul 2022
     - Excavation monitoring in downtown Austin, Tx.
     - Installed AMTS systems, Tiltmeters, Automated Inclinometers, and Vibration Monitors.
 
@@ -32,6 +34,7 @@
     - Provided the client with a website for viewing Settlement and tilt data.
 
 1. [425 Riverside (Project News article)](https://www.realcomm.com/news/1045/1/river-south-austin-introducing-the-smart-building)
+    - May 2019 - Jun 2020
     - Diaphragm wall project in Downtown Austin, Tx
     - Data used to verify design loads during construction, resulting in the elimination of a row of anchors.
 
