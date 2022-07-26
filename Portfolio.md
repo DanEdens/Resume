@@ -9,7 +9,7 @@
 1. [Lock and Dam (Project Spotlight)](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)
     - Nov 2018 - Feb 2019
     - Emergency Repair of an Army Corps of Engineers' Lock and Dam.  
-    - I provided Equipment troubleshooting and Live Data monitoring for the repair team.
+    - Provided Equipment troubleshooting and Live Data monitoring for the repair team.
     - Developed a Grout logging app for Crew working in heavy storming.  
     - Deployed Piezometers and Tiltmeters 40 feet underwater on the Dam's slab.  
 
@@ -39,9 +39,11 @@
     - Data used to verify design loads during construction, resulting in the elimination of a row of anchors.
 
 1. [Atoka Pipeline Repair (Project News article)](https://tunnelingonline.com/crossing-the-canadian-river/?oly_enc_id=9796A6381467B9S)
+    - Jul 2019 - Jan 2022
     - Tunneling project to relocate a Water pipeline underground
     - Installed 2 AMTS systems to monitor the active water pipeline during blasting activities
 
-1. [Government Center collapse Repair and Load test (Project News article)](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)
+1. [Government Center Parking Garage - MBTA Greenline  LT(Project News article)](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)
+    - May 2022
     - Load Test performed on supports affected by the Government Center Garage collapse in Boston, MA.
-    - Deployed 8x MPBX distance Laser systems and x8 String potentiometer during testing.
+    - Deployed MPBX Laser systems and String potentiometer during testing.
