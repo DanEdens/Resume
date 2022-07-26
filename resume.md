@@ -3,6 +3,7 @@
 
 [(469)-636-7704](4696367704)  
 
+
 [DanEdens31@gmail.com](DanEdens31@gmail.com)  
 
 ---
@@ -58,8 +59,6 @@ Some of these duties include:
     - Navigates through projects and highlights changes in sensor status.  
     - CLI for end-to-end testing project websites.  
     - Posts results to the company Team's channels.  
-    <!-- - Written originally in Nodejs then migrated to python for the Apps team's benefit.   -->  
-    <!-- - Geo-Instrument's Project managers and Apps team, used pull information on missing sensor data.   -->
     - Assists Geo-Instrument's field techs with keeping an eye on multiple projects while working in the field.  
     - SQL database is checked and any sensors missing longer than 22 hours are reported to an MQTT broker.  
     - Reduces load on the server for project checks, and prevents missed issues when working with sensors on very congested plan views.  
