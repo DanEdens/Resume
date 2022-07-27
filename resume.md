@@ -20,7 +20,7 @@ Incomprehensive list of tools I have delivered products using:
 # Work History  
 ## Geo-Instruments  
 > 06/2018 - Present (07/2022)   
-[Project Portfollio](/Portfollio.md)  
+[Project Portfollio](https://github.com/DanEdens/Resume/blob/main/Portfolio.md)  
 > [VIdeo detailing what we do at Geo-instruments](https://www.geo-instruments.com/implementing-geotechnical-monitoring-programs/)  
 
 Geotechnical Monitoring specialist responsible for managing projects including Data collection, Web development, Risk mitigation and Compliance documentation for a variety of industries.  
