@@ -7,13 +7,15 @@
 
 ---
 Self Sufficient and Driven Software Engineer with a focus on Process Automation and Data Collection.  
-Offering a wide range of experience in Project management, Data collection, Risk mitigation, and Compliance documentation.  
+I Offer a wide range of experience in DevOps Project management, Data collection, Risk mitigation, and Compliance documentation.  
 Hands-on field experience spent ensuring data flow from sensors and assisting clients with data utilisation, yielded a strong practical sense for user-centred Design.  
+Experienced Operating Independently, and worked as a stand-alone remote branch for 3.5 years.  
+
 
 Incomprehensive list of tools I have delivered products using:  
 - Python, NodeJS, Javascript, Java, Visual Basic, HTML, REST, PHP, SQL, MQTT, and a variety of APIs  
-- Cloud platforms including Azure, AWS, and self-hosted services  
 - DevOps CI/CD, Containerization, and Documentation generation  
+- Cloud platforms including Azure, AWS, and self-hosted services  
 
 
 # Work History  
@@ -24,7 +26,6 @@ Incomprehensive list of tools I have delivered products using:
 
 Geotechnical Monitoring specialist responsible for managing projects including Data collection, Web development, Risk mitigation and Compliance documentation for a variety of industries.  
 
-- Experienced Operating Independently, and worked as a stand-alone remote branch for 3.5 years.  
 - Managed multiple projects with job sites across the Midwest.  
 - Built backends for data collection and set up project Websites using Python, Javascript, NodeJS, MQTT, SQL, and PHP.  
 - Developed tools to improve efficiency and Issue response time.  

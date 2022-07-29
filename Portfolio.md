@@ -1,36 +1,34 @@
-# Tools for Project Management  
+# Apps Designed and Deployed   
+
 1. Sitecheck Scanner  
-    - [Check it out on Github](https://github.com/DanEdens/sitecheck)  
-    - [Demo On Youtube](https://www.youtube.com/watch?v=HExwe__eeJU)    
-    - [pip install sitecheck](https://pypi.org/project/sitecheck/0.8.1.1/)  
-        [![IMAGE ALT TEXT](assets/ExampleSitecheckScannerTeamsCardGeneration.jpg)](http://www.youtube.com/watch?v=HExwe__eeJU "Video Title")  
+    - A CLI for end-to-end testing Client websites.  
+    - Generates Visual tour of multiple Geotechincal monitoring platforms, used to assists Geo-Instrument's field technicians with Issue Visablity
+    - Navigates through Planviews and alerts the User to changes in sensor status, missed readings and setup errors.  
+    - Support for Microsoft Team's Adaptive Cards.  
+    - SQL database is monitored, alerting on any sensors missing for 22 hours, and reporting to an MQTT broker.  
+    - Decentralized database access, and reduced Human error in Issue visablity.  
+    <!-- - Results customizable for each project manager   -->
     
-    - A guided visual tour of project websites.  
-    - Automated Browser used for detecting setup errors, missed readings, and anomalous data.  
-    - Navigates through projects and highlights changes in sensor status.  
-    - CLI for end-to-end testing project websites.  
-    - Posts results to the company Team's channels.  
-    - Assists Geo-Instrument's field techs with keeping an eye on multiple projects while working in the field.  
-    - SQL database is checked and any sensors missing longer than 22 hours are reported to an MQTT broker.  
-    - Reduces load on the server for project checks, and prevents missed issues when working with sensors on very congested plan views.  
-    - Results customizable for each project manager  
+    ### [Demontration Video](https://www.youtube.com/watch?v=HExwe__eeJU) --- [Check it out on Github](https://github.com/DanEdens/sitecheck) --- [Install via Pip](https://pypi.org/project/sitecheck/0.8.1.1/)  
+    
+    [![Example of Output](assets/ExampleSitecheckScannerTeamsCardGeneration.jpg)](http://www.youtube.com/watch?v=HExwe__eeJU "Scrapper Demo Video")  
 
 1. Timelapse_factory  
-    - [Demo On Youtube](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
- 
     - NodeJS Web scrapper for pulling plots of data graphed on our Quickview platform.
-     ![Example GIf](assets/RiversideExcavation35speedReduceColorTable.gif)
     - Used to overlay data from sensors installed in the Diaphragm wall onto Jobsite Camera footage.  
+    ### [Demo On Youtube](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
+ 
+     ![Example GIf](assets/RiversideExcavation35speedReduceColorTable.gif)
 
 ---   
 # Tools for the Field  
 1. Interface Panel -  
     [Download on Taskernet](https://taskernet.com/shares/?user=AS35m8mBhJAezDTr0Lio7dopdLiBaKgozAOxoCXM7Mh8sS5hSvSst1kEMf5%2FJeJveB%2BsvU8%3D&id=Project%3AInterface)  
     - GUI for assigning scripts to Mobile device triggers such as Shake, Hardware buttons, NFC tags, and Voice commands.  
-     ![ExampleImage](assets/InterfacePanelExample_Tasker.jpg)  
     - Used to assist in safely operating testing equipment in Industrial environments.  
     - Able to detect current job by closest address, and uses this for sorting data.  
     - "SOS button" mode to alert On-Site Safety Manager  
+     ![ExampleImage](assets/InterfacePanelExample_Tasker.jpg)  
 
 1. LnetFieldApp  
     Frontend:   
