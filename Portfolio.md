@@ -14,8 +14,8 @@
     [![Example of Output](assets/ExampleSitecheckScannerTeamsCardGeneration.jpg)](http://www.youtube.com/watch?v=HExwe__eeJU "Scrapper Demo Video")  
 
 1. Timelapse_factory  
-    - NodeJS Web scrapper for pulling plots of data graphed on our Quickview platform.
-    - Used to overlay data from sensors installed in the Diaphragm wall onto Jobsite Camera footage.  
+    - Web scrapper for manipulating data displayed on our Quickview platform.
+    - Used to overlay data plots onto Jobsite Camera footage.  
     ### [Demo On Youtube](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
  
      ![Example GIf](assets/RiversideExcavation35speedReduceColorTable.gif)
@@ -30,22 +30,22 @@
     - "SOS button" mode to alert On-Site Safety Manager  
      ![ExampleImage](assets/InterfacePanelExample_Tasker.jpg)  
 
-1. LnetFieldApp  
+1.  LnetFieldApp  
     Frontend:   
     - Andriod App for controling [Topcon](https://www.topconpositioning.com/total-stations/robotic-total-stations/ms-axii) total stations.  
+    - Internal replacement for Campbell Scientic's [Loggerlink](https://play.google.com/store/apps/details?id=com.campbellsci.loggerlink&hl=en_US&gl=US) app.  
+    - Significantly improves ability to locate survey points.  
     ![LnetExample](assets/Lnet_example_Tasker.jpg)
-    - Internal-use replacement for Campbell Scientic's [Loggerlink](https://play.google.com/store/apps/details?id=com.campbellsci.loggerlink&hl=en_US&gl=US) app.  
-    - Significantly improved ability to zero in on survey points.  
   
 -  
     Backend:  
-    ![LnetExample](assets/LnetAppWithServerExample.jpg)
      - Lightweight and scalable python script that pipes MQTT topics into [Xargs](https://www.man7.org/linux/man-pages/man1/xargs.1.html).  
      - Non-blocking control of several Units through the [Loggernet CLI, Corascript](https://www.campbellsci.com/loggernet).  
      - Server utilizes Python, Xargs, and Mosquitto.  
+    ![LnetExample](assets/LnetAppWithServerExample.jpg)
 ---
 
-# Tools for the Shop  
+## Tools for the Shop  
 1. AMTSworkshop  
     *Began as migration of 20 years worth of Campbell Scientific Datalogger programs into Git.*  
     ![AMTScover](assets/AMTSworkshopCover.jpg)  

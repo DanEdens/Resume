@@ -15,13 +15,14 @@ Experienced Operating Independently, and worked as a stand-alone remote branch f
 Incomprehensive list of tools I have delivered products using:  
 - Python, NodeJS, Javascript, Java, Visual Basic, HTML, REST, PHP, SQL, MQTT, and a variety of APIs  
 - DevOps CI/CD, Containerization, and Documentation generation  
-- Cloud platforms including Azure, AWS, and self-hosted services  
+- Cloud platforms including Azure, Gitlab, AWS, and self-hosted services  
+
+# [Project Portfolio](https://github.com/DanEdens/Resume/blob/main/Portfolio.md)  
 
 
 # Work History  
 ## Geo-Instruments  
 > 06/2018 - Present (07/2022)   
-[Project Portfollio](https://github.com/DanEdens/Resume/blob/main/Portfolio.md)  
 > [VIdeo detailing what we do at Geo-instruments](https://www.geo-instruments.com/implementing-geotechnical-monitoring-programs/)  
 
 Geotechnical Monitoring specialist responsible for managing projects including Data collection, Web development, Risk mitigation and Compliance documentation for a variety of industries.  
