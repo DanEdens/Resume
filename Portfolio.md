@@ -1,3 +1,74 @@
+# Tools for Project Management  
+1. Sitecheck Scanner  
+    - [Check it out on Github](https://github.com/DanEdens/sitecheck)  
+    - [Demo On Youtube](https://www.youtube.com/watch?v=HExwe__eeJU)    
+    - [pip install sitecheck](https://pypi.org/project/sitecheck/0.8.1.1/)  
+        [![IMAGE ALT TEXT](assets/ExampleSitecheckScannerTeamsCardGeneration.jpg)](http://www.youtube.com/watch?v=HExwe__eeJU "Video Title")  
+    
+    - A guided visual tour of project websites.  
+    - Automated Browser used for detecting setup errors, missed readings, and anomalous data.  
+    - Navigates through projects and highlights changes in sensor status.  
+    - CLI for end-to-end testing project websites.  
+    - Posts results to the company Team's channels.  
+    - Assists Geo-Instrument's field techs with keeping an eye on multiple projects while working in the field.  
+    - SQL database is checked and any sensors missing longer than 22 hours are reported to an MQTT broker.  
+    - Reduces load on the server for project checks, and prevents missed issues when working with sensors on very congested plan views.  
+    - Results customizable for each project manager  
+
+1. Timelapse_factory  
+    - [Demo On Youtube](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
+ 
+    - NodeJS Web scrapper for pulling plots of data graphed on our Quickview platform.
+     ![Example GIf](assets/RiversideExcavation35speedReduceColorTable.gif)
+    - Used to overlay data from sensors installed in the Diaphragm wall onto Jobsite Camera footage.  
+
+---   
+# Tools for the Field  
+1. Interface Panel -  
+    [Download on Taskernet](https://taskernet.com/shares/?user=AS35m8mBhJAezDTr0Lio7dopdLiBaKgozAOxoCXM7Mh8sS5hSvSst1kEMf5%2FJeJveB%2BsvU8%3D&id=Project%3AInterface)  
+    - GUI for assigning scripts to Mobile device triggers such as Shake, Hardware buttons, NFC tags, and Voice commands.  
+     ![ExampleImage](assets/InterfacePanelExample_Tasker.jpg)  
+    - Used to assist in safely operating testing equipment in Industrial environments.  
+    - Able to detect current job by closest address, and uses this for sorting data.  
+    - "SOS button" mode to alert On-Site Safety Manager  
+
+1. LnetFieldApp  
+    Frontend:   
+    - Andriod App for controling [Topcon](https://www.topconpositioning.com/total-stations/robotic-total-stations/ms-axii) total stations.  
+    ![LnetExample](assets/Lnet_example_Tasker.jpg)
+    - Internal-use replacement for Campbell Scientic's [Loggerlink](https://play.google.com/store/apps/details?id=com.campbellsci.loggerlink&hl=en_US&gl=US) app.  
+    - Significantly improved ability to zero in on survey points.  
+  
+-  
+    Backend:  
+    ![LnetExample](assets/LnetAppWithServerExample.jpg)
+     - Lightweight and scalable python script that pipes MQTT topics into [Xargs](https://www.man7.org/linux/man-pages/man1/xargs.1.html).  
+     - Non-blocking control of several Units through the [Loggernet CLI, Corascript](https://www.campbellsci.com/loggernet).  
+     - Server utilizes Python, Xargs, and Mosquitto.  
+---
+
+# Tools for the Shop  
+1. AMTSworkshop  
+    *Began as migration of 20 years worth of Campbell Scientific Datalogger programs into Git.*  
+    ![AMTScover](assets/AMTSworkshopCover.jpg)  
+    - Worked on an R&D project for a new type of Monitoring prism.  
+    - Azure DevOps pipelines for testing each commit on live lab equipment  
+    - Designed to handle rolling out changes slowly due to certain project specs requiring legacy versions on remote data loggers.  
+    
+1. Geo Battery Bot  
+    [Check it out on Github](https://github.com/DanEdens/GeoBatteryBot_public)  
+    ![Batterybotexample](assets/BatteryBotExample.jpg)  
+    ![Batterybotexample](assets/BatteryBotGUIexample.jpg)  
+    Mobile app for tracking inventory of Geo-instrument's fleet of 110ah AGM batteries.  
+    This is used to manage the [desulfating](https://www.upsbatterycenter.com/blog/battery-desulfation/) schedule.  
+    
+    - I created a QRcode generator which publishes a number and status to the (Join API)[https://joaoapps.com/join/api/].  
+    - A tablet located in the Geo-Instrument's Shop acts as the server.  
+    - Created an Andriod app as GUI and backend to log unit events.  
+    - Stickers are generated in a given range of serial numbers by the [python script: QR-generator.py](https://github.com/DanEdens/GeoBatteryBot_public/blob/master/qr-generator.py)  
+---
+
+
 #  Project Portfolio:
 
 1. [MSE Wall Repair (Project Spotlight)](https://www.geo-instruments.com/mse-wall-repair/)
