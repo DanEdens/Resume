@@ -2,3 +2,4 @@
 *.swp
 assets/install-tl-windows.exe
 ~*
+*.log

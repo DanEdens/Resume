@@ -1,0 +1,3 @@
+[submodule "resume_generator"]
+	path = resume_generator
+	url = https://github.com/DanEdens/resume_generator.git

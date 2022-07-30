@@ -1,0 +1,200 @@
+% Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+% Copyright 2014 Mark Szepieniec <http://github.com/mszep>
+% 
+% ConText style for making a resume with pandoc. Inspired by moderncv.
+% 
+% This CSS document is delivered to you under the CC BY-SA 3.0 License.
+% https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+
+\startmode[*mkii]
+  \enableregime[utf-8]  
+  \setupcolors[state=start]
+\stopmode
+
+\setupcolor[hex]
+\definecolor[titlegrey][h=757575]
+\definecolor[sectioncolor][h=397249]
+\definecolor[rulecolor][h=9cb770]
+
+% Enable hyperlinks
+\setupinteraction[state=start, color=sectioncolor]
+
+\setuppapersize [A4][A4]
+\setuplayout    [width=middle, height=middle,
+                 backspace=20mm, cutspace=0mm,
+                 topspace=10mm, bottomspace=20mm,
+                 header=0mm, footer=0mm]
+
+%\setuppagenumbering[location={footer,center}]
+
+\setupbodyfont[11pt, helvetica]
+
+\setupwhitespace[medium]
+
+\setupblackrules[width=31mm, color=rulecolor]
+
+\setuphead[chapter]      [style=\tfd]
+\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
+\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
+                          before={\leavevmode\blackrule\hspace}]
+\setuphead[subsubsection][style=\bf]
+
+\setuphead[chapter, section, subsection, subsubsection][number=no]
+
+%\setupdescriptions[width=10mm]
+
+\definedescription
+  [description]
+  [headstyle=bold, style=normal,
+   location=hanging, width=18mm, distance=14mm, margin=0cm]
+
+\setupitemize[autointro, packed]    % prevent orphan list intro
+\setupitemize[indentnext=no]
+
+\defineitemgroup[enumerate]
+\setupenumerate[each][fit][itemalign=left,distance=.5em,style={\feature[+][default:tnum]}]
+
+\setupfloat[figure][default={here,nonumber}]
+\setupfloat[table][default={here,nonumber}]
+
+\setuptables[textwidth=max, HL=none]
+\setupxtable[frame=off,option={stretch,width}]
+
+\setupthinrules[width=15em] % width of horizontal rules
+
+\setupdelimitedtext
+  [blockquote]
+  [before={\setupalign[middle]},
+   indentnext=no,
+  ]
+
+
+\starttext
+
+\useURL[url1][https://github.com/DanEdens][][Dan Edens]\from[url1]
+
+\useURL[url2][4696367704][][(469)-636-7704]\from[url2]
+
+\useURL[url3][DanEdens31@gmail.com]\from[url3]
+
+Self Sufficient and Driven Software Engineer with a focus on Process
+Automation and Data Collection.\crlf
+I Offer a wide range of experience in DevOps Project management, Data
+collection, Risk mitigation, and Compliance documentation.\crlf
+Hands-on field experience spent ensuring data flow from sensors and
+assisting clients with data utilisation, yielded a strong practical
+sense for user-centred Design.\crlf
+Experienced Operating Independently, and worked as a stand-alone remote
+branch for 3.5 years.
+
+Incomprehensive list of tools I have delivered products using:\crlf
+- Python, NodeJS, Javascript, Java, Visual Basic, HTML, REST, PHP, SQL,
+MQTT, and a variety of APIs\crlf
+- DevOps CI/CD, Containerization, and Documentation generation\crlf
+- Cloud platforms including Azure, Gitlab, AWS, and self-hosted services
+
+\section[title={\useURL[url4][https://github.com/DanEdens/Resume/blob/main/Portfolio.md][][Project
+Portfolio]\from[url4]},reference={project-portfolio}]
+
+\section[title={Work History},reference={work-history}]
+
+\subsection[title={Geo-Instruments},reference={geo-instruments}]
+
+\startblockquote
+06/2018 - Present (07/2022)\crlf
+\useURL[url5][https://www.geo-instruments.com/implementing-geotechnical-monitoring-programs/][][VIdeo
+detailing what we do at Geo-instruments]\from[url5]
+\stopblockquote
+
+Geotechnical Monitoring specialist responsible for managing projects
+including Data collection, Web development, Risk mitigation and
+Compliance documentation for a variety of industries.
+
+\startitemize[packed]
+\item
+  Managed multiple projects with job sites across the Midwest.\crlf
+\item
+  Built backends for data collection and set up project Websites using
+  Python, Javascript, NodeJS, MQTT, SQL, and PHP.\crlf
+\item
+  Developed tools to improve efficiency and Issue response time.\crlf
+\item
+  Experience with Data acquisition tools such as Solar controllers,
+  Modems, Sensors, and dataloggers.
+\stopitemize
+
+In addition to this Project management role, I heavily engaged myself in
+our Apps and Software departments.
+
+Some of these duties include:\crlf
+1. Setting up Customer websites\crlf
+1. Automating data collection of field sensors\crlf
+1. Alert Investigation\crlf
+1. Setting up and maintaining reports to clients
+
+\thinrule
+
+\subsection[title={Chili's Grill and
+Bar},reference={chilis-grill-and-bar}]
+
+\startblockquote
+4570 TX-121, Lewisville, TX 75056 - (214) 494-6341\crlf
+Prep Cook: 01/2016 to 06/2018\crlf
+1. Motivated food industry worker offering over 5 years of
+experience.\crlf
+1. Lead Prep team, Maintained a show-ready kitchen for Chili's Test
+location\crlf
+1. Took part in Franchise showcases and assisted in Marketing events
+such as filming TV commercials.\crlf
+1. Worked closely with corporate offices to help field test timely and
+effective ways to improve menu recipes and standards.\crlf
+1. Created a hands-free Recipe app for the kitchen's tablet.\crlf
+1. Created Cooling log and Inventory tracking app.\crlf
+1. Collected data on the accuracy of daily On-hand food quantities for a
+6-month period. This Resulted in Improved Daily prep list efficiency.
+\stopblockquote
+
+\thinrule
+
+\subsection[title={Chili's Grill and
+Bar},reference={chilis-grill-and-bar-1}]
+
+\startblockquote
+190 Williamson Blvd, Ormond Beach, FL 32174 - (386) 672-7760\crlf
+Prep Cook: 06/2014 to 09/2015
+\stopblockquote
+
+\thinrule
+
+\subsection[title={\useURL[url6][https://www.woodplc.com/][][Wood
+(Previously known as AMEC Earth &
+Environmental)]\from[url6]},reference={wood-previously-known-as-amec-earth-environmental}]
+
+\startblockquote
+4490 Beltway Drive, Addison, TX 75001 - (469) 828-4100\crlf
+Laboratory Technician 08/2013 to 03/2014
+\stopblockquote
+
+\startitemize[n,packed][stopper=.]
+\item
+  Performed laboratory testing on concrete and soil samples.\crlf
+\item
+  Collected and maintained data reports detailing project samples.\crlf
+\item
+  Managed test scheduling and preserving samples in limestone storage
+  tanks
+\stopitemize
+
+• Certifications:\crlf
+\useURL[url7][https://www.concrete.org/certification/certificationprograms.aspx?m=details&pgm=Field\%20Concrete\%20Testing&cert=Concrete\%20Field\%20Testing\%20Technician\%20-\%20Grade\%20I][][ACI
+Concrete Technicain certification]\from[url7]
+
+\thinrule
+
+\section[title={Education},reference={education}]
+
+Associate of Arts: Computer Science\crlf
+North Lake College - Irving, TX: 2012-2014\crlf
+- Focused on coursework in Mathematics and Intro to C++
+
+\stoptext

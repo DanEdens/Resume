@@ -5,7 +5,7 @@
 
 [DanEdens31@gmail.com](DanEdens31@gmail.com)  
 
----
+
 Self Sufficient and Driven Software Engineer with a focus on Process Automation and Data Collection.  
 I Offer a wide range of experience in DevOps Project management, Data collection, Risk mitigation, and Compliance documentation.  
 Hands-on field experience spent ensuring data flow from sensors and assisting clients with data utilisation, yielded a strong practical sense for user-centred Design.  

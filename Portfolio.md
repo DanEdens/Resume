@@ -1,5 +1,4 @@
-# Apps Designed and Deployed   
-
+# Tools for Project managment
 1. Sitecheck Scanner  
     - A CLI for end-to-end testing Client websites.  
     - Generates Visual tour of multiple Geotechincal monitoring platforms, used to assists Geo-Instrument's field technicians with Issue Visablity
@@ -7,9 +6,7 @@
     - Support for Microsoft Team's Adaptive Cards.  
     - SQL database is monitored, alerting on any sensors missing for 22 hours, and reporting to an MQTT broker.  
     - Decentralized database access, and reduced Human error in Issue visablity.  
-    <!-- - Results customizable for each project manager   -->
-    
-    ### [Demontration Video](https://www.youtube.com/watch?v=HExwe__eeJU) --- [Check it out on Github](https://github.com/DanEdens/sitecheck) --- [Install via Pip](https://pypi.org/project/sitecheck/0.8.1.1/)  
+    ### [Demo on Youtube](https://www.youtube.com/watch?v=HExwe__eeJU) --- [Check it out on Github](https://github.com/DanEdens/sitecheck) --- [Install via Pip](https://pypi.org/project/sitecheck/0.8.1.1/)  
     
     [![Example of Output](assets/ExampleSitecheckScannerTeamsCardGeneration.jpg)](http://www.youtube.com/watch?v=HExwe__eeJU "Scrapper Demo Video")  
 
