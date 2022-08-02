@@ -4,20 +4,20 @@
     - Generates Visual tour of multiple Geotechincal monitoring platforms, used to assists Geo-Instrument's field technicians with Issue Visablity
     - Navigates through Planviews and alerts the User to changes in sensor status, missed readings and setup errors.  
     - Support for Microsoft Team's Adaptive Cards.  
-    - SQL database is monitored, alerting on any sensors missing for 22 hours, and reporting to an MQTT broker.  
+    - SQL database is monitored, alerting on missing sensors and reporting via MQTT broker.  
     - Decentralized database access, and reduced Human error in Issue visablity.  
     ### [Demo on Youtube](https://www.youtube.com/watch?v=HExwe__eeJU) --- [Check it out on Github](https://github.com/DanEdens/sitecheck) --- [Install via Pip](https://pypi.org/project/sitecheck/0.8.1.1/)  
     
     [![Example of Output](assets/ExampleSitecheckScannerTeamsCardGeneration.jpg)](http://www.youtube.com/watch?v=HExwe__eeJU "Scrapper Demo Video")  
 
-1. Timelapse_factory  
+1. Timelapse Factory  
     - Web scrapper for manipulating data displayed on our Quickview platform.
     - Used to overlay data plots onto Jobsite Camera footage.  
     ### [Demo On Youtube](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
  
-     ![Example GIf](assets/RiversideExcavation35speedReduceColorTable.gif)
+     [![Example Image](assets/timelapsesexample_still.png)](https://www.youtube.com/watch?v=cgKvyPWVw6E)
 
----   
+
 # Tools for the Field  
 1. Interface Panel -  
     [Download on Taskernet](https://taskernet.com/shares/?user=AS35m8mBhJAezDTr0Lio7dopdLiBaKgozAOxoCXM7Mh8sS5hSvSst1kEMf5%2FJeJveB%2BsvU8%3D&id=Project%3AInterface)  

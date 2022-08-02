@@ -8,7 +8,7 @@
 
 Self Sufficient and Driven Software Engineer with a focus on Process Automation and Data Collection.  
 I Offer a wide range of experience in DevOps Project management, Data collection, Risk mitigation, and Compliance documentation.  
-Hands-on field experience spent ensuring data flow from sensors and assisting clients with data utilisation, yielded a strong practical sense for user-centred Design.  
+Hands-on field experience spent ensuring data flow from sensors and assisting clients with data utilization, yielded a strong practical sense for user-centred Design.  
 Experienced Operating Independently, and worked as a stand-alone remote branch for 3.5 years.  
 
 
@@ -25,7 +25,7 @@ Incomprehensive list of tools I have delivered products using:
 > 06/2018 - Present (07/2022)   
 > [VIdeo detailing what we do at Geo-instruments](https://www.geo-instruments.com/implementing-geotechnical-monitoring-programs/)  
 
-Geotechnical Monitoring specialist responsible for managing projects including Data collection, Web development, Risk mitigation and Compliance documentation for a variety of industries.  
+Geo-technical Monitoring specialist responsible for managing projects including Data collection, Web development, Risk mitigation and Compliance documentation for a variety of industries.  
 
 - Managed multiple projects with job sites across the Midwest.  
 - Built backends for data collection and set up project Websites using Python, Javascript, NodeJS, MQTT, SQL, and PHP.  
@@ -78,7 +78,7 @@ Laboratory Technician 08/2013 to 03/2014
 1. Managed test scheduling and preserving samples in limestone storage tanks  
 
 • Certifications:  
-[ACI Concrete Technicain certification](https://www.concrete.org/certification/certificationprograms.aspx?m=details&pgm=Field%20Concrete%20Testing&cert=Concrete%20Field%20Testing%20Technician%20-%20Grade%20I)  
+[ACI Concrete Technician certification](https://www.concrete.org/certification/certificationprograms.aspx?m=details&pgm=Field%20Concrete%20Testing&cert=Concrete%20Field%20Testing%20Technician%20-%20Grade%20I)  
 
 ---
 # Education  
