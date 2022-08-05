@@ -1,15 +1,17 @@
 ### To do
+- [ ] condense mobile app lines in chilis history
 - [ ] Export out of codepen
 - [ ] Input into codepen  
-- [ ] Unify paragraph formatting across projects
 - [ ] add codepen prefiller script
-
-### In progress
-- [ ] rewrite about me section for pug page
+- [ ] Do styling for monitoring projects cards
 - [ ] Write Project portfolio link section
 
   replace local links with github urls
-4
+
+### In progress
+- [ ] Unify paragraph formatting across projects
+- [ ] rewrite about me section for pug page
+
 ### Done
 - [ ] Add formatting to HTML
 - [ ] Go through CSS example templates. 
