@@ -16,7 +16,7 @@
     ### [Demo On Youtube](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
  
      [![Example Image](assets/timelapsesexample_still.png)](https://www.youtube.com/watch?v=cgKvyPWVw6E)
-
+---
 
 # Tools for the Field  
 1. Interface Panel -  
