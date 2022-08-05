@@ -75,7 +75,7 @@
 1. [Lock and Dam (Project Spotlight)](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)
     - Nov 2018 - Feb 2019
     - Emergency Repair of an Army Corps of Engineers' Lock and Dam.  
-    - Provided Equipment troubleshooting and Live Data monitoring for the repair team.
+    - Provided Equipment troubleshooting and Live Data monitoring for the repair team.  
     - Developed a Grout logging app for Crew working in heavy storming.  
     - Deployed Piezometers and Tiltmeters 40 feet underwater on the Dam's slab.  
 
