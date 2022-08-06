@@ -133,6 +133,44 @@ a
     border-left: solid 10px invert($resumeBg)
     padding-left: 8px
     +transition(all 100ms ease-in)
+  .aboutme
+    width: 100%
+    float: left
+    h2
+      margin: 0
+      span
+        float: right
+        display: inline-block
+        font-size: 16px
+        background: invert($resumeBg)
+        color: $resumeBg
+        padding: 6px 8px
+        min-width: 120px
+        text-align: center
+    p
+      margin: 6px 0
+      .brag
+        display: inline-block
+        margin: 10px 0
+        font-style: italic
+        background: darken($resumeBg, 14%)
+        padding: 20px 20px 20px 50px
+        color: #333
+        text-align: justify
+        border-bottom: solid 1px darken($resumeBg, 25%)
+        position: relative
+        text-shadow: 0 1px 1px $resumeBg
+        max-height: 40px
+        &:before
+          position: absolute
+          left: 0
+          top: 0
+          content: ""
+          width: 0
+          height: 0
+          border-top: 40px solid transparent
+          border-bottom: 40px solid transparent
+          border-left: 40px solid $resumeBg
   .job
     width: 100%
     float: left
