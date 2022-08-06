@@ -3,6 +3,9 @@
 - [ ] Export out of codepen
 - [ ] Input into codepen  
 - [ ] add codepen prefiller script
+- [ ] rebuild docx versions
+  
+  resume, portfolio, refs
 - [ ] Do styling for monitoring projects cards
 - [ ] Write Project portfolio link section
 
