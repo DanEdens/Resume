@@ -1,5 +1,4 @@
 ### To do
-- [ ] condense mobile app lines in chilis history
 - [ ] Export out of codepen
 - [ ] Input into codepen
 - [ ] Add lifetime commit counter badge to portfolio
@@ -16,6 +15,7 @@
 - [ ] rewrite about me section for pug page
 
 ### Done
+- [ ] condense mobile app lines in chilis history
 - [x] Unify paragraph formatting across projects
 - [ ] Add formatting to HTML
 - [ ] Go through CSS example templates.
