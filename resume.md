@@ -68,7 +68,7 @@ Some of these duties include:
 
 ---
 
-## [Wood (Previously known as AMEC Earth & Environmental)](https://www.woodplc.com/) 
+## [Wood (Previously known as AMEC)](https://www.woodplc.com/) 
 > 4490 Beltway Drive, Addison, TX 75001 - (469) 828-4100  
 Laboratory Technician 08/2013 to 03/2014  
 
