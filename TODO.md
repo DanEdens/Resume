@@ -1,6 +1,5 @@
 ### To do
 - [ ] 
-- [ ] rebuild mvp - docx and pdf
 - [ ] Build new portfolio
 <!-- - [ ] Export out of codepen -->
 <!-- - [ ] Codepen prefiller script -->
@@ -14,10 +13,11 @@
   Better project discritions, better display of practices involved
 
 ### In progress
-- [ ] Spell check
+- [ ] rebuild mvp - docx and pdf
 
 ### Done
 - [ ] rewrite about me section for pug page
+- [ ] Spell check
 - [ ] condense mobile app lines in chilis history
 - [ ] Unify paragraph formatting across projects
 - [ ] Add formatting to HTML
