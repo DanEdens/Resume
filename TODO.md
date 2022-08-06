@@ -1,7 +1,7 @@
 ### To do
 - [ ] condense mobile app lines in chilis history
 - [ ] Export out of codepen
-- [ ] Input into codepen  
+- [ ] Input into codepen
 - [ ] Add lifetime commit counter badge to portfolio
 - [ ] add codepen prefiller script
 - [ ] rebuild docx versions
@@ -9,18 +9,18 @@
   resume, portfolio, refs
 - [ ] Do styling for monitoring projects cards
 - [ ] Write Project portfolio link section
-
+  
   replace local links with github urls
 
 ### In progress
-- [ ] Unify paragraph formatting across projects
 - [ ] rewrite about me section for pug page
 
 ### Done
+- [x] Unify paragraph formatting across projects
 - [ ] Add formatting to HTML
-- [ ] Go through CSS example templates. 
+- [ ] Go through CSS example templates.
   
   x - explore codepen
-  Found a good template to use at https://codepen.io/jhawes/pen/oNKzYr
+  Found a good template to use at <https://codepen.io/jhawes/pen/oNKzYr>
 
 ### Archive
