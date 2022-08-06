@@ -185,6 +185,56 @@ a {
     transition: all 100ms ease-in;
 }
 
+.middle .aboutme {
+    width: 100%;
+    float: left;
+}
+
+.middle .aboutme h2 {
+    margin: 0;
+}
+
+.middle .aboutme h2 span {
+    float: right;
+    display: inline-block;
+    font-size: 16px;
+    background: black;
+    color: #fff;
+    padding: 6px 8px;
+    min-width: 120px;
+    text-align: center;
+}
+
+.middle .aboutme p {
+    margin: 6px 0;
+}
+
+.middle .aboutme p .brag {
+    display: inline-block;
+    margin: 10px 0;
+    font-style: italic;
+    background: #dbdbdb;
+    padding: 20px 20px 20px 50px;
+    color: #333;
+    text-align: justify;
+    border-bottom: solid 1px #bfbfbf;
+    position: relative;
+    text-shadow: 0 1px 1px #fff;
+    max-height: 40px;
+}
+
+.middle .aboutme p .brag:before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    content: "";
+    width: 0;
+    height: 0;
+    border-top: 40px solid transparent;
+    border-bottom: 40px solid transparent;
+    border-left: 40px solid #fff;
+}
+
 .middle .job {
     width: 100%;
     float: left;
