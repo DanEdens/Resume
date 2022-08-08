@@ -12,6 +12,12 @@
   
   replace local links with github urls
 - [ ] Improve Details on monitoring projects
+- [ ] Finish the links section at the bottom of resume
+  
+  Taskernet shares
+  Microsoft learning center achivements
+  Geo's webpage
+  
 
 ### In progress
 - [ ] rebuild Markdown versions
