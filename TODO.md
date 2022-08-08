@@ -1,19 +1,11 @@
 ### To do
-- [ ] 
-- [ ] Build new portfolio
-<!-- - [ ] Export out of codepen -->
-<!-- - [ ] Codepen prefiller script -->
-<!-- - [ ] Add lifetime commit counter badge to portfolio -->
-  
-  resume, portfolio, refs
-- [ ] Do styling for monitoring projects cards
-- [ ] Write Project portfolio link section
-  
-  Replace local links with github urls
-  Better project discritions, better display of practices involved
+- [ ] \[ \]
+- [ ] rebuild mvp - docx and pdf
 
 ### In progress
-- [ ] rebuild mvp - docx and pdf
+- [ ] Rebuild Markdown versions
+  
+  resume, portfolio, refs
 
 ### Done
 - [ ] rewrite about me section for pug page
