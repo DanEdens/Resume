@@ -14,10 +14,13 @@
 - [ ] Improve Details on monitoring projects
 
 ### In progress
-- [ ] rewrite about me section for pug page
+- [ ] rebuild Markdown versions
+  
+  resume, portfolio, refs
 
 ### Done
 - [ ] Add formatting to HTML
+- [x] rewrite about me section for pug page
 - [x] Unify paragraph formatting across projects
 - [ ] Go through CSS example templates.
   
