@@ -6,11 +6,12 @@
 [DanEdens31@gmail.com](DanEdens31@gmail.com)  
 
 
-    Self Sufficient and Driven Software Engineer with a focus on Process Automation and Data Collection.  
-I Offer a wide range of experience in DevOps Project management, Data collection, Risk mitigation, and Compliance documentation.  
-Hands-on field experience spent ensuring data flow from sensors and assisting clients with data utilization, yielded a strong practical sense for user-centred Design.  
-Experienced Operating Independently, and worked as a stand-alone remote branch for 3.5 years.  
+## Software Engineer and GeoTechnical Monitoring Specialist  
 
+### Long history of providing Accurate and Reliable Data  
+
+
+                    
 
 Incomprehensive list of tools I have delivered products using:  
 - Python, NodeJS, Javascript, Java, Visual Basic, HTML, REST, PHP, SQL, MQTT, and a variety of APIs  
@@ -25,20 +26,13 @@ Incomprehensive list of tools I have delivered products using:
 > 06/2018 - Present (07/2022)   
 > [VIdeo detailing what we do at Geo-instruments](https://www.geo-instruments.com/implementing-geotechnical-monitoring-programs/)  
 
-Geo-technical Monitoring specialist responsible for managing projects including Data collection, Web development, Risk mitigation and Compliance documentation for a variety of industries.  
+Geotechnical Instrumentation and Automation Specialist
 
-- Managed multiple projects with job sites across the Midwest.  
-- Built backends for data collection and set up project Websites using Python, Javascript, NodeJS, MQTT, SQL, and PHP.  
-- Developed tools to improve efficiency and Issue response time.  
-- Experience with Data acquisition tools such as Solar controllers, Modems, Sensors, and dataloggers.  
-
-In addition to this Project management role, I heavily engaged myself in our Apps and Software departments.  
-
-Some of these duties include:  
-1. Setting up Customer websites  
-1. Automating data collection of field sensors  
-1. Alert Investigation  
-1. Setting up and maintaining reports to clients  
+- Operated an Office Remotely in Little Elm,Tx for 3.5 years
+- Developed website's for delivering sensor data to the Client.
+- Responsible for managing projects consisting of:  
+- Data collection, Server Management, Website development,  
+- Risk mitigation, and Compliance Documentation  
 
   
 <!-- • Certifications: 
@@ -49,22 +43,17 @@ Some of these duties include:
 
 ---
 
-## Chili's Grill and Bar  
+## Chili's Grill and Bar - Lead Prep Cook
 > 4570 TX-121, Lewisville, TX 75056 - (214) 494-6341  
-> Prep Cook: 01/2016 to 06/2018  
-1. Motivated food industry worker offering over 5 years of experience.  
-1. Lead Prep team, Maintained a show-ready kitchen for Chili's Test location  
-1. Took part in Franchise showcases and assisted in Marketing events such as filming TV commercials.  
-1. Worked closely with corporate offices to help field test timely and effective ways to improve menu recipes and standards.  
-1. Created a hands-free Recipe app for the kitchen's tablet.  
-1. Created Cooling log and Inventory tracking app.  
-1. Collected data on the accuracy of daily On-hand food quantities for a 6-month period. This Resulted in Improved Daily prep list efficiency.  
-  
----
-  
-## Chili's Grill and Bar  
-> 190 Williamson Blvd, Ormond Beach, FL 32174 - (386) 672-7760  
-> Prep Cook: 06/2014 to 09/2015  
+### Lead Prep team, Maintained Show-ready kitchen for Chili's Test location in Castle Hills, TX
+
+- Took Key part in Franchise showcases and assisted during Marketing events such as filming TV commercials.
+- Worked with Corporate to help Field test new Products and Improve upon standards.
+    
+    > Developed Mobile Apps for Kitchen Use:  
+    > 1. Hands-Free Recipe App for Kitchen Tablet.  
+    > 2. Mobile App for collecting Cooling log Data and scheduling Oven timers.  
+    > 3. Mobile App for collecting Data on the accuracy of Daily On-hand Food Quantities  
 
 ---
 
