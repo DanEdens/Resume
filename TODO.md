@@ -1,6 +1,13 @@
 ### To do
 - [ ] \[ \]
 - [ ] rebuild mvp - docx and pdf
+- [ ] Finish the links section at the bottom of resume
+  
+  Taskernet shares
+  Microsoft learning center achievements
+  Linkedin Skills
+  Github projects?
+  Geo's webpage?
 
 ### In progress
 - [ ] Rebuild Markdown versions
