@@ -31,8 +31,8 @@ Geotechnical Instrumentation and Automation Specialist
 - Operated an Office Remotely in Little Elm,Tx for 3.5 years
 - Developed website's for delivering sensor data to the Client.
 - Responsible for managing projects consisting of:  
-- Data collection, Server Management, Website development,  
-- Risk mitigation, and Compliance Documentation  
+    - Data collection, Server Management, Website development  
+    - Risk mitigation, Compliance Documentation, 
 
   
 <!-- • Certifications: 
