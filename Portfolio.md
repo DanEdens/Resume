@@ -1,8 +1,8 @@
-# Tools for Project managment
+# Software for Project management  
 1. Sitecheck Scanner  
     - A CLI for end-to-end testing Client websites.  
-    - Generates Visual tour of multiple Geotechincal monitoring platforms, used to assists Geo-Instrument's field technicians with Issue Visablity
-    - Navigates through Planviews and alerts the User to changes in sensor status, missed readings and setup errors.  
+    - Generates Visual tour of multiple Geotechincal monitoring platforms, used to assists Geo-Instrument's field technicians with Issue Viability
+    - Navigates through Plan-views and alerts the User to changes in sensor status, missed readings and setup errors.  
     - Support for Microsoft Team's Adaptive Cards.  
     - SQL database is monitored, alerting on missing sensors and reporting via MQTT broker.  
     - Decentralized database access, and reduced Human error in Issue visablity.  
@@ -12,13 +12,13 @@
 
 1. Timelapse Factory  
     - Web scrapper for manipulating data displayed on our Quickview platform.
-    - Used to overlay data plots onto Jobsite Camera footage.  
+    - Used to overlay data plots onto Job site Camera footage.  
     ### [Demo On Youtube](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
  
      [![Example Image](assets/timelapsesexample_still.png)](https://www.youtube.com/watch?v=cgKvyPWVw6E)
 ---
 
-# Tools for the Field  
+# Software for the Field  
 1. Interface Panel -  
     [Download on Taskernet](https://taskernet.com/shares/?user=AS35m8mBhJAezDTr0Lio7dopdLiBaKgozAOxoCXM7Mh8sS5hSvSst1kEMf5%2FJeJveB%2BsvU8%3D&id=Project%3AInterface)  
     - GUI for assigning scripts to Mobile device triggers such as Shake, Hardware buttons, NFC tags, and Voice commands.  
@@ -42,7 +42,7 @@
     ![LnetExample](assets/LnetAppWithServerExample.jpg)
 ---
 
-## Tools for the Shop  
+## Software for the Shop  
 1. AMTSworkshop  
     *Began as migration of 20 years worth of Campbell Scientific Datalogger programs into Git.*  
     ![AMTScover](assets/AMTSworkshopCover.jpg)  
@@ -59,7 +59,7 @@
     
     - I created a QRcode generator which publishes a number and status to the (Join API)[https://joaoapps.com/join/api/].  
     - A tablet located in the Geo-Instrument's Shop acts as the server.  
-    - Created an Andriod app as GUI and backend to log unit events.  
+    - Created an Android app as GUI and back-end to log unit events.  
     - Stickers are generated in a given range of serial numbers by the [python script: QR-generator.py](https://github.com/DanEdens/GeoBatteryBot_public/blob/master/qr-generator.py)  
 ---
 
@@ -92,7 +92,7 @@
 1. [Fuji (Project News article)](https://www.nola.com/news/business/article_a9e05f91-a734-5bd1-8d05-587258f6a3c0.html)
     - Aug 2021 - Apr 2022
     - Tunneling Monitoring below 14 lines of Railroad.
-    - Provided the client settlement data during tunnelling.
+    - Provided the client settlement data during tunneling.
 
 1. [Pittman Hotel (Project News article)](https://www.dmagazine.com/commercial-real-estate/2020/06/first-look-the-kimpton-pittman-hotel-in-deep-ellum/)
     - Aug 2018 - Apr 2019
@@ -101,7 +101,7 @@
 
 1. [425 Riverside (Project News article)](https://www.realcomm.com/news/1045/1/river-south-austin-introducing-the-smart-building)
     - May 2019 - Jun 2020
-    - Diaphragm wall project in Downtown Austin, Tx
+    - Diaphragm wall project in Downtown Austin, TX
     - Data used to verify design loads during construction, resulting in the elimination of a row of anchors.
 
 1. [Atoka Pipeline Repair (Project News article)](https://tunnelingonline.com/crossing-the-canadian-river/?oly_enc_id=9796A6381467B9S)
