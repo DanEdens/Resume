@@ -5,13 +5,9 @@
 
 [DanEdens31@gmail.com](DanEdens31@gmail.com)  
 
-
 ## Software Engineer and GeoTechnical Monitoring Specialist  
 
 ### Long history of providing Accurate and Reliable Data  
-
-
-                    
 
 Incomprehensive list of tools I have delivered products using:  
 - Python, NodeJS, Javascript, Java, Visual Basic, HTML, REST, PHP, SQL, MQTT, and a variety of APIs  

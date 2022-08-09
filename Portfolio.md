@@ -92,7 +92,7 @@
 1. [Fuji (Project News article)](https://www.nola.com/news/business/article_a9e05f91-a734-5bd1-8d05-587258f6a3c0.html)
     - Aug 2021 - Apr 2022
     - Tunneling Monitoring below 14 lines of Railroad.
-    - Provided the client settlement data during tunneling.
+    - Provided the client with Settlement data during Operations.
 
 1. [Pittman Hotel (Project News article)](https://www.dmagazine.com/commercial-real-estate/2020/06/first-look-the-kimpton-pittman-hotel-in-deep-ellum/)
     - Aug 2018 - Apr 2019
