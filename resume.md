@@ -32,7 +32,7 @@ Geotechnical Instrumentation and Automation Specialist
 
   
 <!-- • Certifications: 
-> Osha10, Twic, TSAprecheck, Keolis ROW, E-railSafe, BNSF contractor  -->
+> Osha10, Twic, TSAprecheck, Keolis Contractor, SCET Basic Plus, GCSC Basic Plus, MBTA ROW, E-railSafe, BNSF contractor  -->
 <!-- [E-railSafe](https://erailsafe.com/usa/), [BNSF contractor card](assets/BNSF%20Contractor%20Card.jpg)  -->
 
 <!-- # Portfolio:   -->
