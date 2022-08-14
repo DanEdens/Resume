@@ -28,7 +28,7 @@ Geotechnical Instrumentation and Automation Specialist
 - Developed website's for delivering sensor data to the Client.
 - Responsible for managing projects consisting of:  
     - Data collection, Server Management, Website development  
-    - Risk mitigation, Compliance Documentation, 
+    - Risk mitigation, Compliance Documentation  
 
   
 <!-- • Certifications: 

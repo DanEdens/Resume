@@ -1,0 +1,10 @@
+So I became a programmer out of need and  really developed a love for automation. When my daughter was a baby (she is 5 now :D ), She would always wake up all the way, when I had to turn on a light to change her. I had just gotten a new phone and found an app called Tasker. Using Tasker, while sleep deprived, I learned how to make my lights turn on dimly, based on me getting out of bed. That changed everything, I started Automating anything i could figure out, and eventually I had a pretty serious toolkit going on. That lead me to another platform, this time on Windows.  Eventghost, which is a python automation platform, that basically gives you a bit of a head start, with a running system log with things like new processes or keystrokes, you can than map whatever python scripts you want to it. This was HUGE because now programming happened right in front of me. Just simple things mostly my lights, my computer, and my phone. 
+
+
+I learned to log a ton of data about myself, and how to handle the data. 
+
+
+
+
+
+There is another App called "Join" that directly plugs Tasker Into Eventghost, which i can teach you about later. but moving values back and forth will be a really good learning project.
