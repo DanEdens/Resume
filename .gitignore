@@ -7,3 +7,6 @@ temp.pug
 *.docx#
 refrences.md
 .local/*
+*/obj/*
+*/bin/*
+*/.vs/*
