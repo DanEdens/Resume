@@ -1,0 +1,74 @@
+{
+  "id": "81ab32db-9264-41e8-a6cd-77ff3aa4ec3e",
+  "version": "2.0",
+  "name": "resume",
+  "url": "https://codepen.io",
+  "tests": [{
+    "id": "eae75bd1-1461-47c0-8fc4-90e7f16f25d3",
+    "name": "dl codepen",
+    "commands": [{
+      "id": "3f60ac1d-7a8a-4870-92d0-45aefb5799fa",
+      "comment": "",
+      "command": "open",
+      "target": "/danedens/full/ZExrjqV",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f469bbad-e199-4da1-bdc7-cb7a9d9db878",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1936x1056",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "abcfa03b-4462-4801-b020-f2d8a8a054a4",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "429d3c97-8b39-42af-bf4c-a125cb55328a",
+      "comment": "",
+      "command": "click",
+      "target": "css=.contOut:nth-child(3) .fa",
+      "targets": [
+        ["css=.contOut:nth-child(3) .fa", "css:finder"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1092fc53-2db1-4046-83db-9db786c5de08",
+      "comment": "",
+      "command": "click",
+      "target": "css=.contOut:nth-child(4) .fa",
+      "targets": [
+        ["css=.contOut:nth-child(4) .fa", "css:finder"],
+        ["xpath=//div[4]/div/div/div/h2/i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3d5716ab-45bc-4f8d-a88b-709e9607a35f",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fa-plus",
+      "targets": [
+        ["css=.fa-plus", "css:finder"],
+        ["xpath=//div[5]/div/div/div/h2/i", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "47db8167-93a5-435c-9ff3-6cf8d26ec3ed",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["eae75bd1-1461-47c0-8fc4-90e7f16f25d3"]
+  }],
+  "urls": ["https://codepen.io/"],
+  "plugins": []
+}
