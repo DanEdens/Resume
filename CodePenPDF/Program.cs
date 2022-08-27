@@ -12,15 +12,11 @@ namespace Selenium_Automation
 
         static void Main(string[] args)
         {
-            var driver = new DlcodepenTest();
-
+            //Url = "https://codepen.io/danedens/full/ZExrjqV";
             // This will open up the URL
-            driver.
-                //Url = "https://codepen.io/danedens/full/ZExrjqV";
-            System.Threading.Thread.Sleep(10000);
-            
-            
-            element.Click();
+            using SuiteTests driver = new();
+            driver.Dlcodepen();
+            System.Threading.Thread.Sleep(30000);
         }
     }
 }
