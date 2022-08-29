@@ -32,6 +32,6 @@ public class SuiteTests : IDisposable {
     driver.FindElement(By.CssSelector(".contOut:nth-child(3) .fa")).Click();
     driver.FindElement(By.CssSelector(".contOut:nth-child(4) .fa")).Click();
     driver.FindElement(By.CssSelector(".fa-plus")).Click();
-
+    
   }
 }
