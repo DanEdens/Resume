@@ -1,4 +1,4 @@
-# Software for Project management  
+# Automation to support Geo Project managers  
 1. Sitecheck Scanner  
     - A CLI for end-to-end testing Client websites.  
     - Generates Visual tour of multiple Geotechincal monitoring platforms, used to assists Geo-Instrument's field technicians with Issue Viability
