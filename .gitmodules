@@ -1,0 +1,6 @@
+[submodule "resume_generator"]
+	path = resume_generator
+	url = https://github.com/DanEdens/resume_generator.git
+[submodule "examples/81CuongVn-expertReadme"]
+	path = examples/81CuongVn-expertReadme
+	url = https://github.com/81CuongVn/81CuongVn.git
