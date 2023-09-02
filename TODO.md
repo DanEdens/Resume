@@ -8,15 +8,15 @@
   Taskernet shares
   Microsoft learning center achievements
   Linkedin Skills
-  Github projects?
+  Add minim projects to portfolio
   Geo's webpage?
-- [ ] rebuild PDF and Docx versions
 
 ### In progress
-- [ ] Rebuild Markdown versions
+- [ ] rebuild PDF and Docx versions
   resume, portfolio, refs
 
 ### Done
+- [ ] Rebuild Markdown versions
 - [ ] Rewrite Aboutme section
   finished note - Shortened section and moved majority of info to cover letters
 - [ ] Spell check
