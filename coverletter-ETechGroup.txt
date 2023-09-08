@@ -1,5 +1,7 @@
-I am writing to express my strong interest in the Senior Rockwell Automation Engineer position at E Tech Group, as advertised on [Job Posting Source]. With my extensive background as a Seasoned QA Automation Engineer, I am confident that my skills, experience, and dedication align well with the requirements of this role.
+Hello Blake, 
+I hope this letter finds you well.
 
+I am writing to express my strong interest in the Senior Rockwell Automation Engineer position at E Tech Group, as advertised on [Job Posting Source]. With my extensive background as a Seasoned QA Automation Engineer, I am confident that my skills, experience, and dedication align well with the requirements of this role.
 
 In my role as a QA Automation Engineer, I have successfully optimized testing processes, resulting in a 40% reduction in labor costs while expanding test coverage. My expertise in cross-platform testing, bug tracking, and hardware/firmware testing has equipped me with the diverse skill set necessary for process automation engineering and system integration. 
 
