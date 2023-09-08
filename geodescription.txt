@@ -1,8 +1,14 @@
+At GEO-Instruments, I provided geotechnical and structural monitoring services. 
+I supplied, installed, and integrated geotechnical sensors, and I automated the collection, processing, and delivery of Geospatial data.
+
+Key Achievements and Responsibilities:
 Geotechnical and Structural Monitoring: Proficient in providing monitoring services, including sensor supply, installation, and integration for data accuracy and reliability.
 
 Instrumentation Expertise: Skilled in the deployment and maintenance of sensors and instrumentation.
 
 Data Automation: Experienced in automating data collection, processing, and delivery for improved efficiency and accuracy.
+
+Customer Service: Provided Remote Trainings and Troubleshooting Support, and Developed Web Interfaces to customer specifications
 
 Data Visualization: Effectively visualized data to identify trends, patterns, and provide engineer recommendations.
 
