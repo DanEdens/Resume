@@ -1,0 +1,23 @@
+Geotechnical and Structural Monitoring: Proficient in providing geotechnical and structural monitoring services, including the supply, installation, and integration of sensors and geomatic systems to ensure data accuracy and reliability.
+
+Instrumentation Expertise: Skilled in the deployment and maintenance of sensors and instrumentation.
+
+Data Automation: Experienced in automating the collection, processing, and delivery of data, optimizing operational efficiency and data accuracy.
+
+Process Control: Experienced in implementing process control measures in monitoring and maintaining systems, ensuring continuous operation and data integrity.
+
+Electrical Troubleshooting: Capable of identifying and resolving electrical issues.
+
+Environmental Monitoring: Knowledgeable in environmental monitoring techniques and tools, ensuring compliance with environmental regulations and project requirements.
+
+Wireless Sensor Networks: Skilled in configuring and managing wireless sensor networks for remote data collection.
+
+Project Management: Proficient in project management practices, ensuring successful execution of geotechnical and structural monitoring projects within scope, budget, and timeline.
+
+Node.js: Familiarity with Node.js for developing custom applications and solutions.
+
+MQTT: Knowledgeable in Message Queuing Telemetry Transport (MQTT) protocol, facilitating efficient communication between in complicated environments.
+
+Python (Programming Language): Proficient in Python programming language for data analysis, automation, and custom script development.
+
+Database Testing: Skilled in testing and validating databases to ensure data accuracy and integrity
