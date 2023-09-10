@@ -12,4 +12,4 @@ I have:
 Competence with C# and several similar languages
 Proven track record working with Teams and writing documentation
 A relentless Can-do attitude and a strong desire to empower my team through Automation
-I am local to Boston, and have citizenship
+I am local to Boston
