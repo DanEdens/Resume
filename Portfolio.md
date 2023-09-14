@@ -1,21 +1,77 @@
-# Automation to support Geo Project managers  
-1. Sitecheck Scanner  
-    - A CLI for end-to-end testing Client websites.  
-    - Generates Visual tour of multiple Geotechincal monitoring platforms, used to assists Geo-Instrument's field technicians with Issue Viability
-    - Navigates through Plan-views and alerts the User to changes in sensor status, missed readings and setup errors.  
-    - Support for Microsoft Team's Adaptive Cards.  
-    - SQL database is monitored, alerting on missing sensors and reporting via MQTT broker.  
-    - Decentralized database access, and reduced Human error in Issue visablity.  
-    ### [Demo on Youtube](https://www.youtube.com/watch?v=HExwe__eeJU) --- [Check it out on Github](https://github.com/DanEdens/sitecheck) --- [Install via Pip](https://pypi.org/project/sitecheck/0.8.1.1/)  
-    
-    [![Example of Output](assets/ExampleSitecheckScannerTeamsCardGeneration.jpg)](http://www.youtube.com/watch?v=HExwe__eeJU "Scrapper Demo Video")  
+### As of 9/14 This is WIP, You are Welcome to still take a look, but Please excuse the construction :)
 
-1. Timelapse Factory  
-    - Web scrapper for manipulating data displayed on our Quickview platform.
-    - Used to overlay data plots onto Job site Camera footage.  
-    ### [Demo On Youtube](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
- 
-     [![Example Image](assets/timelapsesexample_still.png)](https://www.youtube.com/watch?v=cgKvyPWVw6E)
+# Automation to support Geo Project managers:  
+
+
+# Project 1. Sitecheck Scanner: FrontEnd Monitoring Tool
+
+Welcome to Sitecheck Scanner, a passion project that evolved into a tool to empower Geo-Instrument's field technicians. As a fellow field technician at heart, I know the challenges faced by staying updated in a dangerous environment. 
+
+
+    This was my answer to the question: "How can I improve Incident response?"
+
+
+
+### What Sitecheck Scanner Offers:
+
+1. **Visual Tour Creation**: I've built Sitecheck Scanner to generate captivating visual tours of various Geotechnical monitoring platforms. It's like a virtual guide that makes site assessments a breeze.
+
+1. **Field Technician's Best Friend**: Sitecheck Scanner navigates through plan views, offering real-time alerts for sensor status changes, missed readings, and setup errors to make your job easier.  
+
+1. **Microsoft Teams Integration**: Collaboration is key, and that's why I've integrated Microsoft Teams using Adaptive Cards. Using my tool, Issues can can be raised to the Team, and resolved in the field, without interrupting customer interactions.  
+
+1. **SQL Database Watchdog**: Data integrity is non-negotiable. Sitecheck Scanner monitors both the front end and SQL databases, ensuring you're always in the know with alerts for missing sensors.  
+
+1. **Reducing Human Error**: I've implemented decentralized database access to minimize the chances of human error when accessing the backend severs, guaranteeing the highest data accuracy.  
+
+
+## Here's a sneak peek of what Sitecheck Scanner can do:  
+
+**Demo on YouTube**: [Watch it here](link_to_youtube_demo)  
+
+**GitHub Repository**: [Explore the code](https://github.com/DanEdens/sitecheck)
+
+Skills showcased:  
+**Python || SQL || Pyppeteer || Microsoft Integrations || Sphinix documentation || Accessibility**
+    
+    
+
+# Project 2. Inclinometer Timelapse Factory
+
+Timelapse Factory is a purpose-built ETL(Extract, transform, and load) product designed to manipulate Geotechnical data plots on our Quickview platform. Its primary purpose is to gather and overlay collected plots onto job site camera footage, creating informative and visually appealing timelapse videos.
+
+## Features:
+
+1. **Web Scraping**: Timelapse Factory makes it easy to visit a range of specific data points and match it with design estimates.
+
+1. **Data Overlay**: With Timelapse Factory, you can effortlessly overlay data plots onto job site camera footage, providing valuable context and insights.
+
+
+## Demo
+
+[Check out a demo of Timelapse Factory in action on YouTube:](https://www.youtube.com/watch?v=cgKvyPWVw6E)
+
+[![Demo On Youtube](assets/timelapsesexample_still.png)](https://www.youtube.com/watch?v=cgKvyPWVw6E)
+
+
+## Getting Started
+
+To get started with Timelapse Factory, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Install the required dependencies (provide a list of dependencies and installation instructions).
+3. Run Timelapse Factory with your preferred settings (provide usage examples).
+
+That's it! You're now ready to create stunning timelapse videos with overlaid data.
+
+## Example Usage
+
+Here's an example of how to use Timelapse Factory to enhance your timelapse videos:
+
+```bash
+# Replace the placeholders with actual commands or usage examples
+timelapse-factory --input video.mp4 --data data.csv --output output.mp4
+
 ---
 
 # Software for the Field  
