@@ -5,7 +5,8 @@
 
 # Project 1. Sitecheck Scanner: FrontEnd Monitoring Tool
 
-Welcome to Sitecheck Scanner, a passion project that evolved into a tool to empower Geo-Instrument's field technicians. As a fellow field technician at heart, I know the challenges faced by staying updated in a dangerous environment. 
+Welcome to Sitecheck Scanner, a passion project that evolved into a tool to empower Geo-Instrument's field technicians.  
+As a fellow field technician at heart, I know the challenges faced by staying updated in a dangerous environment. 
 
 
     This was my answer to the question: "How can I improve Incident response?"
