@@ -38,11 +38,14 @@ As a fellow field technician at heart, I know the challenges faced by staying up
 Skills showcased:  
 **Python || SQL || Pyppeteer || Microsoft Integrations || Sphinix documentation || Accessibility**
     
+    Takeaway:  
+    Throughout the development of Sitecheck Scanner, I gained invaluable experience in navigating a data-secure environment, fostering collaboration with a dedicated team of field technicians, and constructing a versatile tool with multi-user capabilities.
     
 
-# Project 2. Inclinometer Timelapse Factory
 
-Timelapse Factory is a purpose-built ETL(Extract, transform, and load) product designed to manipulate Geotechnical data plots on our Quickview platform. Its primary purpose is to gather and overlay collected plots onto job site camera footage, creating informative and visually appealing timelapse videos.
+# Project 2. SAA Timelapse Factory
+
+SAA Timelapse Factory is a purpose-built ETL(Extract, transform, and load) product designed to manipulate Geotechnical data plots on our Quickview platform. Its primary purpose is to gather and overlay collected plots onto job site camera footage, creating informative and visually appealing timelapse videos.
 
 ## Features:
 
