@@ -25,8 +25,10 @@ Welcome to Sitecheck Scanner, a passion project that evolved into a tool to empo
 1. **Reducing Human Error**: I've implemented decentralized database access to minimize the chances of human error when accessing the backend severs, guaranteeing the highest data accuracy.  
 
 
-## Here's a sneak peek of what Sitecheck Scanner can do:  
-![Alt Text](assets/ExampleSitecheckScannerTeamsCardGeneration.jpg)
+## Here's a peek at what Sitecheck Scanner can do:  
+<!-- ![Alt Text](assets/ExampleSitecheckScannerTeamsCardGeneration.jpg) -->
+<img src="assets/ExampleSitecheckScannerTeamsCardGeneration.jpg" alt="Example Image" width="600" height="500">
+
 
 **Demo on YouTube**: [Watch it here](link_to_youtube_demo)  
 
