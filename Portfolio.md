@@ -26,6 +26,7 @@ Welcome to Sitecheck Scanner, a passion project that evolved into a tool to empo
 
 
 ## Here's a sneak peek of what Sitecheck Scanner can do:  
+![Alt Text](assets/ExampleSitecheckScannerTeamsCardGeneration.jpg)
 
 **Demo on YouTube**: [Watch it here](link_to_youtube_demo)  
 
@@ -169,3 +170,9 @@ timelapse-factory --input video.mp4 --data data.csv --output output.mp4
     - May 2022
     - Load Test performed on supports affected by the Government Center Garage collapse in Boston, MA.
     - Deployed MPBX Laser systems and String potentiometer during testing.
+
+
+
+
+.. |image1| image:: assets/ExampleSitecheckScannerTeamsCardGeneration.jpg
+    :width: 400
