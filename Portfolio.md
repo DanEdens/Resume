@@ -1,12 +1,11 @@
 ### As of 9/14 This is WIP, You are Welcome to still take a look, but Please excuse the construction :)
 
-# Automation to support Geo Project managers:  
+# Desktop Applications: 
 
+# Project 1. Sitecheck Scanner: FrontEnd Monitoring Tool 
 
-# Project 1. Sitecheck Scanner: FrontEnd Monitoring Tool
-
-Welcome to Sitecheck Scanner, a passion project that evolved into a tool to empower Geo-Instrument's field technicians.  
-As a fellow field technician at heart, I know the challenges faced by staying updated in a dangerous environment. 
+Sitecheck Scanner started a personal convenience project that evolved into a tool to empower Geo-Instrument's field technicians.  
+We faced many challenges working in remote locations, and this caused delays in Client communication. I created Sitecheck Scanner to help field technicians stay updated with their current status, and facilitate teamwork. 
 
 
     This was my answer to the question: "How can I improve Incident response?"
@@ -15,15 +14,15 @@ As a fellow field technician at heart, I know the challenges faced by staying up
 
 ### What Sitecheck Scanner Offers:
 
-1. **Visual Tour Creation**: I've built Sitecheck Scanner to generate captivating visual tours of various Geotechnical monitoring platforms. It's like a virtual guide that makes site assessments a breeze.
+1. **Visual Tour Creation**: Sitecheck Scanner creates engaging visual tours for different Geotechnical monitoring platforms, simplifying site assessments.
 
-1. **Field Technician's Best Friend**: Sitecheck Scanner navigates through plan views, offering real-time alerts for sensor status changes, missed readings, and setup errors to make your job easier.  
+1. **Field Technician's Best Friend**: Sitecheck Scanner offers real-time alerts for sensor status changes, missed readings, and setup errors while navigating plan views, streamlining your tasks.
 
-1. **Microsoft Teams Integration**: Collaboration is key, and that's why I've integrated Microsoft Teams using Adaptive Cards. Using my tool, Issues can can be raised to the Team, and resolved in the field, without interrupting customer interactions.  
+1. **Microsoft Teams Integration**:  I've integrated Microsoft Teams with Adaptive Cards, enabling seamless issue tracking and resolution in the field without disrupting customer interactions.
 
-1. **SQL Database Watchdog**: Data integrity is non-negotiable. Sitecheck Scanner monitors both the front end and SQL databases, ensuring you're always in the know with alerts for missing sensors.  
+1. **SQL Database Watchdog**: Sitecheck Scanner ensures data integrity by monitoring both front-end and SQL databases, providing alerts for missing sensors.
 
-1. **Reducing Human Error**: I've implemented decentralized database access to minimize the chances of human error when accessing the backend severs, guaranteeing the highest data accuracy.  
+1. **Reducing Human Error**:  I've introduced decentralized database access to minimize human errors when accessing backend servers, ensuring the utmost data accuracy.
 
 
 ## Here's a peek at what Sitecheck Scanner can do:  
@@ -45,11 +44,11 @@ Skills showcased:
 
 # Project 2. SAA Timelapse Factory
 
-SAA Timelapse Factory is a purpose-built ETL(Extract, transform, and load) product designed to manipulate Geotechnical data plots on our Quickview platform. Its primary purpose is to gather and overlay collected plots onto job site camera footage, creating informative and visually appealing timelapse videos.
+SAA Timelapse Factory is a purpose-built ETL(Extract, transform, and load) product designed to manipulate Geotechnical data plots on our Quickview platform. Its primary purpose is to gather and overlay collected plots onto job site camera footage, creating timelapse videos.
 
 ## Features:
 
-1. **Web Scraping**: Timelapse Factory makes it easy to visit a range of specific data points and match it with design estimates.
+1. **Web Scraping**: Navigate through a range of specific data points and collect renderings.
 
 1. **Data Overlay**: With Timelapse Factory, you can effortlessly overlay data plots onto job site camera footage, providing valuable context and insights.
 
@@ -81,7 +80,7 @@ timelapse-factory --input video.mp4 --data data.csv --output output.mp4
 
 ---
 
-# Software for the Field  
+# Mobile Apps  
 1. Interface Panel -  
     [Download on Taskernet](https://taskernet.com/shares/?user=AS35m8mBhJAezDTr0Lio7dopdLiBaKgozAOxoCXM7Mh8sS5hSvSst1kEMf5%2FJeJveB%2BsvU8%3D&id=Project%3AInterface)  
     - GUI for assigning scripts to Mobile device triggers such as Shake, Hardware buttons, NFC tags, and Voice commands.  
