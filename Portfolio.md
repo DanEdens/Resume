@@ -37,8 +37,8 @@ We faced many challenges working in remote locations, and this caused delays in 
 Skills showcased:  
 **Python || SQL || Pyppeteer || Microsoft Integrations || Sphinix documentation || Accessibility**
     
-    Takeaway:  
-    Throughout the development of Sitecheck Scanner, I gained invaluable experience in navigating a data-secure environment, fostering collaboration with a dedicated team of field technicians, and constructing a versatile tool with multi-user capabilities.
+Takeaway:  
+Throughout the development of Sitecheck Scanner, I gained invaluable experience in navigating a data-secure environment, fostering collaboration with a dedicated team of field technicians, and constructing a versatile tool with multi-user capabilities.
     
 
 
