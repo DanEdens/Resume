@@ -1,5 +1,24 @@
 ### As of 9/14 This is WIP, You are Welcome to still take a look, but Please excuse the construction :)
 
+# QA Testkits
+
+## DVTTestKit (Documentation and Test Case Repos)
+
+### CDRTestkit (CDRouter Testing)
+ 
+### AppTestKit (Motosync Mobile App Testing)
+
+https://youtu.be/YZcmfUUZgKw
+
+### GUITestKit (Web Browser Testing)
+
+### AutoDocsisTestKit (Dcosis Testing)
+
+### OnboardingTestKit (API Testing)
+
+
+
+
 # Desktop Applications: 
 
 # Project 1. Sitecheck Scanner: FrontEnd Monitoring Tool 
