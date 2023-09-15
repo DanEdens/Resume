@@ -3,19 +3,31 @@
 # QA Testkits
 
 ## DVTTestKit (Documentation and Test Case Repos)
+ 
+ Shared library that handles interactions with Slack, Jira, and Lab Equipment.
 
 ### CDRTestkit (CDRouter Testing)
+
+Python Library controlled by Jenkins for managing CDRouter testcases 
  
 ### AppTestKit (Motosync Mobile App Testing)
 
+Tasker Library
 https://youtu.be/YZcmfUUZgKw
 
 ### GUITestKit (Web Browser Testing)
 
+Python Library utilizing selenium for cross browser testing
+
 ### AutoDocsisTestKit (Dcosis Testing)
+
+Python Library for Automating Docsis Test cases using SNMP
 
 ### OnboardingTestKit (API Testing)
 
+Bash/Python Library for automating Router onboarding and API Testing
+
+![](assets/automated_QRcode_scan_onboarding.mp4)
 
 
 
