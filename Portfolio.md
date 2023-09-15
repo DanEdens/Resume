@@ -59,17 +59,7 @@ SAA Timelapse Factory is a purpose-built ETL(Extract, transform, and load) produ
 
 [![Demo On Youtube](assets/timelapsesexample_still.png)](https://www.youtube.com/watch?v=cgKvyPWVw6E)
 
-
-## Getting Started
-
-To get started with Timelapse Factory, follow these steps:
-
-1. Clone this repository to your local machine.
-2. Install the required dependencies (provide a list of dependencies and installation instructions).
-3. Run Timelapse Factory with your preferred settings (provide usage examples).
-
-That's it! You're now ready to create stunning timelapse videos with overlaid data.
-
+<!-- 
 ## Example Usage
 
 Here's an example of how to use Timelapse Factory to enhance your timelapse videos:
@@ -77,6 +67,7 @@ Here's an example of how to use Timelapse Factory to enhance your timelapse vide
 ```bash
 # Replace the placeholders with actual commands or usage examples
 timelapse-factory --input video.mp4 --data data.csv --output output.mp4
+``` -->
 
 ---
 
