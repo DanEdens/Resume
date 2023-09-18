@@ -1,4 +1,4 @@
-### As of 9/14 This is WIP, You are Welcome to still take a look, but Please excuse the construction :)
+### As of 9/18 This is WIP, You are Welcome to still take a look, but Please excuse the construction in QA Testkits :)
 
 # QA Testkits
 
