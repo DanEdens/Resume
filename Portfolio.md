@@ -222,5 +222,5 @@ timelapse-factory --input video.mp4 --data data.csv --output output.mp4
     - Reduces clicks required to play in Arena by monitoring log cat and overlaying Screenclicks
 
 
-.. |image1| image:: assets/ExampleSitecheckScannerTeamsCardGeneration.jpg
-    :width: 400
+<!-- .. |image1| image:: assets/ExampleSitecheckScannerTeamsCardGeneration.jpg
+    :width: 400 -->
