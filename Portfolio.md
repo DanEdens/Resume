@@ -4,21 +4,28 @@
 
 ## DVTTestKit (Documentation and Test Case Repos)
  
- Shared library that handles interactions with Slack, Jira, and Lab Equipment.
+ Shared library that handles interactions with Slack, Jira, Confluence, and Lab Equipment.
+ 
+features:
 
 ### CDRTestkit (CDRouter Testing)
 
 Python Library controlled by Jenkins for managing CDRouter testcases 
- 
+
+features:
+
 ### AppTestKit (Motosync Mobile App Testing)
 
 Tasker Library triggered by Jenkins for controlling the Motosync Mobile App for testing.
 https://youtu.be/YZcmfUUZgKw
 
+features:
+
 ### GUITestKit (Web Browser Testing)
 
 Python Library utilizing selenium for browser testing
 
+features:
 <!-- ### AutoDocsisTestKit (Dcosis Testing)
 
 Python Library for Automating Docsis Test cases using SNMP -->
@@ -26,6 +33,8 @@ Python Library for Automating Docsis Test cases using SNMP -->
 ### OnboardingTestKit (API Testing)
 
 Bash/Python Library for automating Router onboarding and API Testing
+
+features:
 
 ![](assets/automated_QRcode_scan_onboarding.mp4)
 
@@ -201,6 +210,16 @@ timelapse-factory --input video.mp4 --data data.csv --output output.mp4
     - Deployed MPBX Laser systems and String potentiometer during testing.
 
 
+# Personal Projects
+
+1. Raidlock
+    Mobile automation for Mobile game "Raid Shadow Legends"
+    
+    features:
+
+    - Automatically selects the best attack for each monster
+    - Preforms daily tasks automatically
+    - Reduces clicks required to play in Arena by monitoring log cat and overlaying Screenclicks
 
 
 .. |image1| image:: assets/ExampleSitecheckScannerTeamsCardGeneration.jpg
