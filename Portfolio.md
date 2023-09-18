@@ -213,7 +213,7 @@ timelapse-factory --input video.mp4 --data data.csv --output output.mp4
 # Personal Projects
 
 1. Raidlock
-    Mobile automation for Mobile game "Raid Shadow Legends"
+    Automation for Mobile games "Raid Shadow Legends" and "Last Shelter: Survival"
     ![Raidlock](assets/Raidlock_automation.jpg)
     features:
 
