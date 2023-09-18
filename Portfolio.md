@@ -12,22 +12,23 @@ Python Library controlled by Jenkins for managing CDRouter testcases
  
 ### AppTestKit (Motosync Mobile App Testing)
 
-Tasker Library
+Tasker Library triggered by Jenkins for controlling the Motosync Mobile App for testing.
 https://youtu.be/YZcmfUUZgKw
 
 ### GUITestKit (Web Browser Testing)
 
-Python Library utilizing selenium for cross browser testing
+Python Library utilizing selenium for browser testing
 
-### AutoDocsisTestKit (Dcosis Testing)
+<!-- ### AutoDocsisTestKit (Dcosis Testing)
 
-Python Library for Automating Docsis Test cases using SNMP
+Python Library for Automating Docsis Test cases using SNMP -->
 
 ### OnboardingTestKit (API Testing)
 
 Bash/Python Library for automating Router onboarding and API Testing
 
 ![](assets/automated_QRcode_scan_onboarding.mp4)
+
 
 
 
@@ -146,6 +147,7 @@ timelapse-factory --input video.mp4 --data data.csv --output output.mp4
     - Created an Android app as GUI and back-end to log unit events.  
     - Stickers are generated in a given range of serial numbers by the [python script: QR-generator.py](https://github.com/DanEdens/GeoBatteryBot_public/blob/master/qr-generator.py)  
 ---
+
 
 
 #  Project Portfolio:
