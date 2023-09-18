@@ -214,7 +214,7 @@ timelapse-factory --input video.mp4 --data data.csv --output output.mp4
 
 1. Raidlock
     Mobile automation for Mobile game "Raid Shadow Legends"
-    
+    ![Raidlock](assets/Raidlock_automation.jpg)
     features:
 
     - Automatically selects the best attack for each monster
