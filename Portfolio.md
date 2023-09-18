@@ -115,7 +115,8 @@ timelapse-factory --input video.mp4 --data data.csv --output output.mp4
 
 <!-- # Project 3. WebSiteSetup Alignment Tool - Mousegrid
 
-
+Features:
+    Manipulates mouse coordinates to help align data Icons
 **Demo on YouTube**: [Watch it here](https://youtu.be/Z84uz_GfZas)   -->
 
 # Mobile Apps  
