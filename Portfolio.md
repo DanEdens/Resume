@@ -147,7 +147,7 @@ timelapse-factory --input video.mp4 --data data.csv --output output.mp4
 1. Geo Battery Bot  
     [Check it out on Github](https://github.com/DanEdens/GeoBatteryBot_public)  
     ![Batterybotexample](assets/BatteryBotExample.jpg)  
-    ![Batterybotexample](assets/BatteryBotGUIexample.jpg)  
+    ![Batterybotexample](assets/Geo_instruments_BatteryBot_app_GUI_example.jpg)  
     Mobile app for tracking inventory of Geo-instrument's fleet of 110ah AGM batteries.  
     This is used to manage the [desulfating](https://www.upsbatterycenter.com/blog/battery-desulfation/) schedule.  
     
