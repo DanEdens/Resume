@@ -226,7 +226,6 @@ Features:
 
 1. Raidlock
     Automation for Mobile games "Raid Shadow Legends" and "Last Shelter: Survival"
-    ![Raidlock](assets/Raidlock_automation.jpg)
     features:
 
     - Automatically selects the best attack for each monster
@@ -234,6 +233,7 @@ Features:
     - Reduces clicks required to play in Arena by monitoring Android logcat
     - Alexa Intergration! 
 
+    ![Raidlock](assets/Raidlock_automation.jpg)
 
 <!-- .. |image1| image:: assets/ExampleSitecheckScannerTeamsCardGeneration.jpg
     :width: 400 -->
