@@ -201,12 +201,14 @@ Features:
     
     - Monitoring underpinning activities during the preservation project of The Pittman Hotel in Dallas, Tx
     - Provided the client with a website for viewing Settlement and tilt data.
+    
     ![](assets/Geo_instruments_Dallas_Pittman_Hotel_restoration.jpg)
 
 1. [425 Riverside (Project News article)](https://www.realcomm.com/news/1045/1/river-south-austin-introducing-the-smart-building)
     - May 2019 - Jun 2020
     - Diaphragm wall project in Downtown Austin, TX
-    - Data used to verify design loads during construction, resulting in the elimination of a row of anchors.
+    - Data used to verify design loads during construction, resulting in the elimination of a row of anchors.  
+    
     ![](assets/Geo_instruments_425Riverside.jpg)
 
 1. [Atoka Pipeline Repair (Project News article)](https://tunnelingonline.com/crossing-the-canadian-river/?oly_enc_id=9796A6381467B9S)
