@@ -24,10 +24,10 @@ features:
 ### AppTestKit (Motosync Mobile App Testing)
 
 Tasker Library triggered by Jenkins for controlling the Motosync Mobile App for testing.
-https://youtu.be/YZcmfUUZgKw
+[![Demo On Youtube](assets/minim/automated_QRcode_scan_onboarding_thumbnail.jpg)](https://youtu.be/sR9x9xHP7m4)
+
 
 features:
-![](assets/minim/DVT-tests-example.jpg)
 
 ### GUITestKit (Web Browser Testing)
 
@@ -43,10 +43,9 @@ Python Library for Automating Docsis Test cases using SNMP -->
 Bash/Python Library for automating Router onboarding and API Testing
 
 features:
+![](assets/minim/DVT-tests-example.jpg)
 
-![](assets/minim/automated_QRcode_scan_onboarding.mp4)
-
-
+[![Demo On Youtube](assets/minim/timelapsesexample_still.png)](https://www.youtube.com/watch?v=cgKvyPWVw6E)
 
 
 # Desktop Applications: 
