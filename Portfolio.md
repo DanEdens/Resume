@@ -108,7 +108,7 @@ SAA Timelapse Factory is a purpose-built ETL(Extract, transform, and load) produ
 
 ## Demo
 
-[Check out a demo of Timelapse Factory in action on YouTube:](https://www.youtube.com/watch?v=cgKvyPWVw6E)
+[![Check out a demo of Timelapse Factory in action on YouTube]](https://www.youtube.com/watch?v=cgKvyPWVw6E)
 
 [![Demo On Youtube](assets/geo/timelapsesexample_still.png)](https://www.youtube.com/watch?v=cgKvyPWVw6E)
 
