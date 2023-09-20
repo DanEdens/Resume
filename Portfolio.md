@@ -142,8 +142,10 @@ Features:
 
 Manipulates mouse coordinates to help align Icons for data planview  
 Designed as an extendable framework for fine-grain mouse control  
-    
+
+      
 **Demo on YouTube**: [Watch it here](https://youtu.be/Z84uz_GfZas)  
+[![](assets/geo/timelapse-thumbnail.jpg)](https://youtu.be/Z84uz_GfZas)
 
 # Mobile Apps  
 [Back to top](#QA-Testkits)
