@@ -7,9 +7,9 @@
 - [Personal Projects](#Personal-Projects)
 
 # Portfolio Todo List
-This is a living document, and is recurrently undergoing renovations. 
- 
-Please reach out if you would like more information.
+
+    This is a living document, and is recurrently undergoing renovations. 
+    Please reach out if you would like more information.
  
 1. Finish linking Youtube Demos
 2. Update descriptions for projects without them
