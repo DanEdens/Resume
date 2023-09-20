@@ -13,7 +13,7 @@
  Shared library that handles interactions with Slack, Jira, Confluence, and Lab Equipment.
  
 features:
-
+![](assets/minim/DVT-kit_documentation.jpg)
 ### CDRTestkit (CDRouter Testing)
 
 Python Library controlled by Jenkins for managing CDRouter testcases 
@@ -27,6 +27,7 @@ Tasker Library triggered by Jenkins for controlling the Motosync Mobile App for 
 https://youtu.be/YZcmfUUZgKw
 
 features:
+![](assets/minim/DVT-tests-example.jpg)
 
 ### GUITestKit (Web Browser Testing)
 
