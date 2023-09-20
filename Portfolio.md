@@ -138,9 +138,10 @@ timelapse-factory --input video.mp4 --data data.csv --output output.mp4
 
 # Project 3. WebSiteSetup Alignment Tool - Mousegrid
 
-Features:
-    Manipulates mouse coordinates to help align Icons for data planview
-    Designed as an extendable framework for fine-grain mouse control
+    Features:  
+    
+    Manipulates mouse coordinates to help align Icons for data planview  
+    Designed as an extendable framework for fine-grain mouse control  
     
 **Demo on YouTube**: [Watch it here](https://youtu.be/Z84uz_GfZas)  
 
@@ -153,6 +154,7 @@ Features:
     - Used to assist in safely operating testing equipment in Industrial environments.  
     - Able to detect current job by closest address, and uses this for sorting data.  
     - "SOS button" mode to alert On-Site Safety Manager  
+
      ![ExampleImage](assets/personal/InterfacePanelExample_Tasker.jpg)  
 
 1.  LnetFieldApp  
@@ -168,6 +170,7 @@ Features:
      - Lightweight and scalable python script that pipes MQTT topics into [Xargs](https://www.man7.org/linux/man-pages/man1/xargs.1.html).  
      - Non-blocking control of several Units through the [Loggernet CLI, Corascript](https://www.campbellsci.com/loggernet).  
      - Server utilizes Python, Xargs, and Mosquitto.  
+
     ![LnetExample](assets/geo/LnetAppWithServerExample.jpg)
 ---
 
@@ -176,15 +179,13 @@ Features:
 
 1. AMTSworkshop  
     *Began as migration of 20 years worth of Campbell Scientific Datalogger programs into Git.*  
-    ![AMTScover](assets/geo/AMTSworkshopCover.jpg)  
     - Worked on an R&D project for a new type of Monitoring prism.  
     - Azure DevOps pipelines for testing each commit on live lab equipment  
     - Designed to handle rolling out changes slowly due to certain project specs requiring legacy versions on remote data loggers.  
+
+    ![AMTScover](assets/geo/AMTSworkshopCover.jpg)  
     
 1. Geo Battery Bot  
-    [Check it out on Github](https://github.com/DanEdens/GeoBatteryBot_public)  
-    ![Batterybotexample](assets/geo/BatteryBotExample.jpg)  
-    ![Batterybotexample](assets/geo/Geo_instruments_BatteryBot_app_GUI_example.jpg)  
     Mobile app for tracking inventory of Geo-instrument's fleet of 110ah AGM batteries.  
     This is used to manage the [desulfating](https://www.upsbatterycenter.com/blog/battery-desulfation/) schedule.  
     
@@ -192,6 +193,10 @@ Features:
     - A tablet located in the Geo-Instrument's Shop acts as the server.  
     - Created an Android app as GUI and back-end to log unit events.  
     - Stickers are generated in a given range of serial numbers by the [python script: QR-generator.py](https://github.com/DanEdens/GeoBatteryBot_public/blob/master/qr-generator.py)  
+
+    [Check it out on Github](https://github.com/DanEdens/GeoBatteryBot_public)  
+    ![Batterybotexample](assets/geo/BatteryBotExample.jpg)  
+    ![Batterybotexample](assets/geo/Geo_instruments_BatteryBot_app_GUI_example.jpg)  
 ---
 
 
