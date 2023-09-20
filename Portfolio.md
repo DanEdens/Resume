@@ -45,8 +45,9 @@ Bash/Python Library for automating Router onboarding and API Testing
 
 features:
 ![](assets/minim/DVT-tests-example.jpg)
+![](assets/minim/onboardtest example.jpg)
 
-[![Demo On Youtube](assets/minim/timelapsesexample_still.png)](https://www.youtube.com/watch?v=cgKvyPWVw6E)
+[![Demo On Youtube](assets/minim/automated_QRcode_scan_onboarding_thumbnail.jpg)](https://www.youtube.com/watch?v=cgKvyPWVw6E)
 
 
 # Desktop Applications:  
