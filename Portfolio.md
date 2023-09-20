@@ -6,7 +6,8 @@
 - [Project Portfolio](#Project-Portfolio)
 - [Personal Projects](#Personal-Projects)
 
-# QA Testkits   <a href="#top" style="color:steelblue;" >Back to top</a> [`r fa("arrow-up", height = "2em", width = "1em", fill = "steelblue")`](#) 
+# QA Testkits   
+[Back to top](#QA-Testkits)
 
 ## DVTTestKit (Documentation and Test Case Repos)
  
@@ -48,7 +49,8 @@ features:
 [![Demo On Youtube](assets/minim/timelapsesexample_still.png)](https://www.youtube.com/watch?v=cgKvyPWVw6E)
 
 
-# Desktop Applications:   <a href="#top">Back to top</a>
+# Desktop Applications:  
+[Back to top](#QA-Testkits)
 
 # Project 1. Sitecheck Scanner: FrontEnd Monitoring Tool 
 
@@ -128,7 +130,9 @@ Features:
     
 **Demo on YouTube**: [Watch it here](https://youtu.be/Z84uz_GfZas)  
 
-# Mobile Apps   <a href="#top">Back to top</a>
+# Mobile Apps  
+[Back to top](#QA-Testkits)
+
 1. Interface Panel -  
     [Download on Taskernet](https://taskernet.com/shares/?user=AS35m8mBhJAezDTr0Lio7dopdLiBaKgozAOxoCXM7Mh8sS5hSvSst1kEMf5%2FJeJveB%2BsvU8%3D&id=Project%3AInterface)  
     - GUI for assigning scripts to Mobile device triggers such as Shake, Hardware buttons, NFC tags, and Voice commands.  
@@ -152,7 +156,9 @@ Features:
     ![LnetExample](assets/geo/LnetAppWithServerExample.jpg)
 ---
 
-## Software for the Shop   <a href="#top">Back to top</a>
+## Software for the Shop  
+[Back to top](#QA-Testkits)
+
 1. AMTSworkshop  
     *Began as migration of 20 years worth of Campbell Scientific Datalogger programs into Git.*  
     ![AMTScover](assets/geo/AMTSworkshopCover.jpg)  
@@ -175,7 +181,8 @@ Features:
 
 
 
-#  Project Portfolio:   <a href="#top">Back to top</a>
+#  Project Portfolio:   
+[Back to top](#QA-Testkits)
 
 1. [MSE Wall Repair (Project Spotlight)](https://www.geo-instruments.com/mse-wall-repair/)
     - Apr 2021 - Oct 2021
@@ -231,7 +238,8 @@ Features:
     - Deployed MPBX Laser systems and String potentiometer during testing.
 
 
-# Personal Projects   <a href="#top">Back to top</a>
+# Personal Projects  
+[Back to top](#QA-Testkits)
 
 1. Raidlock
     Automation for Mobile games "Raid Shadow Legends" and "Last Shelter: Survival"
