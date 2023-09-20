@@ -6,7 +6,7 @@
 - [Project Portfolio](#Project-Portfolio)
 - [Personal Projects](#Personal-Projects)
 
-# QA Testkits   <a href="#top">Back to top</a>
+# QA Testkits   <a href="#top" style="color:steelblue;" >Back to top</a> [`r fa("arrow-up", height = "2em", width = "1em", fill = "steelblue")`](#) 
 
 ## DVTTestKit (Documentation and Test Case Repos)
  
