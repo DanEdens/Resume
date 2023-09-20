@@ -90,15 +90,14 @@ We faced many challenges working in remote locations, and this caused delays in 
 
 1. **Reducing Human Error**:  I've introduced decentralized database access to minimize human errors when accessing backend servers, ensuring the utmost data accuracy.
 
-
-## Here's a peek at what Sitecheck Scanner can do:  
-<!-- ![Alt Text](assets/geo/ExampleSitecheckScannerTeamsCardGeneration.jpg) -->
+<!-- ![Alt Text](assets/geo/ExampleSitecheckScannerTeamsCardGeneration.jpg) 
 <img src="assets/geo/ExampleSitecheckScannerTeamsCardGeneration.jpg" alt="Example Image" width="600" height="500">
+-->
 
-
-**Demo on YouTube**: [Watch it here](link_to_youtube_demo)  
-
-**GitHub Repository**: [Explore the code](https://github.com/DanEdens/sitecheck)
+**GitHub Repository**: [Explore the code](https://github.com/DanEdens/sitecheck)  
+**Demo on YouTube**: [Watch it here](https://www.youtube.com/watch?v=HExwe__eeJU)  
+[![](assets/geo/ExampleSitecheckScannerTeamsCardGeneration.jpg)](https://www.youtube.com/watch?v=HExwe__eeJU)
+  
 
 Skills showcased:  
 **Python || SQL || Pyppeteer || Microsoft Integrations || Sphinix documentation || Accessibility**
@@ -119,8 +118,7 @@ SAA Timelapse Factory is a purpose-built ETL(Extract, transform, and load) produ
 1. **Data Overlay**: With Timelapse Factory, you can effortlessly overlay data plots onto job site camera footage, providing valuable context and insights.
 
 
-## Demo
-
+**Demo on YouTube**: [Watch it here](https://www.youtube.com/watch?v=cgKvyPWVw6E)
 [![Demo On Youtube](assets/geo/timelapsesexample_still.png)](https://www.youtube.com/watch?v=cgKvyPWVw6E)
 
 <!-- 
