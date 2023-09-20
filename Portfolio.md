@@ -14,21 +14,23 @@
  Shared library that handles interactions with Slack, Jira, Confluence, and Lab Equipment.
  
 features:
-![](assets/minim/DVT-kit_documentation.jpg)
 ### CDRTestkit (CDRouter Testing)
 
 Python Library controlled by Jenkins for managing CDRouter testcases 
-DVT-kit_documentation.jpg
+
 
 features:
+
+![](assets/minim/DVT-kit_documentation.jpg)
 
 ### AppTestKit (Motosync Mobile App Testing)
 
 Tasker Library triggered by Jenkins for controlling the Motosync Mobile App for testing.
-[![Demo On Youtube](assets/minim/automated_QRcode_scan_onboarding_thumbnail.jpg)](https://youtu.be/sR9x9xHP7m4)
-
 
 features:
+
+[![Demo On Youtube](assets/minim/automated_QRcode_scan_onboarding_thumbnail.jpg)](https://youtu.be/sR9x9xHP7m4)
+
 
 ### GUITestKit (Web Browser Testing)
 
@@ -147,7 +149,8 @@ Features:
     - Andriod App for controling [Topcon](https://www.topconpositioning.com/total-stations/robotic-total-stations/ms-axii) total stations.  
     - Internal replacement for Campbell Scientic's [Loggerlink](https://play.google.com/store/apps/details?id=com.campbellsci.loggerlink&hl=en_US&gl=US) app.  
     - Significantly improves ability to locate survey points.  
-    ![LnetExample](assets/geo/Lnet_example_Tasker.jpg)
+    
+    [![LnetFieldApp Demo On Youtube](assets/geo/Lnet_example_Tasker.jpg)](https://youtu.be/vzq6agjWPe0)
   
 -  
     Backend:  
