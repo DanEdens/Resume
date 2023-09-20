@@ -1,10 +1,10 @@
 ### As of 9/18 This is WIP, You are Welcome to still take a look, but Please excuse the construction in QA Testkits :)
 
 - [QA Testkits](#QA-Testkits)
-
 - [Desktop Applications](#Desktop-Applications)
-
 - [Mobile Apps](#Mobile-Apps)
+- [Project Portfolio](#Project-Portfolio)
+- [Personal Projects](#Personal-Projects)
 
 # QA Testkits
 
