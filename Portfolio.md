@@ -6,6 +6,17 @@
 - [Project Portfolio](#Project-Portfolio)
 - [Personal Projects](#Personal-Projects)
 
+# Portfolio Todo List
+This is a living document, and is recurrently undergoing renovations. 
+ 
+Please reach out if you would like more information.
+ 
+1. Finish linking Youtube Demos
+2. Update descriptions for projects without them
+3. Re-align images and make section styling consistent
+4. Create a created content section for taskernet shares, grepper, gists, etc
+5. Finish videos with voice over explainations
+
 # QA Testkits   
 [Back to top](#QA-Testkits)
 
