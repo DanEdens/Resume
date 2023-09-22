@@ -55,7 +55,7 @@ Tasker Library triggered by Jenkins for controlling the Motosync Mobile App for 
 features:  
     Ui tests  
 
-[![Demo On Youtube](assets/minim/automated_QRcode_scan_onboarding_thumbnail.jpg)](https://youtu.be/sR9x9xHP7m4)
+[![Demo On Youtube](assets/minim/apptest-cover.jpg)](https://youtu.be/sR9x9xHP7m4)
 
 
 ### GUITestKit (Web Browser Testing)
