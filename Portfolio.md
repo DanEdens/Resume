@@ -54,6 +54,8 @@ Tasker Library triggered by Jenkins for controlling the Motosync Mobile App for 
 
 features:  
     Ui tests  
+    CSE scrapping
+    
 
 [![Demo On Youtube](assets/minim/apptest-cover.jpg)](https://youtu.be/sR9x9xHP7m4)
 
@@ -63,15 +65,19 @@ features:
 Python Library utilizing selenium for browser testing
 
 features:
+    GUI tests for 
 <!-- ### AutoDocsisTestKit (Docsis Testing)
 
 Python Library for Automating Docsis Test cases using SNMP -->
 
 ### OnboardingTestKit (API Testing)
 
-Bash/Python Library for automating Router onboarding and API Testing
+Bash/Python Library for automating Router onboarding and API Testing  
 
 features:  
+    Database Inventory cycler  
+    Automated firmware upgrade debugging  
+    Automated device onboarding  
 
 ![](assets/minim/DVT-tests-example.jpg)
  
