@@ -1,4 +1,4 @@
-### As of 9/18 This is WIP, You are Welcome to still take a look, but Please excuse the construction in QA Testkits :)
+### As of 9/21 This is WIP, You are Welcome to still take a look, but Please excuse the construction in QA Testkits :)
 
 - [QA Testkits](#QA-Testkits)
 - [Desktop Applications](#Desktop-Applications)
@@ -15,7 +15,7 @@
 2. Update descriptions for projects without them
 3. Re-align images and make section styling consistent
 4. Create a created content section for taskernet shares, grepper, gists, etc
-5. Finish videos with voice over explainations
+5. Finish videos with voice over explanation
 
 # QA Testkits   
 [Back to top](#QA-Testkits)
@@ -63,7 +63,7 @@ features:
 Python Library utilizing selenium for browser testing
 
 features:
-<!-- ### AutoDocsisTestKit (Dcosis Testing)
+<!-- ### AutoDocsisTestKit (Docsis Testing)
 
 Python Library for Automating Docsis Test cases using SNMP -->
 
