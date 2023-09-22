@@ -3,7 +3,7 @@
 - [QA Testkits](#QA-Testkits)
 - [Desktop Applications](#Desktop-Applications)
 - [Mobile Apps](#Mobile-Apps)
-- [Project Portfolio](#Project-Portfolio)
+- [Monitoring Portfolio](#Monitoring-Portfolio)
 - [Personal Projects](#Personal-Projects)
 
 # Portfolio Todo List
@@ -22,15 +22,29 @@
 
 ## DVTTestKit (Documentation and Test Case Repos)
  
- Shared library that handles interactions with Slack, Jira, Confluence, and Lab Equipment.
+ Shared library that wraps tooling called by other Testkits.
+ <!-- handles interactions with Slack, Jira, Confluence, and Lab Equipment. -->
  
 features:
+    Autodoc Sphinx-confluence builder
+    Custom logger
+    Jenkins api wrapper
+    Slack api wrapper
+    Jira api wrapper
+    Confluence api wrapper
+    Lab Equipment api wrapper
+
+
 ### CDRTestkit (CDRouter Testing)
 
-Python Library controlled by Jenkins for managing CDRouter testcases 
+Python Library utilizing Jenkins for managing CDRouter testing. 
 
 
 features:
+    Slackbot reporting 
+    Aruba switch controller
+    Smart plug Alexa integration
+    Conducts Wifi, docsis, Ipv6, and various other Router tests
 
 ![](assets/minim/DVT-kit_documentation.jpg)
 
@@ -39,6 +53,7 @@ features:
 Tasker Library triggered by Jenkins for controlling the Motosync Mobile App for testing.
 
 features:
+    Ui tests 
 
 [![Demo On Youtube](assets/minim/automated_QRcode_scan_onboarding_thumbnail.jpg)](https://youtu.be/sR9x9xHP7m4)
 
@@ -201,7 +216,7 @@ Designed as an extendable framework for fine-grain mouse control
 
 
 
-#  Project Portfolio:   
+# Monitoring Portfolio:   
 [Back to top](#QA-Testkits)
 
 1. [MSE Wall Repair (Project Spotlight)](https://www.geo-instruments.com/mse-wall-repair/)
