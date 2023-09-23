@@ -6,6 +6,8 @@
 - [Monitoring Portfolio](#Monitoring-Portfolio)
 - [Personal Projects](#Personal-Projects)
 
+- [Grepper Profile](https://www.grepper.com/profile/dan-edens)
+
 # Portfolio Todo List
 
     This is a living document, and is recurrently undergoing renovations. 
