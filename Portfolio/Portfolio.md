@@ -304,3 +304,65 @@ Designed as an extendable framework for fine-grain mouse control
 
 <!-- .. |image1| image:: assets/ExampleSitecheckScannerTeamsCardGeneration.jpg
     :width: 400 -->
+
+<!-- 
+## Monitoring Portfolio
+
+### Fuji Vegetable Oil Tunneling
+[Project News Article](https://www.nola.com/news/business/article_a9e05f91-a734-5bd1-8d05-587258f6a3c0.html)
+Aug 2021 - Apr 2022
+
+- Tunneling Monitoring below 14 lines of Railroad.
+- Provided the client with Settlement data during Operations.
+
+### 425 Riverside Excavation Monitoring
+[Related News Article](https://www.realcomm.com/news/1045/1/river-south-austin-introducing-the-smart-building)
+May 2019 - Jun 2020
+
+- Diaphragm wall project in Downtown Austin, Tx.
+- Data used to verify design loads during construction, resulting in the elimination of a row of anchors.
+
+### Atoka Pipeline Repair
+[Related News Article](https://tunnelingonline.com/crossing-the-canadian-river/?oly_enc_id=9796A6381467B9S)
+Jul 2019 - Jan 2022
+
+- Tunneling project to relocate a Water pipeline underground.
+- Installed 2 AMTS systems to monitor the active water pipeline during blasting activities.
+
+### Government Center Parking Garage
+[Related News Article](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)
+May 2022
+
+- Load Test performed on supports affected by the Government Center Garage collapse in Boston, MA.
+- Deployed MPBX Laser systems and String potentiometer during testing.
+
+### MSE Wall Repair
+[Project Spotlight](https://www.geo-instruments.com/mse-wall-repair/)
+2021
+
+- I oversaw Settlement Monitoring during repair of a collapsed MSE wall in Fort Worth, TX.
+- Settlement was monitored using Tiltmeters and Automated Total Stations during the wall's repair.
+
+### Capitol Complex Excavation
+[Project Website](https://www.tfc-ccp.org/)
+[Related News Article](https://austin.towers.net/downtown-austins-capitol-complex-project-finally-unveils-its-texas-mall/)
+Mar 2018 - Jul 2022
+
+- Excavation monitoring in Downtown Austin, Tx.
+- Installed AMTS systems, Tiltmeters, Automated inclinometers, and Vibration Monitors.
+
+### SH288 MSE wall failure
+[Related News Article](https://abc13.com/sh-288-pavement-failure-safety-purposes-structural-damage/10527940/)
+Apr 2021 - Oct 2021
+
+- Provided the client with SAA and Piezometer data during operations.
+- These were used to monitor for additional settlement and the height of the water table during Emergency repairs.
+
+### Columbia-Lock and Dam - Emergency repairs
+[Project Spotlight](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)
+Nov 2018 to Feb 2019
+
+- Emergency Repair of an Army Corps of Engineers' Lock and Dam.
+- Provided Equipment troubleshooting and Live Data monitoring for the repair team.
+- Developed a Grout logging app for Crew working in heavy storming.
+- Deployed Piezometers and Tiltmeters 40 feet underwater on the Dam's slab. -->
