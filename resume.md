@@ -33,7 +33,7 @@ Incomprehensive list of tools I have utilized in Production:
 - Cloud platforms including Atlassian, Azure, Gitlab, and AWS
 - Network tooling including OpenWRT, CDRouter, Jperf, and CMTS
 
-[View My Portfolio on Github](https://github.com/DanEdens/Resume/blob/main/Portfolio.md)
+[View My Portfolio on Github](https://github.com/DanEdens/Resume/tree/main/Portfolio)
 
 ## Work Experience
 
