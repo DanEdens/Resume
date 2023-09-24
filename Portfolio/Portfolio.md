@@ -27,14 +27,15 @@
  Shared library that wraps tooling called by other Testkits.
  <!-- handles interactions with Slack, Jira, Confluence, and Lab Equipment. -->
  
-features:  
-    1. Autodoc Sphinx-confluence builder  
-    1. Custom logger  
-    1. Jenkins api wrapper  
-    1. Slack api wrapper  
-    1. Jira api wrapper  
-    1. Confluence api wrapper  
-    1. Lab Equipment api wrapper  
+Features:  
+
+1. Autodoc Sphinx-confluence builder  
+1. Custom logger  
+1. Jenkins api wrapper  
+1. Slack api wrapper  
+1. Jira api wrapper  
+1. Confluence api wrapper  
+1. Lab Equipment api wrapper  
 
 
 ### CDRTestkit (CDRouter Testing) 
@@ -42,11 +43,12 @@ features:
 Python Library utilizing Jenkins for managing CDRouter testing. 
 
 
-features:  
-    1. Slackbot reporting  
-    1. Aruba switch controller  
-    1. Smart plug Alexa integration  
-    1. Conducts Wifi, docsis, Ipv6, and various other Router tests  
+Features:  
+
+1. Slackbot reporting  
+1. Aruba switch controller  
+1. Smart plug Alexa integration  
+1. Conducts Wifi, docsis, Ipv6, and various other Router tests  
 
 ![](assets/minim/DVT-kit_documentation.jpg)
 
