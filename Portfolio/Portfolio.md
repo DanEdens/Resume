@@ -25,7 +25,7 @@
 ## DVTTestKit (Documentation and Test Case Repos)
  
  Shared library that wraps tooling called by other Testkits.
- <!-- handles interactions with Slack, Jira, Confluence, and Lab Equipment. -->
+ This handles interactions with third party APIs and Network configurations.
  
 Features:  
 
@@ -57,8 +57,9 @@ Features:
 Tasker Library triggered by Jenkins for controlling the Motosync Mobile App for testing.  
 
 features:  
-    Ui tests  
-    CSE scrapping
+    
+1. Ui tests  
+1. CSE scrapping
     
 
 [![Demo On Youtube](assets/minim/apptest-cover.jpg)](https://youtu.be/sR9x9xHP7m4)
