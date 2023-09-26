@@ -279,7 +279,7 @@ Designed as an extendable framework for fine-grain mouse control
     - Diaphragm wall project in Downtown Austin, TX  
     - Data used to verify design loads during construction, resulting in the elimination of a row of anchors.  
     
-    ![](assets/Geo_instruments_425Riverside.jpg)
+    ![](assets/geo/Geo_instruments_425Riverside.jpg)
 
 1. [Atoka Pipeline Repair (Project News article)](https://tunnelingonline.com/crossing-the-canadian-river/?oly_enc_id=9796A6381467B9S)
     - Jul 2019 - Jan 2022  
