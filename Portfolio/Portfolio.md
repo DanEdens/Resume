@@ -259,6 +259,8 @@ Designed as an extendable framework for fine-grain mouse control
     - Provided the client with SAA and Piezometer data during operations.  
     - These were used to monitor for additional settlement and the height of the water table during Emergency repairs.  
 
+    ![](assets/geo/Geo-Instruments_Emergency_response_SH_288_road_collapse.jpg)
+
 1. [Fuji (Project News article)](https://www.nola.com/news/business/article_a9e05f91-a734-5bd1-8d05-587258f6a3c0.html)  
     - Aug 2021 - Apr 2022  
     
