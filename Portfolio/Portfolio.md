@@ -191,7 +191,6 @@ Designed as an extendable framework for fine-grain mouse control
     - Internal replacement for Campbell Scientic's [Loggerlink](https://play.google.com/store/apps/details?id=com.campbellsci.loggerlink&hl=en_US&gl=US) app.  
     - Significantly improves ability to locate survey points.  
     
-    **Demo on YouTube**: [Watch it here](https://youtu.be/vzq6agjWPe0)  
     [![LnetFieldApp Demo On Youtube](assets/geo/Lnet_example_Tasker.jpg)](https://youtu.be/vzq6agjWPe0)
   
 -  
@@ -200,7 +199,8 @@ Designed as an extendable framework for fine-grain mouse control
      - Non-blocking control of several Units through the [Loggernet CLI, Corascript](https://www.campbellsci.com/loggernet).  
      - Server utilizes Python, Xargs, and Mosquitto.  
 
-    ![LnetExample](assets/geo/LnetAppWithServerExample.jpg)
+    **Demo on YouTube**: [Watch it here](https://youtu.be/vzq6agjWPe0)  
+    [![LnetExample](assets/geo/LnetAppWithServerExample.jpg)](https://youtu.be/vzq6agjWPe0)
 ---
 
 ## Software for the Shop  
