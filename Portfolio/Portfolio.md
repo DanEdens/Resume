@@ -62,7 +62,7 @@ features:
 1. Ui tests  
 1. CSE scrapping
     
-[Demo On Youtube:](https://youtu.be/sR9x9xHP7m4)  
+**Demo on YouTube**: [Watch it here](https://youtu.be/sR9x9xHP7m4)  
 [![Demo On Youtube](assets/minim/apptest-cover.jpg)](https://youtu.be/sR9x9xHP7m4)
 
 
@@ -89,7 +89,7 @@ features:
  
 ![Centralized Logging](assets/minim/onboardtest_example.jpg)
 
-[Demo On Youtube:](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
+**Demo on YouTube**: [Watch it here](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
 [![Demo On Youtube](assets/minim/automated_QRcode_scan_onboarding_thumbnail.jpg)](https://www.youtube.com/watch?v=cgKvyPWVw6E)
 
 
