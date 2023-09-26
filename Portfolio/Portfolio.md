@@ -37,6 +37,7 @@ Features:
 1. Confluence api wrapper  
 1. Lab Equipment api wrapper  
 
+![](assets/minim/DVTtestkit-map.jpg)
 
 ### CDRTestkit (CDRouter Testing) 
 
