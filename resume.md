@@ -35,6 +35,14 @@ Incomprehensive list of tools I have utilized in Production:
 
 [View My Portfolio on Github](https://github.com/DanEdens/Resume/tree/main/Portfolio)
 
+
+## Social Media
+- [CodePen](https://codepen.io/danedens/full/ZExrjqV)
+- [GitHub](https://github.com/DanEdens/Resume)
+- [LinkedIn](https://www.linkedin.com/in/danedens/)
+- [Grepper](https://www.grepper.com/profile/dan-edens)
+
+
 ## Work Experience
 
 ### Minim - QA Automation Engineer
@@ -42,16 +50,15 @@ Incomprehensive list of tools I have utilized in Production:
 
 Seasoned QA Automation Engineer dedicated to ensuring product quality through rigorous testing. My role involves:
 
-- Automated testing of firmware, UIs on various browsers, and mobile apps.
+- Automated testing of firmware, GUI’s, and mobile apps.
 - Bug reporting, verification, and regression testing.
 - Extensive Firmware/Hardware/Platform Testing.
-- Strategic execution of test plans in network environments.
+- Strategic design and execution of test plans.
 - Rapid resolution of network/test environment issues.
 - Creating and executing device verification test plans.
 - Collaborating with QA, Software/Firmware, and Tech Support Teams.
 - Developing automation scripts in Enterprise environments.
-- CDRouter maintenance and support.
-- Automated testing for Mesh products, Docsis products, browsers, apps, and WiFi throughput.
+- Automated testing for Mesh products, Docsis modems, and WiFi throughput
 - Transitioning manual testing to automation.
 
 ### Geo Instruments - Project Coordinator
@@ -59,15 +66,15 @@ Seasoned QA Automation Engineer dedicated to ensuring product quality through ri
 
 Geotechnical Instrumentation and Automation Specialist. I:
 
-- Experienced Operating Independently, Operated a remote office for 3.5 years.
-- Experienced Traveling and responding to Emergencies.
-- Worked directly with Clients to develop project plans and deliver Data to Users.
-- Provided Remote Trainings and Troubleshooting Support, and Developed Web Interfaces to customer specifications.
-- Installed monitoring equipment in Industrial and Construction Environments, gaining skills with:
-  - Troubleshooting Hardware, Networking, Databases, and developing Test Automation using Azure DevOps and AWS.
-- Developed Desktop, Cloud, and Mobile Apps to assist with Data collection, Issue visibility, and Inventory Management, Risk mitigation, and Compliance Documentation.
+- Experienced Operating Independently, Operated a remote office for 3.5 years.  
+- Experienced Traveling and responding to Emergencies.  
+- Worked directly with Clients to develop project plans and deliver Data to Users.  
+- Provided Remote Training's and Troubleshooting Support, and Developed Web Interfaces to customer specifications.  
+- Installed monitoring equipment in Industrial and Construction Environments, gaining skills with:  
+- Troubleshooting Hardware, Networking, Databases, and developing Test Automation using Azure DevOps and AWS.  
+- Developed Desktop, Cloud, and Mobile Apps to assist with Data collection, Issue visibility, and Inventory Management, Risk mitigation, and Compliance Documentation.  
 
-### Chili's Grill and Bar - Lead Prep Cook
+### Chili's Grill and Bar - Test Kitchen Lead Prep Cook
 06/2014 - 06/2018
 
 Lead Prep team, Maintained Show-ready kitchen for Chili's Test location in Castle Hills, TX.
@@ -75,9 +82,8 @@ Lead Prep team, Maintained Show-ready kitchen for Chili's Test location in Castl
 - Took Key part in Franchise showcases and assisted during Marketing events such as filming TV commercials.
 - Worked with Corporate to help Field test new Products and Improve upon standards.
 - Developed Mobile Apps for Kitchen Use:
-  1. Hands-Free Recipe App for Kitchen Tablet.
-  2. Mobile App for collecting Cooling log Data and scheduling Oven timers.
-  3. Mobile App for collecting Data on the accuracy of Daily On-hand Food Quantities.
+ 1. Hands-Free Recipe App for Kitchen Tablet.
+ 2. Mobile App for automatic Cooling logs, oven timer control, and recording accuracy of Daily On-hand Food Quantities.
 
 ### AMEC Earth & Environmental - Laboratory Technician
 08/2013 - 04/2014
@@ -95,29 +101,26 @@ Performed laboratory testing on concrete and soil samples.
 - JavaScript
 - C#
 - REST
-- Shell
-- Mobile Development
+- Linux/Shell
 - Automation
-- Selenium
-- Playwright
-- Cypress
-- Jenkins
-- Tasker
-- Deployment Pipelines
-- AWS
-- Azure
-- Gitlab
-- Self-Hosted
-- Databasing
-- SQL
-- LINQ
-- MySQL
-- Async/Multithreading
-- CSS
-- Markdown
-- CSS3
-- Sass
-- HTML
+- Mobile Development
+- Selenium  
+- Appium  
+- Playwright  
+- Cypress  
+- Jenkins  
+- Tasker  
+- Deployment Pipelines 
+- AWS  
+- Azure  
+- Gitlab  
+- Self-Hosted Agents  
+- Databasing  
+- SQL  
+- LINQ  
+- MySQL  
+- Async/Multithreading  
+- Technical Specs 
 - Campbell Scientific
 - Loggernet SDK
 - Corascript
@@ -125,6 +128,15 @@ Performed laboratory testing on concrete and soil samples.
 - Networking
 - Packet Analytics
 - VLANs / Routing
+- RF Analysis
+- Wireshark
+- Wireless
+- WiFi
+- Bluetooth
+- Mesh
+- 802.11
+- 802.15.4
+
 
 ### Practices & Tooling
 
@@ -140,23 +152,20 @@ Performed laboratory testing on concrete and soil samples.
 - Build Automation
 - Site-reliability
 - Monitoring
+- Message brokers
+- Load Balancing
 - Cloud Computing
 - Agent Pools
 - Virtual Machines
 - Networks
 - Project Management
-- Kanban API Automation
+- API Automation
 - Microsoft/Atlassian
 - Field Experience
 - User-Centered Design
 - "Tough crowd" App Design
 - Mechanical expertise
 - Electronics debugging
-- Embedded systems
+- Linux Embedded systems
+- PLC programming
 
-
-## Social Media
-- [CodePen](https://codepen.io/danedens/pen/ZExrjqV)
-- [GitHub](https://github.com/DanEdens/Resume)
-- [Facebook](https://www.facebook.com/danedens2/)
-- [LinkedIn](https://www.linkedin.com/in/danedens/)
