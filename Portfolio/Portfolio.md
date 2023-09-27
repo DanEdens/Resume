@@ -80,9 +80,10 @@ Python Library for Automating Docsis Test cases using SNMP -->
 Bash/Python Library for automating Router onboarding and API Testing  
 
 features:  
-    Database Inventory cycler  
-    Automated firmware upgrade debugging  
-    Automated device onboarding  
+
+1. Database Inventory cycler  
+1. Automated firmware upgrade debugging  
+1. Automated device onboarding  
 
 ![](assets/minim/DVT-tests-example.jpg)
  
