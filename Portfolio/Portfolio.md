@@ -65,12 +65,12 @@ features:
 [![Demo On Youtube](assets/minim/apptest-cover.jpg)](https://youtu.be/sR9x9xHP7m4)
 
 
-### GUITestKit (Web Browser Testing)
+<!-- ### GUITestKit (Web Browser Testing)
 
 Python Library utilizing selenium for browser testing
 
 features:
-    GUI tests for 
+    GUI tests for  -->
 <!-- ### AutoDocsisTestKit (Docsis Testing)
 
 Python Library for Automating Docsis Test cases using SNMP -->
