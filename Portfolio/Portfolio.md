@@ -38,10 +38,6 @@ Features:
 
 ![](assets/minim/DVTtestkit-map.jpg)
 
-  
-  
-  
-
 ### CDRTestkit (CDRouter Testing) 
 
 Python Library utilizing Jenkins for managing CDRouter testing. 
@@ -55,10 +51,6 @@ Features:
 1. Conducts Wifi, docsis, Ipv6, and various other Router tests  
 
 ![](assets/minim/DVT-kit_documentation.jpg)
-
-  
-  
-  
 
 ### AppTestKit (Motosync Mobile App Testing)
 
@@ -83,10 +75,6 @@ features:
 
 Python Library for Automating Docsis Test cases using SNMP -->
 
-  
-  
-  
-
 ### OnboardingTestKit (API Testing)
 
 Bash/Python Library for automating Router onboarding and API Testing  
@@ -103,10 +91,6 @@ features:
 
 **Demo on YouTube**: [Watch it here](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
 [![Demo On Youtube](assets/minim/automated_QRcode_scan_onboarding_thumbnail.jpg)](https://www.youtube.com/watch?v=cgKvyPWVw6E)
-
-  
-  
-  
 
 
 # Desktop Applications:  
@@ -151,10 +135,6 @@ Throughout the development of Sitecheck Scanner, I gained invaluable experience 
     
 
 
-  
-  
-  
-
 ## SAA Timelapse Factory
 
 SAA Timelapse Factory is a purpose-built ETL(Extract, transform, and load) product designed to manipulate Geotechnical data plots on our Quickview platform. Its primary purpose is to gather and overlay collected plots onto job site camera footage, creating timelapse videos.
@@ -182,10 +162,6 @@ timelapse-factory --input video.mp4 --data data.csv --output output.mp4
 ---
 
 
-  
-  
-  
-
 # Project 3. WebSiteSetup Alignment Tool - Mousegrid
 
 Features:  
@@ -210,10 +186,6 @@ Designed as an extendable framework for fine-grain mouse control
 
  ![ExampleImage](assets/personal/InterfacePanelExample_Tasker.jpg)  
 
-  
-  
-  
-
 ##  LnetFieldApp  
 Frontend:   
 1. Andriod App for controling [Topcon](https://www.topconpositioning.com/total-stations/robotic-total-stations/ms-axii) total stations.  
@@ -232,9 +204,6 @@ Backend:
 [![LnetExample](assets/geo/LnetAppWithServerExample.jpg)](https://youtu.be/vzq6agjWPe0)
 ---
 
-  
-  
-  
 ## Software for the Shop  
 [Back to top](#QA-Testkits)
 
