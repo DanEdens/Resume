@@ -5,7 +5,6 @@
 - [Mobile Apps](#Mobile-Apps)
 - [Monitoring Portfolio](#Monitoring-Portfolio)
 - [Personal Projects](#Personal-Projects)
-
 - [Grepper Profile](https://www.grepper.com/profile/dan-edens)
 
 # Portfolio Todo List
@@ -176,31 +175,32 @@ Designed as an extendable framework for fine-grain mouse control
 # Mobile Apps  
 [Back to top](#QA-Testkits)
 
-1. Interface Panel -  
+## Interface Panel -  
+
     [Download on Taskernet](https://taskernet.com/shares/?user=AS35m8mBhJAezDTr0Lio7dopdLiBaKgozAOxoCXM7Mh8sS5hSvSst1kEMf5%2FJeJveB%2BsvU8%3D&id=Project%3AInterface)  
-    - GUI for assigning scripts to Mobile device triggers such as Shake, Hardware buttons, NFC tags, and Voice commands.  
-    - Used to assist in safely operating testing equipment in Industrial environments.  
-    - Able to detect current job by closest address, and uses this for sorting data.  
-    - "SOS button" mode to alert On-Site Safety Manager  
+- GUI for assigning scripts to Mobile device triggers such as Shake, Hardware buttons, NFC tags, and Voice commands.  
+- Used to assist in safely operating testing equipment in Industrial environments.  
+- Able to detect current job by closest address, and uses this for sorting data.  
+- "SOS button" mode to alert On-Site Safety Manager  
 
-     ![ExampleImage](assets/personal/InterfacePanelExample_Tasker.jpg)  
+ ![ExampleImage](assets/personal/InterfacePanelExample_Tasker.jpg)  
 
-1.  LnetFieldApp  
-    Frontend:   
-    - Andriod App for controling [Topcon](https://www.topconpositioning.com/total-stations/robotic-total-stations/ms-axii) total stations.  
-    - Internal replacement for Campbell Scientic's [Loggerlink](https://play.google.com/store/apps/details?id=com.campbellsci.loggerlink&hl=en_US&gl=US) app.  
-    - Significantly improves ability to locate survey points.  
-    
-    [![LnetFieldApp Demo On Youtube](assets/geo/Lnet_example_Tasker.jpg)](https://youtu.be/vzq6agjWPe0)
-  
+##  LnetFieldApp  
+Frontend:   
+1. Andriod App for controling [Topcon](https://www.topconpositioning.com/total-stations/robotic-total-stations/ms-axii) total stations.  
+1. Internal replacement for Campbell Scientic's [Loggerlink](https://play.google.com/store/apps/details?id=com.campbellsci.loggerlink&hl=en_US&gl=US) app.  
+1. Significantly improves ability to locate survey points.  
+
+[![LnetFieldApp Demo On Youtube](assets/geo/Lnet_example_Tasker.jpg)](https://youtu.be/vzq6agjWPe0)
+
 -  
-    Backend:  
-     - Lightweight and scalable python script that pipes MQTT topics into [Xargs](https://www.man7.org/linux/man-pages/man1/xargs.1.html).  
-     - Non-blocking control of several Units through the [Loggernet CLI, Corascript](https://www.campbellsci.com/loggernet).  
-     - Server utilizes Python, Xargs, and Mosquitto.  
+Backend:  
+ - Lightweight and scalable python script that pipes MQTT topics into [Xargs](https://www.man7.org/linux/man-pages/man1/xargs.1.html).  
+ - Non-blocking control of several Units through the [Loggernet CLI, Corascript](https://www.campbellsci.com/loggernet).  
+ - Server utilizes Python, Xargs, and Mosquitto.  
 
-    **Demo on YouTube**: [Watch it here](https://youtu.be/vzq6agjWPe0)  
-    [![LnetExample](assets/geo/LnetAppWithServerExample.jpg)](https://youtu.be/vzq6agjWPe0)
+**Demo on YouTube**: [Watch it here](https://youtu.be/vzq6agjWPe0)  
+[![LnetExample](assets/geo/LnetAppWithServerExample.jpg)](https://youtu.be/vzq6agjWPe0)
 ---
 
 ## Software for the Shop  
