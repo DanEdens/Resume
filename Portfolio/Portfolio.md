@@ -96,7 +96,7 @@ features:
 # Desktop Applications:  
 [Back to top](#QA-Testkits)
 
-# Project 1. Sitecheck Scanner: FrontEnd Monitoring Tool 
+## Sitecheck Scanner: FrontEnd Monitoring Tool 
 
 Sitecheck Scanner started a personal convenience project that evolved into a tool to empower Geo-Instrument's field technicians.  
 We faced many challenges working in remote locations, and this caused delays in Client communication. I created Sitecheck Scanner to help field technicians stay updated with their current status, and facilitate teamwork. 
@@ -135,7 +135,7 @@ Throughout the development of Sitecheck Scanner, I gained invaluable experience 
     
 
 
-# Project 2. SAA Timelapse Factory
+## SAA Timelapse Factory
 
 SAA Timelapse Factory is a purpose-built ETL(Extract, transform, and load) product designed to manipulate Geotechnical data plots on our Quickview platform. Its primary purpose is to gather and overlay collected plots onto job site camera footage, creating timelapse videos.
 
