@@ -257,6 +257,8 @@ Backend:
     - Excavation monitoring in downtown Austin, Tx.  
     - Installed AMTS systems, Tiltmeters, Automated Inclinometers, and Vibration Monitors.  
 
+    ![](assets/geo/Geo-Instruments_AMTS1_captiol_complex.jpg)
+
 1. [SH288 WSE wall failure (News Article on Emergency)](https://abc13.com/sh-288-pavement-failure-safety-purposes-structural-damage/10527940/)  
     - Apr 2021 - Oct 2021  
     - Provided the client with SAA and Piezometer data during operations.  
