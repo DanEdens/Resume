@@ -38,7 +38,7 @@ Features:
 1. Confluence api wrapper  
 1. Lab Equipment api wrapper  
 
-![](assets/minim/DVTtestkit-map.jpg)
+    ![](assets/minim/DVTtestkit-map.jpg)
 
 ### CDRTestkit (CDRouter Testing) 
 
@@ -52,7 +52,7 @@ Features:
 1. Smart plug Alexa integration  
 1. Conducts Wifi, docsis, Ipv6, and various other Router tests  
 
-![](assets/minim/DVT-kit_documentation.jpg)
+    ![](assets/minim/DVT-kit_documentation.jpg)
 
 ### AppTestKit (Motosync Mobile App Testing)
 
@@ -64,7 +64,7 @@ features:
 1. CSE scrapping
     
 **Demo on YouTube**: [Watch it here](https://youtu.be/sR9x9xHP7m4)  
-[![Demo On Youtube](assets/minim/apptest-cover.jpg)](https://youtu.be/sR9x9xHP7m4)
+    [![Demo On Youtube](assets/minim/apptest-cover.jpg)](https://youtu.be/sR9x9xHP7m4)
 
 
 <!-- ### GUITestKit (Web Browser Testing)
@@ -87,12 +87,12 @@ features:
 1. Automated firmware upgrade debugging  
 1. Automated device onboarding  
 
-![](assets/minim/DVT-tests-example.jpg)
+    ![](assets/minim/DVT-tests-example.jpg)
  
-![Centralized Logging](assets/minim/onboardtest_example.jpg)
+    ![Centralized Logging](assets/minim/onboardtest_example.jpg)
 
 **Demo on YouTube**: [Watch it here](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
-[![Demo On Youtube](assets/minim/automated_QRcode_scan_onboarding_thumbnail.jpg)](https://www.youtube.com/watch?v=cgKvyPWVw6E)
+    [![Demo On Youtube](assets/minim/automated_QRcode_scan_onboarding_thumbnail.jpg)](https://www.youtube.com/watch?v=cgKvyPWVw6E)
 
 --------------
 # Desktop Applications:  
@@ -126,7 +126,7 @@ We faced many challenges working in remote locations, and this caused delays in 
 
 **GitHub Repository**: [Explore the code](https://github.com/DanEdens/sitecheck)  
 **Demo on YouTube**: [Watch it here](https://www.youtube.com/watch?v=HExwe__eeJU)  
-[![](assets/geo/ExampleSitecheckScannerTeamsCardGeneration.jpg)](https://www.youtube.com/watch?v=HExwe__eeJU)
+    [![](assets/geo/ExampleSitecheckScannerTeamsCardGeneration.jpg)](https://www.youtube.com/watch?v=HExwe__eeJU)
   
 
 #### Skills showcased:  
@@ -177,7 +177,7 @@ Features:
 
       
 **Demo on YouTube**: [Watch it here](https://youtu.be/Z84uz_GfZas)  
-[![](assets/geo/timelapse-thumbnail.jpg)](https://youtu.be/Z84uz_GfZas)
+    [![](assets/geo/timelapse-thumbnail.jpg)](https://youtu.be/Z84uz_GfZas)
 
 --------------
 # Mobile Apps  
@@ -191,7 +191,7 @@ Features:
 - Able to detect current job by closest address, and uses this for sorting data.  
 - "SOS button" mode to alert On-Site Safety Manager  
 
- ![ExampleImage](assets/personal/InterfacePanelExample_Tasker.jpg)  
+  ![ExampleImage](assets/personal/InterfacePanelExample_Tasker.jpg)  
 
 ##  LnetFieldApp  
 Frontend:   
@@ -199,7 +199,7 @@ Frontend:
 1. Internal replacement for Campbell Scientic's [Loggerlink](https://play.google.com/store/apps/details?id=com.campbellsci.loggerlink&hl=en_US&gl=US) app.  
 1. Significantly improves ability to locate survey points.  
 
-[![LnetFieldApp Demo On Youtube](assets/geo/Lnet_example_Tasker.jpg)](https://youtu.be/vzq6agjWPe0)
+    [![LnetFieldApp Demo On Youtube](assets/geo/Lnet_example_Tasker.jpg)](https://youtu.be/vzq6agjWPe0)
 
 
 Backend:  
@@ -220,7 +220,7 @@ Backend:
 1. Azure DevOps pipelines for testing each commit on live lab equipment  
 1. Designed to handle rolling out changes slowly due to certain project specs requiring legacy versions on remote data loggers.  
 
-![AMTScover](assets/geo/AMTSworkshopCover.jpg)  
+    ![AMTScover](assets/geo/AMTSworkshopCover.jpg)  
     
 ## Geo Battery Bot  
 Mobile app for tracking inventory of Geo-instrument's fleet of 110ah AGM batteries.  
@@ -247,7 +247,8 @@ Apr 2021 - Oct 2021
 1. Deployed Tiltmeters and Crack monitoring equipment to monitor for movement during wall repair.  
 1. Built and Maintained Client website displaying Tiltmeter and AMTS Data.  
 
-## [Lock and Dam (Project Spotlight)](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)  
+## [Lock and Dam](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)  
+[Project Spotlight](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)
 
 
 Nov 2018 - Feb 2019  
@@ -266,7 +267,7 @@ Mar 2018 - Jul 2022
 1. Excavation monitoring in downtown Austin, Tx.  
 1. Installed AMTS systems, Tiltmeters, Automated Inclinometers, and Vibration Monitors.  
 
-![](assets/geo/Geo-Instruments_AMTS1_captiol_complex.jpg)
+    ![](assets/geo/Geo-Instruments_AMTS1_captiol_complex.jpg)
 
 ## SH288 WSE wall failure 
 [News Article on Emergency](https://abc13.com/sh-288-pavement-failure-safety-purposes-structural-damage/10527940/)  
@@ -276,7 +277,7 @@ Apr 2021 - Oct 2021
 
     ![](assets/geo/Geo-Instruments_Emergency_response_SH_288_road_collapse.jpg)
 
-## [Fuji (Project News article)](https://www.nola.com/news/business/article_a9e05f91-a734-5bd1-8d05-587258f6a3c0.html)  
+## [Fuji Vegetable Oil Tunneling](https://www.nola.com/news/business/article_a9e05f91-a734-5bd1-8d05-587258f6a3c0.html)  
 [Project News article](https://www.nola.com/news/business/article_a9e05f91-a734-5bd1-8d05-587258f6a3c0.html)  
 Aug 2021 - Apr 2022  
     
@@ -292,19 +293,23 @@ Aug 2018 - Apr 2019
     
     ![](assets/geo/Geo_instruments_Dallas_Pittman_Hotel_restoration.jpg)  
 
-## [425 Riverside (Project News article)](https://www.realcomm.com/news/1045/1/river-south-austin-introducing-the-smart-building)
-    - May 2019 - Jun 2020  
+## [425 Riverside Excavation Monitoring](https://www.realcomm.com/news/1045/1/river-south-austin-introducing-the-smart-building)
+[Project News article](https://www.realcomm.com/news/1045/1/river-south-austin-introducing-the-smart-building)
+May 2019 - Jun 2020  
     
 1. Diaphragm wall project in Downtown Austin, TX  
 1. Data used to verify design loads during construction, resulting in the elimination of a row of anchors.  
     
     ![](assets/geo/RiversideExcavation35speedReduceColorTable.gif)
 
-## [Atoka Pipeline Repair (Project News article)](https://tunnelingonline.com/crossing-the-canadian-river/?oly_enc_id=9796A6381467B9S)
-    - Jul 2019 - Jan 2022  
+## [Atoka Pipeline Repair](https://tunnelingonline.com/crossing-the-canadian-river/?oly_enc_id=9796A6381467B9S)  
+[Project News article](https://tunnelingonline.com/crossing-the-canadian-river/?oly_enc_id=9796A6381467B9S)
+Jul 2019 - Jan 2022  
     
 1. Tunneling project to relocate a Water pipeline underground  
 1. Installed 2 AMTS systems to monitor the active water pipeline during blasting activities  
+
+    <!-- ![Raidlock](assets/personal/Raidlock_automation.jpg)   -->
 
 ## [Government Center Parking Garage - MBTA Greenline](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)  
 [Project News article](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)
@@ -312,6 +317,8 @@ May 2022
     
 1. Load Test performed on supports affected by the Government Center Garage collapse in Boston, MA.  
 1. Deployed MPBX Laser systems and String potentiometer during testing.  
+
+    <!-- ![Raidlock](assets/personal/Raidlock_automation.jpg)   -->
 
 --------------
 # Personal Projects  
@@ -326,7 +333,7 @@ May 2022
 1. Reduces clicks required to play in Arena by monitoring Android logcat  
 1. Alexa Intergration!  
 
-![Raidlock](assets/personal/Raidlock_automation.jpg)  
+    ![Raidlock](assets/personal/Raidlock_automation.jpg)  
 
 <!-- .. |image1| image:: assets/ExampleSitecheckScannerTeamsCardGeneration.jpg
     :width: 400 -->
