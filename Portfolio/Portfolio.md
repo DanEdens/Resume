@@ -194,11 +194,11 @@ Frontend:
 
 [![LnetFieldApp Demo On Youtube](assets/geo/Lnet_example_Tasker.jpg)](https://youtu.be/vzq6agjWPe0)
 
--  
+
 Backend:  
- - Lightweight and scalable python script that pipes MQTT topics into [Xargs](https://www.man7.org/linux/man-pages/man1/xargs.1.html).  
- - Non-blocking control of several Units through the [Loggernet CLI, Corascript](https://www.campbellsci.com/loggernet).  
- - Server utilizes Python, Xargs, and Mosquitto.  
+1. Lightweight and scalable python script that pipes MQTT topics into [Xargs](https://www.man7.org/linux/man-pages/man1/xargs.1.html).  
+1. Non-blocking control of several Units through the [Loggernet CLI, Corascript](https://www.campbellsci.com/loggernet).  
+1. Server utilizes Python, Xargs, and Mosquitto.  
 
 **Demo on YouTube**: [Watch it here](https://youtu.be/vzq6agjWPe0)  
 [![LnetExample](assets/geo/LnetAppWithServerExample.jpg)](https://youtu.be/vzq6agjWPe0)
