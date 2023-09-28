@@ -248,6 +248,8 @@ Backend:
     - Developed a Grout logging app for Crew working in heavy storming.  
     - Deployed Piezometers and Tiltmeters 40 feet underwater on the Dam's slab.  
 
+    ![](assets/geo/Lock_and_dam_workstation.jpg)
+
 1. [Capitol Complex Excavation](https://www.tfc-ccp.org/)  
    [Related News Article](https://austin.towers.net/downtown-austins-capitol-complex-project-finally-unveils-its-texas-mall/)  
     - Mar 2018 - Jul 2022  
