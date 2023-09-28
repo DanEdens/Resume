@@ -219,7 +219,7 @@ Backend:
     Mobile app for tracking inventory of Geo-instrument's fleet of 110ah AGM batteries.  
     This is used to manage the [desulfating](https://www.upsbatterycenter.com/blog/battery-desulfation/) schedule.  
     
-    - I created a QRcode generator which publishes a number and status to the (Join API)[https://joaoapps.com/join/api/].  
+    - I created a QRcode generator which publishes a number and status to the [Join API](https://joaoapps.com/join/api/).  
     - A tablet located in the Geo-Instrument's Shop acts as the server.  
     - Created an Android app as GUI and back-end to log unit events.  
     - Stickers are generated in a given range of serial numbers by the [python script: QR-generator.py](https://github.com/DanEdens/GeoBatteryBot_public/blob/master/qr-generator.py)  
