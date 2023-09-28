@@ -155,19 +155,8 @@ SAA Timelapse Factory is a purpose-built ETL(Extract, transform, and load) produ
 **Demo on YouTube**: [Watch it here](https://www.youtube.com/watch?v=cgKvyPWVw6E)
 [![Demo On Youtube](assets/geo/timelapsesexample_still.png)](https://www.youtube.com/watch?v=cgKvyPWVw6E)
 
-<!-- 
-## Example Usage
-
-Here's an example of how to use Timelapse Factory to enhance your timelapse videos:
-
-```bash
-# Replace the placeholders with actual commands or usage examples
-timelapse-factory --input video.mp4 --data data.csv --output output.mp4
-``` -->
 
 ---
-
-
 ## WebSiteSetup Alignment Tool - Mousegrid
 
 Features:  
