@@ -204,25 +204,25 @@ Backend:
 [![LnetExample](assets/geo/LnetAppWithServerExample.jpg)](https://youtu.be/vzq6agjWPe0)
 ---
 
-## Software for the Shop  
+# Software for the Shop  
 [Back to top](#QA-Testkits)
 
-1. AMTSworkshop  
-    *Began as migration of 20 years worth of Campbell Scientific Datalogger programs into Git.*  
-    - Worked on an [R&D project for a new type of Monitoring prism.](https://github.com/DanEdens/Resume/blob/main/Portfolio/assets/geo/road-flush-prisms.jpg)   
-    - Azure DevOps pipelines for testing each commit on live lab equipment  
-    - Designed to handle rolling out changes slowly due to certain project specs requiring legacy versions on remote data loggers.  
+## AMTSworkshop  
+*Began as migration of 20 years worth of Campbell Scientific Datalogger programs into Git.*  
+1. Worked on an [R&D project for a new type of Monitoring prism.](https://github.com/DanEdens/Resume/blob/main/Portfolio/assets/geo/road-flush-prisms.jpg)   
+1. Azure DevOps pipelines for testing each commit on live lab equipment  
+1. Designed to handle rolling out changes slowly due to certain project specs requiring legacy versions on remote data loggers.  
 
-    ![AMTScover](assets/geo/AMTSworkshopCover.jpg)  
+![AMTScover](assets/geo/AMTSworkshopCover.jpg)  
     
-1. Geo Battery Bot  
-    Mobile app for tracking inventory of Geo-instrument's fleet of 110ah AGM batteries.  
-    This is used to manage the [desulfating](https://www.upsbatterycenter.com/blog/battery-desulfation/) schedule.  
+## Geo Battery Bot  
+Mobile app for tracking inventory of Geo-instrument's fleet of 110ah AGM batteries.  
+This is used to manage the [desulfating](https://www.upsbatterycenter.com/blog/battery-desulfation/) schedule.  
     
-    - I created a QRcode generator which publishes a number and status to the [Join API](https://joaoapps.com/join/api/).  
-    - A tablet located in the Geo-Instrument's Shop acts as the server.  
-    - Created an Android app as GUI and back-end to log unit events.  
-    - Stickers are generated in a given range of serial numbers by the [python script: QR-generator.py](https://github.com/DanEdens/GeoBatteryBot_public/blob/master/qr-generator.py)  
+1. I created a QRcode generator which publishes a number and status to the [Join API](https://joaoapps.com/join/api/).  
+1. A tablet located in the Geo-Instrument's Shop acts as the server.  
+1. Created an Android app as GUI and back-end to log unit events.  
+1. Stickers are generated in a given range of serial numbers by the [python script: QR-generator.py](https://github.com/DanEdens/GeoBatteryBot_public/blob/master/qr-generator.py)  
 
     [Check it out on Github](https://github.com/DanEdens/GeoBatteryBot_public)  
     ![Batterybotexample](assets/geo/BatteryBotExample.jpg)  
@@ -234,86 +234,86 @@ Backend:
 # Monitoring Portfolio:   
 [Back to top](#QA-Testkits)  
 
-1. [MSE Wall Repair (Project Spotlight)](https://www.geo-instruments.com/mse-wall-repair/)  
+## [MSE Wall Repair (Project Spotlight)](https://www.geo-instruments.com/mse-wall-repair/)  
     - Apr 2021 - Oct 2021  
     
-    - Planned and executed a Monitoring plan for a collapsed MSE wall in Fort Worth, Tx.  
-    - Deployed Tiltmeters and Crack monitoring equipment to monitor for movement during wall repair.  
-    - Built and Maintained Client website displaying Tiltmeter and AMTS Data.  
+1. Planned and executed a Monitoring plan for a collapsed MSE wall in Fort Worth, Tx.  
+1. Deployed Tiltmeters and Crack monitoring equipment to monitor for movement during wall repair.  
+1. Built and Maintained Client website displaying Tiltmeter and AMTS Data.  
 
-1. [Lock and Dam (Project Spotlight)](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)  
+## [Lock and Dam (Project Spotlight)](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)  
     - Nov 2018 - Feb 2019  
-    - Emergency Repair of an Army Corps of Engineers' Lock and Dam.  
-    - Provided Equipment troubleshooting and Live Data monitoring for the repair team.  
-    - Developed a Grout logging app for Crew working in heavy storming.  
-    - Deployed Piezometers and Tiltmeters 40 feet underwater on the Dam's slab.  
+1. Emergency Repair of an Army Corps of Engineers' Lock and Dam.  
+1. Provided Equipment troubleshooting and Live Data monitoring for the repair team.  
+1. Developed a Grout logging app for Crew working in heavy storming.  
+1. Deployed Piezometers and Tiltmeters 40 feet underwater on the Dam's slab.  
 
     ![](assets/geo/Lock_and_dam_workstation.jpg)
 
-1. [Capitol Complex Excavation](https://www.tfc-ccp.org/)  
+## [Capitol Complex Excavation](https://www.tfc-ccp.org/)  
    [Related News Article](https://austin.towers.net/downtown-austins-capitol-complex-project-finally-unveils-its-texas-mall/)  
     - Mar 2018 - Jul 2022  
     
-    - Excavation monitoring in downtown Austin, Tx.  
-    - Installed AMTS systems, Tiltmeters, Automated Inclinometers, and Vibration Monitors.  
+1. Excavation monitoring in downtown Austin, Tx.  
+1. Installed AMTS systems, Tiltmeters, Automated Inclinometers, and Vibration Monitors.  
 
-    ![](assets/geo/Geo-Instruments_AMTS1_captiol_complex.jpg)
+![](assets/geo/Geo-Instruments_AMTS1_captiol_complex.jpg)
 
-1. [SH288 WSE wall failure (News Article on Emergency)](https://abc13.com/sh-288-pavement-failure-safety-purposes-structural-damage/10527940/)  
+## [SH288 WSE wall failure (News Article on Emergency)](https://abc13.com/sh-288-pavement-failure-safety-purposes-structural-damage/10527940/)  
     - Apr 2021 - Oct 2021  
-    - Provided the client with SAA and Piezometer data during operations.  
-    - These were used to monitor for additional settlement and the height of the water table during Emergency repairs.  
+1. Provided the client with SAA and Piezometer data during operations.  
+1. These were used to monitor for additional settlement and the height of the water table during Emergency repairs.  
 
     ![](assets/geo/Geo-Instruments_Emergency_response_SH_288_road_collapse.jpg)
 
-1. [Fuji (Project News article)](https://www.nola.com/news/business/article_a9e05f91-a734-5bd1-8d05-587258f6a3c0.html)  
+## [Fuji (Project News article)](https://www.nola.com/news/business/article_a9e05f91-a734-5bd1-8d05-587258f6a3c0.html)  
     - Aug 2021 - Apr 2022  
     
-    - Tunneling Monitoring below 14 lines of Railroad.  
-    - Provided the client with Settlement data during Operations.  
+1. Tunneling Monitoring below 14 lines of Railroad.  
+1. Provided the client with Settlement data during Operations.  
 
-1. [Pittman Hotel (Project News article)](https://www.dmagazine.com/commercial-real-estate/2020/06/first-look-the-kimpton-pittman-hotel-in-deep-ellum/)  
+## [Pittman Hotel (Project News article)](https://www.dmagazine.com/commercial-real-estate/2020/06/first-look-the-kimpton-pittman-hotel-in-deep-ellum/)  
     - Aug 2018 - Apr 2019  
     
-    - Monitoring underpinning activities during the preservation project of The Pittman Hotel in Dallas, Tx  
-    - Provided the client with a website for viewing Settlement and tilt data.  
+1. Monitoring underpinning activities during the preservation project of The Pittman Hotel in Dallas, Tx  
+1. Provided the client with a website for viewing Settlement and tilt data.  
     
     ![](assets/geo/Geo_instruments_Dallas_Pittman_Hotel_restoration.jpg)  
 
-1. [425 Riverside (Project News article)](https://www.realcomm.com/news/1045/1/river-south-austin-introducing-the-smart-building)
+## [425 Riverside (Project News article)](https://www.realcomm.com/news/1045/1/river-south-austin-introducing-the-smart-building)
     - May 2019 - Jun 2020  
     
-    - Diaphragm wall project in Downtown Austin, TX  
-    - Data used to verify design loads during construction, resulting in the elimination of a row of anchors.  
+1. Diaphragm wall project in Downtown Austin, TX  
+1. Data used to verify design loads during construction, resulting in the elimination of a row of anchors.  
     
     ![](assets/geo/RiversideExcavation35speedReduceColorTable.gif)
 
-1. [Atoka Pipeline Repair (Project News article)](https://tunnelingonline.com/crossing-the-canadian-river/?oly_enc_id=9796A6381467B9S)
+## [Atoka Pipeline Repair (Project News article)](https://tunnelingonline.com/crossing-the-canadian-river/?oly_enc_id=9796A6381467B9S)
     - Jul 2019 - Jan 2022  
     
-    - Tunneling project to relocate a Water pipeline underground  
-    - Installed 2 AMTS systems to monitor the active water pipeline during blasting activities  
+1. Tunneling project to relocate a Water pipeline underground  
+1. Installed 2 AMTS systems to monitor the active water pipeline during blasting activities  
 
-1. [Government Center Parking Garage - MBTA Greenline  LT(Project News article)](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)  
+## [Government Center Parking Garage - MBTA Greenline  LT(Project News article)](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)  
     - May 2022  
     
-    - Load Test performed on supports affected by the Government Center Garage collapse in Boston, MA.  
-    - Deployed MPBX Laser systems and String potentiometer during testing.  
+1. Load Test performed on supports affected by the Government Center Garage collapse in Boston, MA.  
+1. Deployed MPBX Laser systems and String potentiometer during testing.  
 
 
 # Personal Projects  
 [Back to top](#QA-Testkits)  
 
-1. Raidlock  
+## Raidlock  
     Automation for Mobile games "Raid Shadow Legends" and "Last Shelter: Survival"  
     features:  
 
-    - Automatically selects the best attack for each monster  
-    - Preforms daily tasks automatically  
-    - Reduces clicks required to play in Arena by monitoring Android logcat  
-    - Alexa Intergration!  
+1. Automatically selects the best attack for each monster  
+1. Preforms daily tasks automatically  
+1. Reduces clicks required to play in Arena by monitoring Android logcat  
+1. Alexa Intergration!  
 
-    ![Raidlock](assets/personal/Raidlock_automation.jpg)  
+![Raidlock](assets/personal/Raidlock_automation.jpg)  
 
 <!-- .. |image1| image:: assets/ExampleSitecheckScannerTeamsCardGeneration.jpg
     :width: 400 -->
