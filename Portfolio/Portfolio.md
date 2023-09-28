@@ -235,6 +235,7 @@ This is used to manage the [desulfating](https://www.upsbatterycenter.com/blog/b
 [Back to top](#QA-Testkits)  
 
 ## [MSE Wall Repair (Project Spotlight)](https://www.geo-instruments.com/mse-wall-repair/)  
+
     - Apr 2021 - Oct 2021  
     
 1. Planned and executed a Monitoring plan for a collapsed MSE wall in Fort Worth, Tx.  
@@ -242,6 +243,7 @@ This is used to manage the [desulfating](https://www.upsbatterycenter.com/blog/b
 1. Built and Maintained Client website displaying Tiltmeter and AMTS Data.  
 
 ## [Lock and Dam (Project Spotlight)](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)  
+
     - Nov 2018 - Feb 2019  
 1. Emergency Repair of an Army Corps of Engineers' Lock and Dam.  
 1. Provided Equipment troubleshooting and Live Data monitoring for the repair team.  
@@ -250,7 +252,7 @@ This is used to manage the [desulfating](https://www.upsbatterycenter.com/blog/b
 
     ![](assets/geo/Lock_and_dam_workstation.jpg)
 
-## [Capitol Complex Excavation](https://www.tfc-ccp.org/)  
+## [Capitol Complex Excavation (Project Spotlight)](https://www.tfc-ccp.org/)  
    [Related News Article](https://austin.towers.net/downtown-austins-capitol-complex-project-finally-unveils-its-texas-mall/)  
     - Mar 2018 - Jul 2022  
     
