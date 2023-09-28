@@ -209,7 +209,7 @@ Backend:
 
 1. AMTSworkshop  
     *Began as migration of 20 years worth of Campbell Scientific Datalogger programs into Git.*  
-    - [Worked on an R&D project](https://github.com/DanEdens/Resume/blob/main/Portfolio/assets/geo/road-flush-prisms.jpg) for a new type of Monitoring prism.  
+    - Worked on an [R&D project for a new type of Monitoring prism.](https://github.com/DanEdens/Resume/blob/main/Portfolio/assets/geo/road-flush-prisms.jpg)   
     - Azure DevOps pipelines for testing each commit on live lab equipment  
     - Designed to handle rolling out changes slowly due to certain project specs requiring legacy versions on remote data loggers.  
 
