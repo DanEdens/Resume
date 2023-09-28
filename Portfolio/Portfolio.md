@@ -236,7 +236,7 @@ This is used to manage the [desulfating](https://www.upsbatterycenter.com/blog/b
 
 ## [MSE Wall Repair](https://www.geo-instruments.com/mse-wall-repair/)  
     [Project Spotlight](https://www.geo-instruments.com/mse-wall-repair/)  
-    - Apr 2021 - Oct 2021  
+Apr 2021 - Oct 2021  
     
 1. Planned and executed a Monitoring plan for a collapsed MSE wall in Fort Worth, Tx.  
 1. Deployed Tiltmeters and Crack monitoring equipment to monitor for movement during wall repair.  
@@ -244,7 +244,7 @@ This is used to manage the [desulfating](https://www.upsbatterycenter.com/blog/b
 
 ## [Lock and Dam (Project Spotlight)](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)  
 
-    - Nov 2018 - Feb 2019  
+Nov 2018 - Feb 2019  
 1. Emergency Repair of an Army Corps of Engineers' Lock and Dam.  
 1. Provided Equipment troubleshooting and Live Data monitoring for the repair team.  
 1. Developed a Grout logging app for Crew working in heavy storming.  
@@ -253,16 +253,18 @@ This is used to manage the [desulfating](https://www.upsbatterycenter.com/blog/b
     ![](assets/geo/Lock_and_dam_workstation.jpg)
 
 ## [Capitol Complex Excavation (Project Spotlight)](https://www.tfc-ccp.org/)  
+   [Project Spotlight](https://www.tfc-ccp.org/)  
    [Related News Article](https://austin.towers.net/downtown-austins-capitol-complex-project-finally-unveils-its-texas-mall/)  
-    - Mar 2018 - Jul 2022  
+Mar 2018 - Jul 2022  
     
 1. Excavation monitoring in downtown Austin, Tx.  
 1. Installed AMTS systems, Tiltmeters, Automated Inclinometers, and Vibration Monitors.  
 
 ![](assets/geo/Geo-Instruments_AMTS1_captiol_complex.jpg)
 
-## [SH288 WSE wall failure (News Article on Emergency)](https://abc13.com/sh-288-pavement-failure-safety-purposes-structural-damage/10527940/)  
-    - Apr 2021 - Oct 2021  
+## SH288 WSE wall failure 
+    [News Article on Emergency](https://abc13.com/sh-288-pavement-failure-safety-purposes-structural-damage/10527940/)  
+Apr 2021 - Oct 2021  
 1. Provided the client with SAA and Piezometer data during operations.  
 1. These were used to monitor for additional settlement and the height of the water table during Emergency repairs.  
 
