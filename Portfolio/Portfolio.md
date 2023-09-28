@@ -284,6 +284,8 @@ Aug 2021 - Apr 2022
 1. Tunneling Monitoring below 14 lines of Railroad.  
 1. Provided the client with Settlement data during Operations.  
 
+    ![](assets/geo/Fuji_Data_comparison.jpg)
+
 ## [Pittman Hotel](https://www.dmagazine.com/commercial-real-estate/2020/06/first-look-the-kimpton-pittman-hotel-in-deep-ellum/)  
 [Project News article](https://www.dmagazine.com/commercial-real-estate/2020/06/first-look-the-kimpton-pittman-hotel-in-deep-ellum/)
 Aug 2018 - Apr 2019  
@@ -309,7 +311,7 @@ Jul 2019 - Jan 2022
 1. Tunneling project to relocate a Water pipeline underground  
 1. Installed 2 AMTS systems to monitor the active water pipeline during blasting activities  
 
-    <!-- ![Raidlock](assets/personal/Raidlock_automation.jpg)   -->
+    ![Raidlock](assets/geo/atoka_pipeline_monitoring.jpg)  
 
 ## [Government Center Parking Garage - MBTA Greenline](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)  
 [Project News article](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)
@@ -318,15 +320,16 @@ May 2022
 1. Load Test performed on supports affected by the Government Center Garage collapse in Boston, MA.  
 1. Deployed MPBX Laser systems and String potentiometer during testing.  
 
-    <!-- ![Raidlock](assets/personal/Raidlock_automation.jpg)   -->
+    ![Raidlock](assets/geo/displacement1-3_1_govtcenter_4-7-22.jpg)  
 
 --------------
 # Personal Projects  
 [Back to top](#QA-Testkits)  
 
 ## Raidlock  
-    Automation for Mobile games "Raid Shadow Legends" and "Last Shelter: Survival"  
-    features:  
+Automation for Mobile games "Raid Shadow Legends" and "Last Shelter: Survival"  
+
+Features:  
 
 1. Automatically selects the best attack for each monster  
 1. Preforms daily tasks automatically  
