@@ -1,23 +1,25 @@
-### As of 9/21 This is WIP, You are Welcome to still take a look, but Please excuse the construction in QA Testkits :)
+## Section Index
 
 - [QA Testkits](#QA-Testkits)
 - [Desktop Applications](#Desktop-Applications)
 - [Mobile Apps](#Mobile-Apps)
 - [Monitoring Portfolio](#Monitoring-Portfolio)
 - [Personal Projects](#Personal-Projects)
-- [Grepper Profile](https://www.grepper.com/profile/dan-edens)
 
-# Portfolio Todo List
+<!-- - [Grepper Profile](https://www.grepper.com/profile/dan-edens) -->
+
+## Portfolio Todo List
 
     This is a living document, and is recurrently undergoing renovations. 
     Please reach out if you would like more information.
  
-1. Finish linking Youtube Demos
-2. Update descriptions for projects without them
-3. Re-align images and make section styling consistent
-4. Create a created content section for taskernet shares, grepper, gists, etc
-5. Finish videos with voice over explanation
+<!-- 1. Finish linking Youtube Demos -->
+1. Update descriptions for projects without them
+1. Re-align images and make section styling consistent
+1. Create a created content section for taskernet shares, grepper, gists, etc
+1. Finish videos with voice over explanation
 
+--------------
 # QA Testkits   
 [Back to top](#QA-Testkits)
 
@@ -92,7 +94,7 @@ features:
 **Demo on YouTube**: [Watch it here](https://www.youtube.com/watch?v=cgKvyPWVw6E)  
 [![Demo On Youtube](assets/minim/automated_QRcode_scan_onboarding_thumbnail.jpg)](https://www.youtube.com/watch?v=cgKvyPWVw6E)
 
-
+--------------
 # Desktop Applications:  
 [Back to top](#QA-Testkits)
 
@@ -127,11 +129,15 @@ We faced many challenges working in remote locations, and this caused delays in 
 [![](assets/geo/ExampleSitecheckScannerTeamsCardGeneration.jpg)](https://www.youtube.com/watch?v=HExwe__eeJU)
   
 
-Skills showcased:  
-**Python || SQL || Pyppeteer || Microsoft Integrations || Sphinix documentation || Accessibility**
+#### Skills showcased:  
+Python || SQL || Pyppeteer || Microsoft Integrations || Sphinix documentation || Accessibility
     
-Takeaway:  
-Throughout the development of Sitecheck Scanner, I gained invaluable experience in navigating a data-secure environment, fostering collaboration with a dedicated team of field technicians, and constructing a versatile tool with multi-user capabilities.
+#### Takeaway:  
+
+    Throughout the development of Sitecheck Scanner,   
+    I gained invaluable experience in navigating a data-secure environment,  
+    fostering collaboration with a dedicated team of field technicians,  
+    and constructing a versatile tool with multi-user capabilities.  
     
 
 
@@ -162,17 +168,18 @@ timelapse-factory --input video.mp4 --data data.csv --output output.mp4
 ---
 
 
-# Project 3. WebSiteSetup Alignment Tool - Mousegrid
+## WebSiteSetup Alignment Tool - Mousegrid
 
 Features:  
 
-Manipulates mouse coordinates to help align Icons for data planview  
-Designed as an extendable framework for fine-grain mouse control  
+1. Manipulates mouse coordinates to help align Icons for data planview  
+1. Designed as an extendable framework for fine-grain mouse control  
 
       
 **Demo on YouTube**: [Watch it here](https://youtu.be/Z84uz_GfZas)  
 [![](assets/geo/timelapse-thumbnail.jpg)](https://youtu.be/Z84uz_GfZas)
 
+--------------
 # Mobile Apps  
 [Back to top](#QA-Testkits)
 
@@ -202,8 +209,8 @@ Backend:
 
 **Demo on YouTube**: [Watch it here](https://youtu.be/vzq6agjWPe0)  
 [![LnetExample](assets/geo/LnetAppWithServerExample.jpg)](https://youtu.be/vzq6agjWPe0)
----
 
+--------------
 # Software for the Shop  
 [Back to top](#QA-Testkits)
 
@@ -227,15 +234,13 @@ This is used to manage the [desulfating](https://www.upsbatterycenter.com/blog/b
     [Check it out on Github](https://github.com/DanEdens/GeoBatteryBot_public)  
     ![Batterybotexample](assets/geo/BatteryBotExample.jpg)  
     ![Batterybotexample](assets/geo/Geo_instruments_BatteryBot_app_GUI_example.jpg)  
----
 
-
-
+--------------
 # Monitoring Portfolio:   
 [Back to top](#QA-Testkits)  
 
 ## [MSE Wall Repair](https://www.geo-instruments.com/mse-wall-repair/)  
-    [Project Spotlight](https://www.geo-instruments.com/mse-wall-repair/)  
+[Project Spotlight](https://www.geo-instruments.com/mse-wall-repair/)  
 Apr 2021 - Oct 2021  
     
 1. Planned and executed a Monitoring plan for a collapsed MSE wall in Fort Worth, Tx.  
@@ -243,6 +248,7 @@ Apr 2021 - Oct 2021
 1. Built and Maintained Client website displaying Tiltmeter and AMTS Data.  
 
 ## [Lock and Dam (Project Spotlight)](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)  
+
 
 Nov 2018 - Feb 2019  
 1. Emergency Repair of an Army Corps of Engineers' Lock and Dam.  
@@ -252,9 +258,9 @@ Nov 2018 - Feb 2019
 
     ![](assets/geo/Lock_and_dam_workstation.jpg)
 
-## [Capitol Complex Excavation (Project Spotlight)](https://www.tfc-ccp.org/)  
-   [Project Spotlight](https://www.tfc-ccp.org/)  
-   [Related News Article](https://austin.towers.net/downtown-austins-capitol-complex-project-finally-unveils-its-texas-mall/)  
+## [Capitol Complex Excavation](https://www.tfc-ccp.org/)  
+[Project Spotlight](https://www.tfc-ccp.org/)  
+[Related News Article](https://austin.towers.net/downtown-austins-capitol-complex-project-finally-unveils-its-texas-mall/)  
 Mar 2018 - Jul 2022  
     
 1. Excavation monitoring in downtown Austin, Tx.  
@@ -263,7 +269,7 @@ Mar 2018 - Jul 2022
 ![](assets/geo/Geo-Instruments_AMTS1_captiol_complex.jpg)
 
 ## SH288 WSE wall failure 
-    [News Article on Emergency](https://abc13.com/sh-288-pavement-failure-safety-purposes-structural-damage/10527940/)  
+[News Article on Emergency](https://abc13.com/sh-288-pavement-failure-safety-purposes-structural-damage/10527940/)  
 Apr 2021 - Oct 2021  
 1. Provided the client with SAA and Piezometer data during operations.  
 1. These were used to monitor for additional settlement and the height of the water table during Emergency repairs.  
@@ -271,13 +277,15 @@ Apr 2021 - Oct 2021
     ![](assets/geo/Geo-Instruments_Emergency_response_SH_288_road_collapse.jpg)
 
 ## [Fuji (Project News article)](https://www.nola.com/news/business/article_a9e05f91-a734-5bd1-8d05-587258f6a3c0.html)  
-    - Aug 2021 - Apr 2022  
+[Project News article](https://www.nola.com/news/business/article_a9e05f91-a734-5bd1-8d05-587258f6a3c0.html)  
+Aug 2021 - Apr 2022  
     
 1. Tunneling Monitoring below 14 lines of Railroad.  
 1. Provided the client with Settlement data during Operations.  
 
-## [Pittman Hotel (Project News article)](https://www.dmagazine.com/commercial-real-estate/2020/06/first-look-the-kimpton-pittman-hotel-in-deep-ellum/)  
-    - Aug 2018 - Apr 2019  
+## [Pittman Hotel](https://www.dmagazine.com/commercial-real-estate/2020/06/first-look-the-kimpton-pittman-hotel-in-deep-ellum/)  
+[Project News article](https://www.dmagazine.com/commercial-real-estate/2020/06/first-look-the-kimpton-pittman-hotel-in-deep-ellum/)
+Aug 2018 - Apr 2019  
     
 1. Monitoring underpinning activities during the preservation project of The Pittman Hotel in Dallas, Tx  
 1. Provided the client with a website for viewing Settlement and tilt data.  
@@ -298,13 +306,14 @@ Apr 2021 - Oct 2021
 1. Tunneling project to relocate a Water pipeline underground  
 1. Installed 2 AMTS systems to monitor the active water pipeline during blasting activities  
 
-## [Government Center Parking Garage - MBTA Greenline  LT(Project News article)](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)  
-    - May 2022  
+## [Government Center Parking Garage - MBTA Greenline](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)  
+[Project News article](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)
+May 2022  
     
 1. Load Test performed on supports affected by the Government Center Garage collapse in Boston, MA.  
 1. Deployed MPBX Laser systems and String potentiometer during testing.  
 
-
+--------------
 # Personal Projects  
 [Back to top](#QA-Testkits)  
 
