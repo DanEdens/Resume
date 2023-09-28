@@ -235,7 +235,7 @@ This is used to manage the [desulfating](https://www.upsbatterycenter.com/blog/b
 [Back to top](#QA-Testkits)  
 
 ## [MSE Wall Repair](https://www.geo-instruments.com/mse-wall-repair/)  
-    [Project Spotlight](https://www.geo-instruments.com/mse-wall-repair/)
+    [Project Spotlight](https://www.geo-instruments.com/mse-wall-repair/)  
     - Apr 2021 - Oct 2021  
     
 1. Planned and executed a Monitoring plan for a collapsed MSE wall in Fort Worth, Tx.  
