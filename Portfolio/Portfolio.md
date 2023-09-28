@@ -225,8 +225,7 @@ This is used to manage the [desulfating](https://www.upsbatterycenter.com/blog/b
     ![Batterybotexample](assets/geo/Geo_instruments_BatteryBot_app_GUI_example.jpg)  
 
 --------------
-# Monitoring Portfolio:   
-[Back to top](#QA-Testkits)  
+# Monitoring Portfolio: <span style="text-align: right;">[Back to top](#QA-Testkits)</span>
 
 ## [MSE Wall Repair](https://www.geo-instruments.com/mse-wall-repair/)  
 [Project Spotlight](https://www.geo-instruments.com/mse-wall-repair/)  
@@ -238,8 +237,6 @@ Apr 2021 - Oct 2021
 
 ## [Lock and Dam](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)  
 [Project Spotlight](http://www.massman.net/project/columbia-lock-dam-emergency-repairs)
-
-
 Nov 2018 - Feb 2019  
 1. Emergency Repair of an Army Corps of Engineers' Lock and Dam.  
 1. Provided Equipment troubleshooting and Live Data monitoring for the repair team.  
@@ -256,7 +253,7 @@ Mar 2018 - Jul 2022
 1. Excavation monitoring in downtown Austin, Tx.  
 1. Installed AMTS systems, Tiltmeters, Automated Inclinometers, and Vibration Monitors.  
 
-    ![](assets/geo/Geo-Instruments_AMTS1_captiol_complex.jpg)
+    ![](assets/geo/Geo-Instruments_AMTS1_captiol_complex.jpg)  
 
 ## SH288 WSE wall failure 
 [News Article on Emergency](https://abc13.com/sh-288-pavement-failure-safety-purposes-structural-damage/10527940/)  
@@ -302,8 +299,9 @@ Jul 2019 - Jan 2022
 
     ![Raidlock](assets/geo/atoka_pipeline_monitoring.jpg)  
 
-## [Government Center Parking Garage - MBTA Greenline](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)  
-[Project News article](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)
+## [Government Center Parking Garage - MBTA Greenline](https://www.wcvb.com/article/
+mbta-green-line-service-suspended-government-center-garage/40399135)  
+[Project News article](https://www.wcvb.com/article/mbta-green-line-service-suspended-government-center-garage/40399135)  
 May 2022  
     
 1. Load Test performed on supports affected by the Government Center Garage collapse in Boston, MA.  
