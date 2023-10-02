@@ -33,46 +33,67 @@ SQL commands such as SELECT, INSERT, UPDATE, DELETE, and DROP are used to manipu
 
 
 11. What is the difference between primary key and unique constraints?
-
+There can be only 1 primary key per table, while there may be many unique constraints.
 
 12. What is the view in SQL?
-
+a View is a repeatable query that can display information from multible tables
 
 13. What do you mean by foreign key?
-
+A key in a table that is used to link that table to another table.
 
 14. What is a join in SQL? What are the types of joins?
-
+Joins combine data from multible tables
+There are INNER JOIN, LEFT OUTER JOIN, RIGHT OUTER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN
 
 15. What is an index?
-
+an index is a pointer to specific data. in practice it's used to trade storage space for quicker search results by preprocessing certain 
 
 16. What are table and Field?
-
+a Table is a collections of fields with rows and columns. 
+a field is a column in a table.
 
 17. What is a primary key?
+a primary key is a field that is unique in a table.
 
 
 18. What is a Default constraint?
-
+It sets a default value to be used if no value is set. 
 
 19. What is the On Delete cascade constraint?
+A way to link deletions across tables
 
 
 20. What is normalization?
-
+To reduce reduntant data, remove 
 
 21. What is Denormalization?
-
+a method to avoid joins by adding duplicate data to diffrent tables
 
 22. Explain WITH clause in SQL?
-
+It can be used to create temporary tables and story data for later use in complicated queries.
 
 23. What are all the different attributes of indexes?
+(I had to look this one up lol)
+
+Clustered index
+Determines how rows are physically ordered in a table space. You can exclude NULL keys from an index to reduce its size and improve its performance.
+
+Attribute index
+An alternate path used by ArcGIS to retrieve a record from a table.
+Filtered index
+Made when a column has just a few applicable numbers for questions on the subset of values.
+
+Secondary index
+Generated from a field which is a candidate key and has a unique value in every record, or a non-key with duplicate values.
+Sparse index
+Helps you to resolve the issues of dense Indexing in DBMS. In this method of indexing technique, a range of index columns stores the same data.
+
+Equality index
+Identifies which entries are exactly equal to the value that is provided in a search filter. An equality index can only be maintained for attributes that have a corresponding equality matching rule.
 
 
 24. What is a Cursor?
-
+Sort of like a variable in python, You can use it to declare a specific query to use later.
 
 25. Write down various types of relationships in SQL?
 
@@ -148,7 +169,6 @@ SQL commands such as SELECT, INSERT, UPDATE, DELETE, and DROP are used to manipu
 
 49. Define BETWEEN statements in SQL?
 
-
 50. Why do we use Commit and Rollback commands?
 
 
@@ -186,6 +206,7 @@ SQL commands such as SELECT, INSERT, UPDATE, DELETE, and DROP are used to manipu
 
 
 62. What is SQL injection?
+an attack that uses the 
 
 
 63. How to copy tables in SQL?
