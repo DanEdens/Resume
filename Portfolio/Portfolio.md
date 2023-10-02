@@ -58,7 +58,7 @@ Features:
 
 Tasker Library triggered by Jenkins for controlling the Motosync Mobile App for testing.  
 
-features:  
+Features:  
     
 1. Ui tests  
 1. CSE scrapping
@@ -66,14 +66,23 @@ features:
 **Demo on YouTube**: [Watch it here](https://youtu.be/sR9x9xHP7m4)  
     [![Demo On Youtube](assets/minim/apptest-cover.jpg)](https://youtu.be/sR9x9xHP7m4)
 
+<!-- 
+### GUITestKit (Web Browser Testing)
 
-<!-- ### GUITestKit (Web Browser Testing)
+Python Library utilizing selenium for Gui Testing
 
-Python Library utilizing selenium for browser testing
+Features:
 
-features:
-    GUI tests for  -->
+1. GUI and configuration tests for varying types of modems   
+1. Tests network changes in response to front end actions  
+1. 
+    
+![](assets/minim/GuiTestkitPipeline.jpg) -->
+   
+
 <!-- ### AutoDocsisTestKit (Docsis Testing)
+
+
 
 Python Library for Automating Docsis Test cases using SNMP -->
 
@@ -81,7 +90,7 @@ Python Library for Automating Docsis Test cases using SNMP -->
 
 Bash/Python Library for automating Router onboarding and API Testing  
 
-features:  
+Features:  
 
 1. Database Inventory cycler  
 1. Automated firmware upgrade debugging  
