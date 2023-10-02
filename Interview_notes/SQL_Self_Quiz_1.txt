@@ -1,140 +1,212 @@
-1. What is SQL 
+
+1. What is SQL?
+Standard Query Lang.
+SQL is a  language used for creating and interacting with relational databases
 
 2. What is a database?
+A database is a structure for storing various types of data together
 
 3. Does SQL support programming language features?
+No, SQL is not a programming language. There are various flavors that do. 
 
 4. What are the differences between SQL and PL/SQL?
+SQL is not a programing langauge, PL/SQL lets you create reusable functions in SQL.
 
 5. What is the difference between BETWEEN and IN operators in SQL?
+IN checks if the value is anywhere in the list of values. between checks if the value is between two values.
 
-6. Write an SQL query to find the names of employees starting with â€˜Aâ€™.
+6. Write an SQL query to find the names of employees starting with 'A'.
+SELECT name FROM employee WHERE name LIKE 'A%'
 
 7. What is the difference between CHAR and VARCHAR2 datatype in SQL?
+Char has a set lengh and VARCHAR2 has a varialble lengh
 
 8. Name different types of case manipulation functions available in SQL.
+UPPER, LOWER, INITCAP, LENGTH, TRIM, LTRIM, RTRIM, REPLACE
+
 
 9. What do you mean by data definition language?
+SQL commands such as CREATE, ALTER, DROP, and TRUNCATE are used to define data in a database.
 
 10. What do you mean by data manipulation language?
+SQL commands such as SELECT, INSERT, UPDATE, DELETE, and DROP are used to manipulate data in a database.
 
 
 11. What is the difference between primary key and unique constraints?
 
+
 12. What is the view in SQL?
+
 
 13. What do you mean by foreign key?
 
+
 14. What is a join in SQL? What are the types of joins?
+
 
 15. What is an index?
 
+
 16. What are table and Field?
+
 
 17. What is a primary key?
 
+
 18. What is a Default constraint?
+
 
 19. What is the On Delete cascade constraint?
 
+
 20. What is normalization?
+
 
 21. What is Denormalization?
 
+
 22. Explain WITH clause in SQL?
+
 
 23. What are all the different attributes of indexes?
 
+
 24. What is a Cursor?
+
 
 25. Write down various types of relationships in SQL?
 
+
 26. What is a query?
+
 
 27. What is a subquery?
 
+
 28. What are the different operators available in SQL?
+
 
 29. What is a trigger?
 
+
 30. What is the difference between DELETE and TRUNCATE commands?
+
 
 31. What are local and global variables and their differences?
 
+
 32. What is a constraint?
+
 
 33. What is Data Integrity?
 
+
 34. What is Auto Increment?
+
 
 35. What is the difference between Cluster and Non-Cluster Index?
 
+
 36. What is MySQL collation?
+
 
 37. What are user-defined functions?
 
+
 38. What are all types of user-defined functions?
+
 
 39. Name the function which is used to remove spaces at the end of a string?
 
+
 40. What is a stored procedure?
+
 
 41. What are Union, minus, and Interact commands?
 
+
 42. What is an ALIAS command?
+
 
 43. What is the difference between TRUNCATE and DROP statements?
 
+
 44. What are aggregate and scalar functions?
+
 
 45. Which operator is used in queries for pattern matching?
 
+
 46. Define SQL Order by the statement?
+
 
 47. Explain SQL Having statement?
 
+
 48. Explain SQL AND OR statement with an example?
+
 
 49. Define BETWEEN statements in SQL?
 
+
 50. Why do we use Commit and Rollback commands?
+
 
 51. What are ACID properties?
 
+
 52. What is a T-SQL?
+
 
 53. Are NULL values the same as zero or a blank space?
 
+
 54. What is the need for group functions in SQL?
+
 
 55. What is the need for a MERGE statement?
 
+
 56. How can you fetch common records from two tables?
+
 
 57. What are the advantages of PL/SQL functions?
 
+
 58. What is the SQL query to display the current date?
+
 
 59. What is ETL in SQL?
 
+
 60. What are Nested Triggers?
+
 
 61. How to find the available constraint information in the table?
 
+
 62. What is SQL injection?
+
 
 63. How to copy tables in SQL?
 
+
 64. Can we disable a trigger?
+
 
 65. What is a Live Lock?
 
+
 66. How do we avoid getting duplicate entries in a query without using the distinct keyword?
+
 
 67. The difference between NVL and NVL2 functions?
 
+
 68. What is Case WHEN in SQL?
 
+
 69. What is the difference between COALESCE() & ISNULL()?
+
 
 70. Name the operator which is used in the query for appending two strings?
