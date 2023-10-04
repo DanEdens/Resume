@@ -108,10 +108,11 @@ Sort of like a variable in python, You can use it to declare a specific query to
 
 
 29. What is a trigger?
-
+a "script" that runs on your database when a change is made
 
 30. What is the difference between DELETE and TRUNCATE commands?
-
+Truncate happens "instantly", but doens't release the memory. 
+Delete takes time, but fully deletes the data
 
 31. What are local and global variables and their differences?
 
@@ -168,6 +169,7 @@ Sort of like a variable in python, You can use it to declare a specific query to
 
 
 49. Define BETWEEN statements in SQL?
+Method of defining a start and stop place for a search.
 
 50. Why do we use Commit and Rollback commands?
 
