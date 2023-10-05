@@ -198,9 +198,10 @@ Features:
 1. Able to detect current job by closest address, Sorting data accordingly.  
 1. **SOS button** mode to alert On-Site Safety Manager  
 
-  <div style="text-align:center;">
+  <p align="center">
   <img src="assets/personal/InterfacePanelExample_Tasker.jpg" alt="ExampleImage">
-  </div>
+  </p>
+
 
 
 ##  LnetFieldApp  
