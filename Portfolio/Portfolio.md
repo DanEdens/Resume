@@ -135,7 +135,12 @@ I created Sitecheck Scanner to help field technicians stay updated with their cu
 
 **GitHub Repository**: [Explore the code](https://github.com/DanEdens/sitecheck)  
 **Demo on YouTube**: [Watch it here](https://www.youtube.com/watch?v=HExwe__eeJU)  
-    [![](assets/geo/ExampleSitecheckScannerTeamsCardGeneration.jpg)](https://www.youtube.com/watch?v=HExwe__eeJU)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=HExwe__eeJU">
+    <img src="assets/geo/ExampleSitecheckScannerTeamsCardGeneration.jpg" alt="Teams Card">
+  </a>
+</p>
+
   
 
 #### Skills showcased:  
