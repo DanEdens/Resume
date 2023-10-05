@@ -25,30 +25,28 @@
 
 ## DVTTestKit (Documentation and Test Case Repos)
  
- Shared library that wraps tooling called by other Testkits.
+ Shared library that wraps tooling called by other Test kits.
  This handles interactions with third party APIs and Network configurations.
  
 Features:  
+  
+1. Custom logger that **Unified monitoring** across all tools.
+1. Slackbot Reports with **Retest options.**
+1. **Jenkins** api wrapper.
+1. **Jira** api wrapper for 2-way ticket control.
+1. **Confluence** api wrapper utilizing Sphinx Autodoc
+1. Lab Equipment api wrapper. **OpenWRT\Embedded Linux interfaces.** 
 
-1. Autodoc Sphinx-confluence builder  
-1. Custom logger  
-1. Jenkins api wrapper  
-1. Slack api wrapper  
-1. Jira api wrapper  
-1. Confluence api wrapper  
-1. Lab Equipment api wrapper  
-
+Minimalist Diagram of Mqtt topics.
     ![](assets/minim/DVTtestkit-map.jpg)
 
-### CDRTestkit (CDRouter Testing) 
+### CDRTestkit (CD Router Testing) 
 
-Python Library utilizing Jenkins for managing CDRouter testing. 
+Python based project utilizing Jenkins for managing CDRouter testing. 
 
 
 Features:  
-
-1. Slackbot reporting  
-1. Aruba switch controller  
+1. Network switch manager  
 1. Smart plug Alexa integration  
 1. Conducts Wifi, docsis, Ipv6, and various other Router tests  
 
@@ -56,12 +54,13 @@ Features:
 
 ### AppTestKit (Motosync Mobile App Testing)
 
-Tasker Library triggered by Jenkins for controlling the Motosync Mobile App for testing.  
+Tasker Library controlled by Jenkins for Testing the Motosync Mobile App.  
 
 Features:  
     
-1. Ui tests  
+1. Ui and Functional Testing
 1. CSE scrapping
+1. Previous run analysis
     
 **Demo on YouTube**: [Watch it here](https://youtu.be/sR9x9xHP7m4)  
     [![Demo On Youtube](assets/minim/apptest-cover.jpg)](https://youtu.be/sR9x9xHP7m4)
@@ -86,17 +85,17 @@ Features:
 
 Python Library for Automating Docsis Test cases using SNMP -->
 
-### OnboardingTestKit (API Testing)
+### OnboardingTestKit (Hardware-In-Loop and API Testing)
 
 Bash/Python Library for automating Router onboarding and API Testing  
 
 Features:  
 
 1. Database Inventory cycler  
-1. Automated firmware upgrade debugging  
-1. Automated device onboarding  
+1. Automated Firmware Upgrading and Debugging
+1. Automated Device Onboarding  
 
-    ![](assets/minim/DVT-tests-example.jpg)
+    <!-- ![](assets/minim/DVT-tests-example.jpg) -->
  
     ![Centralized Logging](assets/minim/onboardtest_example.jpg)
 
@@ -110,7 +109,8 @@ Features:
 ## Sitecheck Scanner: FrontEnd Monitoring Tool 
 
 Sitecheck Scanner started a personal convenience project that evolved into a tool to empower Geo-Instrument's field technicians.  
-We faced many challenges working in remote locations, and this caused delays in Client communication. I created Sitecheck Scanner to help field technicians stay updated with their current status, and facilitate teamwork. 
+We faced many challenges working in remote locations, and this caused delays in Client communication.  
+I created Sitecheck Scanner to help field technicians stay updated with their current status, and facilitate Issue Handoff. 
 
 
     This was my answer to the question: "How can I improve Incident response?"
@@ -119,15 +119,15 @@ We faced many challenges working in remote locations, and this caused delays in 
 
 ### What Sitecheck Scanner Offers:
 
-1. **Visual Tour Creation**: Sitecheck Scanner creates engaging visual tours for different Geotechnical monitoring platforms, simplifying site assessments.
+1. **Visual Tour Creation**: Sitecheck Scanner creates visual tours for different Geotechnical monitoring platforms, simplifying site checks.
 
-1. **Field Technician's Best Friend**: Sitecheck Scanner offers real-time alerts for sensor status changes, missed readings, and setup errors while navigating plan views, streamlining your tasks.
+1. **Field Technician's Best Friend**: Sitecheck Scanner offers real-time alerts for sensor status changes, missed readings, and setup errors while navigating plan views.
 
-1. **Microsoft Teams Integration**:  I've integrated Microsoft Teams with Adaptive Cards, enabling seamless issue tracking and resolution in the field without disrupting customer interactions.
+1. **Microsoft Teams Integration**:  Integrated with Microsoft Teams, enabling seamless issue tracking and resolution in the field without disrupting customer interactions.
 
 1. **SQL Database Watchdog**: Sitecheck Scanner ensures data integrity by monitoring both front-end and SQL databases, providing alerts for missing sensors.
 
-1. **Reducing Human Error**:  I've introduced decentralized database access to minimize human errors when accessing backend servers, ensuring the utmost data accuracy.
+1. **Reducing Human Error**:  introduced decentralized database access to minimize human errors when accessing backend servers, reducing Downtime.
 
 <!-- ![Alt Text](assets/geo/ExampleSitecheckScannerTeamsCardGeneration.jpg) 
 <img src="assets/geo/ExampleSitecheckScannerTeamsCardGeneration.jpg" alt="Example Image" width="600" height="500">
@@ -168,10 +168,14 @@ SAA Timelapse Factory is a purpose-built ETL(Extract, transform, and load) produ
 ---
 ## WebSiteSetup Alignment Tool - Mousegrid
 
+Designed as an extendable framework for fine-grain mouse control.  
+Uses the Arrow keys and modifiers to shift by 1,10,100 pixels.  
+
 Features:  
 
-1. Manipulates mouse coordinates to help align Icons for data planview  
-1. Designed as an extendable framework for fine-grain mouse control  
+1. Manipulates mouse coordinates to help align Icons for Customer Planview  
+1. Set a default location to jump to before shifting
+1. Python script-able
 
       
 **Demo on YouTube**: [Watch it here](https://youtu.be/Z84uz_GfZas)  
