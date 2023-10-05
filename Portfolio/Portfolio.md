@@ -188,12 +188,20 @@ Features:
 ## Interface Panel - Dynamic Android Hotkeys   
 
 [Download on Taskernet](https://taskernet.com/shares/?user=AS35m8mBhJAezDTr0Lio7dopdLiBaKgozAOxoCXM7Mh8sS5hSvSst1kEMf5%2FJeJveB%2BsvU8%3D&id=Project%3AInterface)  
-- GUI for assigning scripts to Mobile device triggers such as Shake, Hardware buttons, NFC tags, and Voice commands.  
-- Used to assist in safely operating testing equipment in Industrial environments.  
-- Able to detect current job by closest address, and uses this for sorting data.  
-- "SOS button" mode to alert On-Site Safety Manager  
 
-  ![ExampleImage](assets/personal/InterfacePanelExample_Tasker.jpg)  
+
+Features:
+
+1. Control Panel for assigning scripts to Mobile device triggers such as:  
+    **Shake, Hardware buttons, NFC tags, and Voice commands**  
+1. Used to assist in operating Testing equipment in **Safely conscious** environments.  
+1. Able to detect current job by closest address, Sorting data accordingly.  
+1. **SOS button** mode to alert On-Site Safety Manager  
+
+  <div style="text-align:center;">
+  <img src="assets/personal/InterfacePanelExample_Tasker.jpg" alt="ExampleImage">
+  </div>
+
 
 ##  LnetFieldApp  
 Frontend:   
