@@ -2,13 +2,18 @@
 <img src="https://avatars.githubusercontent.com/u/48360111?v=4" alt="Dan Edens" width="200">  
 
 ## Contact Information
-DanEdens31@gmail.com
-(214)783 0309
-[Github/DanEdens](https://github.com/DanEdens)
+DanEdens31@gmail.com  
+[Github/DanEdens](https://github.com/DanEdens)  
 
-QA Automation Engineer
-Project Manager
-Site-reliability & Monitoring
+
+[Schedule a Call with Calendly](https://calendly.com/danedens)  
+
+
+---
+
+Automation Engineer  
+QA || SDET || SWD 
+Site-reliability & Monitoring  
 
 > This file is a GPT flattened version of https://codepen.io/danedens/full/ZExrjqV
     
@@ -36,11 +41,12 @@ Incomprehensive list of tools I have utilized in Production:
 [View My Portfolio on Github](https://github.com/DanEdens/Resume/tree/main/Portfolio)
 
 
-## Social Media
+## Website Links
 - [CodePen](https://codepen.io/danedens/full/ZExrjqV)
 - [GitHub](https://github.com/DanEdens/Resume)
 - [LinkedIn](https://www.linkedin.com/in/danedens/)
 - [Grepper](https://www.grepper.com/profile/dan-edens)
+
 
 
 ## Work Experience
