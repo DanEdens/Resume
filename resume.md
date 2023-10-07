@@ -87,7 +87,7 @@ Lead Prep team, Maintained Show-ready kitchen for Chili's Test location in Castl
  2. Mobile App for automatic Cooling logs, oven timer control, and recording accuracy of Daily On-hand Food Quantities.
 
 ### AMEC Earth & Environmental - Laboratory Technician
-08/2013 - 04/2014
+03/2013 - 03/2014
 
 Performed laboratory testing on concrete and soil samples.
 
@@ -100,7 +100,6 @@ Performed laboratory testing on concrete and soil samples.
 
 - Python
 - JavaScript
-- C#
 - REST
 - Linux/Shell
 - Automation
@@ -115,6 +114,7 @@ Performed laboratory testing on concrete and soil samples.
 - AWS  
 - Azure  
 - Gitlab  
+- Atlassian Stack
 - Self-Hosted Agents  
 - Databasing  
 - SQL  
