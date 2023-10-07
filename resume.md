@@ -1,6 +1,6 @@
 # Dan Edens
 
-#### Automation Engineer || QA || SDET || SWD ||Site-reliability & Monitoring  
+#### Automation Engineer || QA || SDET || SWD || Site-reliability & Monitoring  
 <img src="https://avatars.githubusercontent.com/u/48360111?v=4" alt="Dan Edens" width="200">  
 
 ## Contact Information
