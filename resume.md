@@ -1,4 +1,6 @@
 # Dan Edens
+
+#### Automation Engineer || QA || SDET || SWD ||Site-reliability & Monitoring  
 <img src="https://avatars.githubusercontent.com/u/48360111?v=4" alt="Dan Edens" width="200">  
 
 ## Contact Information
@@ -10,13 +12,6 @@ DanEdens31@gmail.com
 
 
 ---
-
-Automation Engineer  
-QA || SDET || SWD 
-Site-reliability & Monitoring  
-
-> This file is a GPT flattened version of https://codepen.io/danedens/full/ZExrjqV
-    
 
 ## About Me
 Self Sufficient and Driven Software Engineer with a focus on Automation.
