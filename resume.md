@@ -18,8 +18,8 @@ Self Sufficient and Driven Software Engineer with a focus on Automation.
 
 - Experienced leading Teams, or Operating Independently in high-stress Environments.
 - 5+ years Experience in Project Management and working Remotely.
-- 5+ years Experience in Python, JS, and Java development.
-- 3+ years Experience engineering DevOps Pipelines and developing Automated Testing Software.
+- 5+ years Experience in Python, JS, and Linux.
+- 3+ years Experience engineering DevOps Pipelines and developing Automated Testing Frameworks.
 
 Working as an Automation engineer has been characterized by a relentless pursuit of automation and efficiency in the realm of testing router firmware. This role, which blended my passion and career, allowed me to dive deep into the intricacies of networking technology and automation tools. I added value to Minim's Test practices by Reducing labor costs and improving transparency.
 
