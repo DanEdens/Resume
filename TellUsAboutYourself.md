@@ -35,14 +35,11 @@ A little extra effort is the key to repeat business.
 
 
 1. How do you set and achieve your goals?
-I am an evangelist for version control and build idea's much the same way I build software. When faced with a new project, I start off with a readme, where I define the goal and begin to story any reference material. I find Git commit messages the best way to record my thoughts about why I made a change, and the History makes it concrete. Building in "public" often helps me stay true to my personal time tables.
-
-<!-- I am an evangelist for version control, and I approach building ideas much the same way I build software. When faced with a new project, I begin with a README where I outline the goal and start to catalog any reference material. I find Git commit messages to be the most effective way to record my reasoning behind changes, and the history solidifies it. Building in "public" often helps me adhere to my personal timelines. -->
+I am an evangelist for version control, and I approach building ideas much the same way I build software. When faced with a new project, I begin with a README where I outline the goal and start to collect reference material. I find Git commit messages to be the best way to record my reasoning behind changes I make, and the history solidifies the train of thought. Building something in git as if in "public" helps me adhere to my timelines.
 
 
 1. How have you handled disagreements or differences in opinions with colleagues in the past?
-*
-I try to stay aware that there is 
+When in these situations, I try to stay aware that there are lots of things I don't know, and will likely try to find supporting information. After that, I would try to get a neutral person's opinion.  
 
 1. How would you previous leader/manager describe you? Why?
 I have a recent recommendation that I'm 
@@ -52,20 +49,25 @@ I have a recent recommendation that I'm
 
 
 
+<!-- By being as open as possible with those involved, and  -->
 
 1. How do you deal with uncertainty, ambiguity, and change?
-*
+I keep a careful record of what I do in uncharted territory, so that when things do go wrong, I can track down why. 
+
 
 
 1. When is it ok to quit?
-*
-
+Tough one, I think quitting is justifiable if personal safety is jeopardized, ethical boundaries are regularly crossed, or when a project diverges significantly from its original scope. 
 
 1. What do you enjoy engaging in when you have time for yourself?
-*
+my Wife and I have been in New England for just over 2 years, and  are still excitedly exploring all the state parks. I also enjoy Military-SciFi Audiobooks, 
 
 
 1. What personal projects are you working on currently?
-*
-custom chatbot
+A colleague and I are working on a custom chatbot designed to refactor code directory-wide and to handle various project-specific usages of the ChatGPT API. The chatbot features an Angular front end, is built on Swagger, and maintains a local chat history via PostgreSQL. 
+
+I am also developing an MQTT plugin for the VR mind mapping software, Noda. I also hope to integrate it with Jira. 
+
+Lastly, I've been studying a new programming language called Mojo, in hopes of rebuilding my favorite defunct software, EventGhost, an open-source automation platform for Windows.
+
 
