@@ -41,6 +41,7 @@ Incomprehensive list of tools I have utilized in Production:
 - [GitHub](https://github.com/DanEdens/Resume)
 - [LinkedIn](https://www.linkedin.com/in/danedens/)
 - [Grepper](https://www.grepper.com/profile/dan-edens)
+- [Taskernet]([https://www.grepper.com/profile/dan-edens](https://taskernet.com/?user=AS35m8mBhJAezDTr0Lio7dopdLiBaKgozAOxoCXM7Mh8sS5hSvSst1kEMf5%2FJeJveB%2BsvU8%3D))
 
 
 
